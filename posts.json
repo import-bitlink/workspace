@@ -1,7 +1,13 @@
-[
-	"objects" : {
-		"id": 1, 
-		"title": "Title 1"
-	}
-
-]
+{"Adress": [],
+"Object": [{"next-date": "2017-10-30T11:00:00Z",
+            "text-sample": "Some text",
+            "image-path": ["photo1.png", "photo2.png"],
+            "email": "john.doe@test.com",
+            "id": "27"},
+          {"next-date": "2017-10-30T09:00:00Z",
+           "text-sample": "Test Test",
+           "image-path": ["image1.png"],
+           "email": "name.lastename@doe.com",
+           "id": "28"}
+           ]
+}
