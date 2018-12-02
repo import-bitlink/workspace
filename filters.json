@@ -15,8 +15,8 @@
             "array": ["A", "B", "C", "D", "E", "F", "G", "H"],
             "active": true            
             },{"title": "Civil War Years",
-            "beginningYear": "1961",
-            "endingYear": "1965",
+            "beginningYear": "1861",
+            "endingYear": "1865",
             "array": ["A", "B", "C", "D", "E", "F", "G", "H"],
             "active": true
             },{"title": "Nixon Years",
