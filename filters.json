@@ -1,11 +1,38 @@
 {"Adress": [],
-"Object": [{"title": "Civil War Years",
-            "beginningYear": "1961",
-            "endingYear": "1965",
-            "array": ["A", "B", "C", "D", "E", "F", "G", "H"]
+"Object": [{"title": "Safe Space 🇺🇸",
+            "beginningYear": "",
+            "endingYear": "",
+            "array": ["A", "B", "C", "D", "E", "F", "G", "H"],
+            "active": true            
             },{"title": "Today in history",
             "beginningYear": "",
             "endingYear": "",
-            "array": ["A", "B", "C", "D", "E", "F", "G", "H"]
+            "array": ["A", "B", "C", "D", "E", "F", "G", "H"],
+            "active": true            
+            },{"title": "American Revolution",
+            "beginningYear": "1772",
+            "endingYear": "1790",
+            "array": ["A", "B", "C", "D", "E", "F", "G", "H"],
+            "active": true            
+            },{"title": "Civil War Years",
+            "beginningYear": "1961",
+            "endingYear": "1965",
+            "array": ["A", "B", "C", "D", "E", "F", "G", "H"],
+            "active": true
+            },{"title": "Nixon Years",
+            "beginningYear": "1968",
+            "endingYear": "1975",
+            "array": ["A", "B", "C", "D", "E", "F", "G", "H"],
+            "active": true            
+            },{"title": "Donald Trump Twitter",
+            "beginningYear": "",
+            "endingYear": "",
+            "array": ["A", "B", "C", "D", "E", "F", "G", "H"],
+            "active": false
+            },{"title":  "Game Of Thrones: Filming & Releases",
+            "beginningYear": "",
+            "endingYear": "",
+            "array": ["A", "B", "C", "D", "E", "F", "G", "H"],
+            "active": false           
             }]
 }
