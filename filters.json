@@ -2,27 +2,27 @@
 "data": [{"title": "Safe Space 🇺🇸",
             "before": "",
             "after": "",
-            "subreddit":"",
+            "subreddit":[],
             "active": true            
             },{"title": "Today in history",
             "before": "",
             "after": "",
-            "subreddit":"",
+            "subreddit":[],
             "active": true            
             },{"title": "American Revolution",
             "before": "-6248257200",
             "after": "-5680177200",
-            "subreddit":"",
+            "subreddit":[],
             "active": true            
             },{"title": "Civil War Years",
             "before": "-3439652400",
             "after": "-3281886000",
-            "subreddit":"",
+            "subreddit":[],
             "active": true
             },{"title": "Nixon Years",
             "before": "-63140400",
             "after": "189320400",
-            "subreddit":"",
+            "subreddit":[],
             "active": true            
             },{"title": "Trump's America",
             "before": "1446350400",
@@ -32,7 +32,7 @@
             },{"title":  "Game Of Thrones: Filming & Releases",
             "before": "",
             "after": "",
-            "subreddit":"",
+            "subreddit":[],
             "active": false           
             }]
 }
