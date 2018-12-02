@@ -1,15 +1,15 @@
 {"Adress": [],
-"Object": [{"next-date": "2019-06-30T11:00:00Z",
-            "text-sample": "Join us for ...",
-            "marker-path": "BBLY_0418.jpg",
-            "image-path": ["ARBottom-0.png", "ARBottom-1.png", "ARBottom-2.png", "ARBottom.png", "ARTop-0.png", "ARTop-1.png", "ARTop-2.png", "ARTop-3.png"],
-            "email": "mybitlink@gmail.com",
-            "id": "0418"},
-          {"next-date": "2018-10-30T09:00:00Z",
-           "text-sample": "Test Test",
-           "marker-path": "BBLY_0400.jpg",
-           "image-path": ["image1.png"],
-           "email": "name.lastename@doe.com",
-           "id": "0400"}
-           ]
+"Object": [{"title": "Civil War Years",
+            "beginningYear": 1961,
+            "endingYear": 1965,
+            "array": ["A", "B", "C", "D", "E", "F", "G", "H"]
+            },{"title": "Civil War years",
+            "beginningYear": 1961,
+            "endingYear": 1965,
+            "array": ["A", "B", "C", "D", "E", "F", "G", "H"]
+            }{"title": "Today in history",
+            "beginningYear": 0,
+            "endingYear": 0,
+            "array": ["A", "B", "C", "D", "E", "F", "G", "H"]
+            }]
 }
