@@ -1,11 +1,11 @@
 {"Adress": [],
 "Object": [{"title": "Civil War Years",
-            "beginningYear": 1961,
-            "endingYear": 1965,
+            "beginningYear": "1961",
+            "endingYear": "1965",
             "array": ["A", "B", "C", "D", "E", "F", "G", "H"]
             },{"title": "Today in history",
-            "beginningYear": 0,
-            "endingYear": 0,
+            "beginningYear": "",
+            "endingYear": "",
             "array": ["A", "B", "C", "D", "E", "F", "G", "H"]
             }]
 }
