@@ -1,5 +1,5 @@
 {
-      [{"id": "20181030ID1000000G",
+      "data": [{"id": "20181030ID1000000G",
            "title": "Today in history",
            "description": "something descriptive here",
            "dataURL":"https://github.com/import-bitlink/workspace/blob/develop/events/today.json",
