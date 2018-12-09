@@ -1,5 +1,5 @@
 {
-      [{"id": "20181030ID1000000G",
+      {"id": "20181030ID1000000G",
            "title": "Today in history",
            "description": "something descriptive here",
            "dataURL":"https://github.com/import-bitlink/workspace/blob/develop/events/today.json",
@@ -34,5 +34,5 @@
            "description": "something descriptive here",
            "dataURL":"https://github.com/import-bitlink/workspace/blob/develop/events/individual1.json",
            "isActive": true,
-           "date": "2019-06-30T11:00:00Z"}]
+           "date": "2019-06-30T11:00:00Z"
 }
