@@ -1,6 +1,12 @@
 {
-      "data": [{"title": "Today in history"},
-             {"title": "Today in history"},
-             {"title": "Today in history"}]
-
+  "data" : [
+    {
+    "id" : "20181030ID1000000G",
+    "title" : "Today in history"
+    },
+    {
+    "id" : "20181030ID1000000G",
+    "title" : "American Revolution"
+    }
+  ]
 }
