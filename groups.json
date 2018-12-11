@@ -1,12 +1,38 @@
 {
-  "data" : [
-    {
-    "id" : "20181030ID1000000G",
-    "title" : "Today in history"
-    },
-    {
-    "id" : "20181030ID1000000G",
-    "title" : "American Revolution"
-    }
-  ]
+  "data" : [{"id": "20181030ID1000000G",
+           "title": "Today in history",
+           "description": "something descriptive here",
+           "dataURL":"https://github.com/import-bitlink/workspace/blob/develop/events/today.json",
+           "isActive": true,
+           "date": "2019-06-30T11:00:00Z"},
+       {"id": "20181030ID1000000G",
+           "title": "American Revolution",
+           "description": "something descriptive here",
+           "dataURL":"https://github.com/import-bitlink/workspace/blob/develop/events/amrev.json",
+           "isActive": true,
+           "date": "2019-06-30T11:00:00Z"},
+       {"id": "20181030ID1000000G",
+           "title": "Civil War Years",
+           "description": "something descriptive here",
+           "dataURL":"https://github.com/import-bitlink/workspace/blob/develop/events/civilwar.json",
+           "isActive": true,
+           "date": "2019-06-30T11:00:00Z"},
+       {"id": "20181030ID1000000G",
+           "title": "Nixon Years",
+           "description": "something descriptive here",
+           "dataURL":"https://github.com/import-bitlink/workspace/blob/develop/events/nixon.json",
+           "isActive": true,
+           "date": "2019-06-30T11:00:00Z"},
+       {"id": "20181030ID1000000G",
+           "title": "On this day...",
+           "description": "something descriptive here",
+           "dataURL":"https://github.com/import-bitlink/workspace/blob/develop/events/otd.json",
+           "isActive": true,
+           "date": "2019-06-30T11:00:00Z"},
+       {"id": "20181030ID1000000G",
+           "title": "Individual-1 Tweets",
+           "description": "something descriptive here",
+           "dataURL":"https://github.com/import-bitlink/workspace/blob/develop/events/individual1.json",
+           "isActive": true,
+           "date": "2019-06-30T11:00:00Z"}]
 }
