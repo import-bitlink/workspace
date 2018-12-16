@@ -3,7 +3,7 @@
       {"id" : "20181030ID1000000G",
            "title" : "Today in history",
            "description" : "something descriptive here",
-           "dataURL" : ["https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/today.json"],
+           "dataURL" : ["https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/ev.json"],
            "dataType" : "event",
            "isActive" : false,
            "date" : "2019-06-30T11:00:00Z"},
