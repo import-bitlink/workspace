@@ -4,7 +4,7 @@
            "title" : "Today in history",
            "description" : "something descriptive here",
            "dataURL" : ["https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/ev.json"],
-           "dataType" : "event",
+           "dataType" : "wiki",
            "isActive" : true,
            "date" : "2019-06-30T11:00:00Z"},
        {"id" : "20181030ID1000001A",
@@ -12,7 +12,7 @@
            "description" : "allTweets",
            "dataURL" : [                  
             ],
-           "dataType" : "twtr",
+           "dataType" : "twitter",
            "isActive" : true,
            "date" : "2019-06-30T11:00:00Z"},
        {"id" : "20181030ID1000001G",
@@ -58,7 +58,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/individual1/2017.json",
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/individual1/2018.json"
             ],
-           "dataType" : "twtr",
+           "dataType" : "twitter",
            "isActive" : true,
            "date" : "2019-06-30T11:00:00Z"},
            {"id" : "20181030ID1000006G",
@@ -75,7 +75,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/citizens_united/2016.json",
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/citizens_united/2017.json"
             ],
-           "dataType" : "twtr",
+           "dataType" : "twitter",
            "isActive" : true,
            "date" : "2019-06-30T11:00:00Z"},
            {"id" : "20181030ID1000007G",
@@ -92,7 +92,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/donaldjtrumpjr/2016.json",
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/donaldjtrumpjr/2017.json"
             ],
-           "dataType" : "twtr",
+           "dataType" : "twitter",
            "isActive" : true,
            "date" : "2019-06-30T11:00:00Z"},
            {"id" : "20181030ID1000008G",
@@ -109,7 +109,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/seanhannity/2016.json",
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/seanhannity/2017.json"
             ],
-           "dataType" : "twtr",
+           "dataType" : "twitter",
            "isActive" : true,
            "date" : "2019-06-30T11:00:00Z"},
            {"id" : "20181030ID1000009G",
@@ -126,7 +126,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/erictrump/2016.json",
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/erictrump/2017.json"
             ],
-           "dataType" : "twtr",
+           "dataType" : "twitter",
            "isActive" : true,
            "date" : "2019-06-30T11:00:00Z"},
            {"id" : "20181030ID1000010G",
@@ -143,7 +143,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/michaelcohen212/2016.json",
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/michaelcohen212/2017.json"
             ],
-           "dataType" : "twtr",
+           "dataType" : "twitter",
            "isActive" : true,
            "date" : "2019-06-30T11:00:00Z"},
        {"id" : "20181030ID1000011G",
@@ -161,7 +161,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/stephenbannon/2017.json",
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/stephenbannon/2018.json"
             ],
-           "dataType" : "twtr",
+           "dataType" : "twitter",
            "isActive" : true,
            "date" : "2019-06-30T11:00:00Z"},
        {"id" : "20181030ID1000012G",
@@ -179,7 +179,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/rogerjstonejr/2017.json",
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/rogerjstonejr/2018.json"
             ],
-           "dataType" : "twtr",
+           "dataType" : "twitter",
            "isActive" : true,
            "date" : "2019-06-30T11:00:00Z"},
        {"id" : "20181030ID1000013G",
@@ -197,7 +197,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/repmickmulvaney/2017.json",
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/repmickmulvaney/2018.json"
             ],
-           "dataType" : "twtr",
+           "dataType" : "twitter",
            "isActive" : true,
            "date" : "2019-06-30T11:00:00Z"},
        {"id" : "20181030ID1000014G",
@@ -215,7 +215,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/repmikepompeo/2017.json",
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/repmikepompeo/2018.json"
             ],
-           "dataType" : "twtr",
+           "dataType" : "twitter",
            "isActive" : true,
            "date" : "2019-06-30T11:00:00Z"},
        {"id" : "20181030ID1000015G",
@@ -233,7 +233,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/reince/2017.json",
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/reince/2018.json"
             ],
-           "dataType" : "twtr",
+           "dataType" : "twitter",
            "isActive" : true,
            "date" : "2019-06-30T11:00:00Z"},
        {"id" : "20181030ID1000016G",
@@ -251,7 +251,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/presssec/2017.json",
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/presssec/2018.json"
             ],
-           "dataType" : "twtr",
+           "dataType" : "twitter",
            "isActive" : true,
            "date" : "2019-06-30T11:00:00Z"},
        {"id" : "20181030ID1000017G",
@@ -269,7 +269,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/potus/2017.json",
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/potus/2018.json"
             ],
-           "dataType" : "twtr",
+           "dataType" : "twitter",
            "isActive" : true,
            "date" : "2019-06-30T11:00:00Z"},
        {"id" : "20181030ID1000018G",
@@ -287,7 +287,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/marcorubio/2017.json",
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/marcorubio/2018.json"
             ],
-           "dataType" : "twtr",
+           "dataType" : "twitter",
            "isActive" : true,
            "date" : "2019-06-30T11:00:00Z"},
        {"id" : "20181030ID1000019G",
@@ -305,7 +305,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/lindseygrahamsc/2017.json",
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/lindseygrahamsc/2018.json"
             ],
-           "dataType" : "twtr",
+           "dataType" : "twitter",
            "isActive" : true,
            "date" : "2019-06-30T11:00:00Z"},
        {"id" : "20181030ID1000020G",
@@ -323,7 +323,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/kellyannepolls/2017.json",
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/kellyannepolls/2018.json"
             ],
-           "dataType" : "twtr",
+           "dataType" : "twitter",
            "isActive" : true,
            "date" : "2019-06-30T11:00:00Z"},
        {"id" : "20181030ID1000021G",
@@ -341,7 +341,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/ivankatrump/2017.json",
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/ivankatrump/2018.json"
             ],
-           "dataType" : "twtr",
+           "dataType" : "twitter",
            "isActive" : true,
            "date" : "2019-06-30T11:00:00Z"},
        {"id" : "20181030ID1000022G",
@@ -359,7 +359,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/genflynn/2017.json",
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/genflynn/2018.json"
             ],
-           "dataType" : "twtr",
+           "dataType" : "twitter",
            "isActive" : true,
            "date" : "2019-06-30T11:00:00Z"},
        {"id" : "20181030ID1000023G",
@@ -377,7 +377,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/hillaryclinton/2017.json",
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/hillaryclinton/2018.json"
             ],
-           "dataType" : "twtr",
+           "dataType" : "twitter",
            "isActive" : true,
            "date" : "2019-06-30T11:00:00Z"}
      ]
