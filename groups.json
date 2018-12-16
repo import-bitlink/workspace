@@ -36,7 +36,7 @@
            "isActive" : true,
            "date" : "2019-06-30T11:00:00Z"},
        {"id" : "20181030ID1000005G",
-           "title" : "Individual-1 Tweets",
+           "title" : "Donald J Trump, Sr Tweets",
            "description" : "realdonaldtrump",
            "dataURL" : [
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/individual1/2009.json",
