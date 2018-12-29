@@ -29,6 +29,18 @@
            "dataType" : "event",
            "isActive" : false,
            "date" : "2019-06-30T11:00:00Z"},
+      {"id" : "20181030ID9000008G",
+           "title" : "Barstool Sports",
+           "description" : "barstoolsports",
+           "dataURL" : [
+                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/barstoolsports/2015.json",
+                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/barstoolsports/2016.json",
+                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/barstoolsports/2017.json",
+                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/barstoolsports/2018.json"
+            ],
+           "dataType" : "twitter",
+           "isActive" : true,
+           "date" : "2019-06-30T11:00:00Z"},
        {"id" : "20181030ID1000002G",
            "title" : "Civil War Years",
            "description" : "something descriptive here",
