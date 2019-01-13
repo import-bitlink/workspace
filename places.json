@@ -1,0 +1,18 @@
+{
+  "data" : [
+     {"id" : "20191010ID0000001P",
+           "title" : "Woolworth Building",
+           "description" : "The Woolworth Building, one of New York's best known tall buildings, is among the most famous skyscrapers in the United States. The tallest building in the world on its completion in 1913, Cass Gilberts graceful, Gothic-style, terra-cotta clad, sixty-story tower became the prototype for the tall romantic skyscraper that permanently transformed the skyline of New York and become the most potent image of twentieth-century urban America. Built as the headquarters of F.W. Woolworth's five-and-ten empire, the Woolworth Building became a symbol not just of Woolworth's personal success, but also of the new twentieth-century phenonmenon of mass commerce. At its grand opening, during which President Wilson in Washington pushed a button to signal the lighting of the structure in New Yorlz, the Rev. S. Parkes Cadman christened the Woolworth Building the Cathedral of Commerce. The Woolworth Building stands as a watershed in the history of the American skyscraper. It is both the culmination of the early development of the tall office building that began before 1880, and the model-- in terms of height, profile, corporate symbolism, and romantic presence -- for the skyscrapers of the great building boom of the post-World War I era that culminated in the Chrysler and Empire State Buildings. Although long since stripped of its "world's tallest" title, the Woolworth Building remains one of the great symbols of twentieth-century America, and one of New York's and the country's outstanding landmarks.",
+           "dataURL" : [
+                  "http://s-media.nyc.gov/agencies/lpc/lp/1121.pdf",
+                  "http://s-media.nyc.gov/agencies/lpc/lp/1273.pdf"
+            ],
+           "dataType" : "place",
+           "location" : [
+                  "latitude" : "40.712447",
+                  "longitude" : "-74.008382"
+           ],           
+           "isActive" : true,
+           "date" : "2019-01-01T00:00:00Z"}
+     ]
+}
