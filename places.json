@@ -7,7 +7,11 @@
                   "http://s-media.nyc.gov/agencies/lpc/lp/1121.pdf",
                   "http://s-media.nyc.gov/agencies/lpc/lp/1273.pdf"
             ],
-           "dataType" : "place",                  
+           "dataType" : "place",         
+           "location" : [{
+                  "latitude" : "40.712447",
+                  "longitude" : "-74.008382"
+           }],          
            "isActive" : true,
            "date" : "2019-01-01T00:00:00Z"}
      ]
