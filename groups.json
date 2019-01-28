@@ -29,6 +29,16 @@
            "dataType" : "event",
            "isActive" : false,
            "date" : "2019-06-30T11:00:00Z"},
+       {"id" : "20181030ID9000408G",
+           "title" : "Ann Coulter",
+           "description" : "AnnCoulter",
+           "dataURL" : [
+                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/AnnCoulter/2015.json",
+                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/AnnCoulter/2016.json"
+            ],
+           "dataType" : "twitter",
+           "isActive" : true,
+           "date" : "2019-06-30T11:00:00Z"},
       {"id" : "20181030ID9000008G",
            "title" : "Barstool Sports",
            "description" : "barstoolsports",
