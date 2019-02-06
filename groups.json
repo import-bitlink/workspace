@@ -66,6 +66,28 @@
             ],
            "dataType" : "twitter",
            "isActive" : true,
+           "date" : "2019-06-30T11:00:00Z"},       
+       {"id" : "20181030ID9002508G",
+           "title" : "Katy Tur",
+           "description" : "KatyTurNBC",
+           "dataURL" : [
+                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/KatyTurNBC/2016.json",
+                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/KatyTurNBC/2017.json"
+            ],
+           "dataType" : "twitter",
+           "isActive" : true,
+           "date" : "2019-06-30T11:00:00Z"},       
+       {"id" : "20181030ID9001508G",
+           "title" : "BBC World",
+           "description" : "BBCWorld",
+           "dataURL" : [
+                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/BBCWorld/2016.json",
+                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/BBCWorld/2016b.json",
+                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/BBCWorld/2016c.json",
+                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/BBCWorld/2016d.json"
+            ],
+           "dataType" : "twitter",
+           "isActive" : true,
            "date" : "2019-06-30T11:00:00Z"},
       {"id" : "20181030ID9000008G",
            "title" : "Barstool Sports",
