@@ -77,6 +77,16 @@
            "dataType" : "twitter",
            "isActive" : true,
            "date" : "2019-06-30T11:00:00Z"},       
+       {"id" : "20181030ID9003508G",
+           "title" : "Maggie Haberman",
+           "description" : "MaggieNYT",
+           "dataURL" : [
+                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/MaggieNYT/2016.json",
+                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/MaggieNYT/2017.json"
+            ],
+           "dataType" : "twitter",
+           "isActive" : true,
+           "date" : "2019-06-30T11:00:00Z"},       
        {"id" : "20181030ID9001508G",
            "title" : "BBC World",
            "description" : "BBCWorld",
