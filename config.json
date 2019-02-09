@@ -1,0 +1,14 @@
+{
+  "data" : [
+      {    "version" : "2.02",
+           "appName" : "Underscore",
+           "credits" : 3,
+           "groupURL" : [
+           		"https://raw.githubusercontent.com/import-bitlink/workspace/develop/group_tih.json",
+           		"https://raw.githubusercontent.com/import-bitlink/workspace/develop/groups.json"
+           ],
+           "region" : "stockholm",
+           "killswitch" : false,
+           "date" : "2020-01-01T00:00:00Z"}
+     ]
+}
