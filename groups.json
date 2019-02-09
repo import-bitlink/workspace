@@ -1,14 +1,5 @@
 {
   "data" : [
-      {"id" : "20181030ID1000000G",
-           "title" : "Today in history",
-           "description" : "something descriptive here",
-           "dataURL" : ["https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/ev.json"],
-           "dataType" : "wiki",
-           "isActive" : false,
-           "numPosts" : 30000,
-           "host" : "udsr",
-           "date" : "2019-06-30T11:00:00Z"},
        {"id" : "20181030ID1000001A",
            "title" : "All Tweets",
            "description" : "allTweets",
