@@ -75,7 +75,7 @@
            "host" : "udsr",
            "date" : "2020-01-01T00:00:00Z"},
       {"id" : "20171060TH1000000P",
-           "title" : "The Information Age",
+           "title" : "The Information Age (1992-)",
            "description" : "The Information Age is a historic period in the 21st century characterized by the rapid shift from traditional industry that the Industrial Revolution brought through industrialization, to an economy based on information technology.",
            "dataURL" : [
               "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/tih/informationage0.json",
