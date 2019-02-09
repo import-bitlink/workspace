@@ -5,8 +5,7 @@
            "description" : "The Dark Ages (also called Middle Ages) – Lasted from the 5th to the 15th century. It began with the collapse of the Western Roman Empire in 476 and is variously demarcated by historians as ending with the Fall of Constantinople in 1453, merging into the Renaissance and the Age of Discovery.",
            "dataURL" : [
               "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/tih/darkages0.json",
-              "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/tih/darkages1.json",
-              "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/tih/darkages2.json"
+              "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/tih/darkages1.json"
             ],
            "dataType" : "wiki",
            "isActive" : true,
