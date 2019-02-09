@@ -18,7 +18,7 @@
            "description" : "something descriptive here",
            "dataURL" : ["https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/ev.json"],
            "dataType" : "wiki",
-           "isActive" : true,
+           "isActive" : false,
            "numPosts" : 26595,
            "host" : "udsr",
            "date" : "2019-06-30T11:00:00Z"},      
