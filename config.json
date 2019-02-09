@@ -9,6 +9,9 @@
            ],
            "region" : "stockholm",
            "killswitch" : false,
+           "feature" : [
+              "underscore.true"
+           ],
            "date" : "2020-01-01T00:00:00Z"}
      ]
 }
