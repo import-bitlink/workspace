@@ -3,7 +3,7 @@
       {    "version" : "2.02",
            "appName" : "Underscore",
            "credits" : 3,
-           "groupURL" : [
+           "dataURL" : [
            		"https://raw.githubusercontent.com/import-bitlink/workspace/develop/group_tih.json",
            		"https://raw.githubusercontent.com/import-bitlink/workspace/develop/groups.json"
            ],
