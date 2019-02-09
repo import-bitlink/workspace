@@ -6,6 +6,7 @@
            "dataURL" : [                  
             ],
            "dataType" : "twitter",
+           "category" : "All Tweets",
            "isActive" : false,
            "numPosts" : 0,
            "host" : "udsr",
@@ -26,6 +27,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/BoweryBoys/2018.json"
             ],
            "dataType" : "twitter",
+           "category" : "Travel",
            "isActive" : true,
            "numPosts" : 10597,
            "host" : "udsr",
@@ -44,6 +46,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/NatEnquirer/2018.json"
             ],
            "dataType" : "twitter",
+           "category" : "Publication",
            "isActive" : true,
            "numPosts" : 18826,
            "host" : "udsr",
@@ -64,6 +67,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/wikileaks/2018.json"
             ],
            "dataType" : "twitter",
+           "category" : "Publication",
            "isActive" : true,
            "numPosts" : 8794,
            "host" : "udsr",
@@ -83,6 +87,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/rogerkver/2018.json"
             ],
            "dataType" : "twitter",
+           "category" : "Crypto Currency",
            "isActive" : true,
            "numPosts" : 2801,
            "host" : "udsr",
@@ -95,6 +100,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/AnnCoulter/2016.json"
             ],
            "dataType" : "twitter",
+           "category" : "Relive 2016",
            "isActive" : true,
            "numPosts" : 7243,
            "host" : "udsr",
@@ -106,6 +112,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/PaulManafort/2016.json"
             ],
            "dataType" : "twitter",
+           "category" : "Relive 2016",
            "isActive" : false,
            "numPosts" : 113,
            "host" : "udsr",
@@ -118,6 +125,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/sacca/2016b.json"
             ],
            "dataType" : "twitter",
+           "category" : "Relive 2016",
            "isActive" : false,
            "numPosts" : 7906,
            "host" : "udsr",
@@ -130,6 +138,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/KatyTurNBC/2017.json"
             ],
            "dataType" : "twitter",
+           "category" : "Relive 2016",
            "isActive" : false,
            "numPosts" : 4099,
            "host" : "udsr",
@@ -142,6 +151,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/MaggieNYT/2017.json"
             ],
            "dataType" : "twitter",
+           "category" : "Relive 2016",
            "isActive" : false,
            "numPosts" : 1221,
            "host" : "udsr",
@@ -154,6 +164,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/NYTimes/2016b.json"
             ],
            "dataType" : "twitter",
+           "category" : "Relive 2016",
            "isActive" : false,
            "numPosts" : 5890,
            "host" : "udsr",
@@ -165,6 +176,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/RT_com/2016.json"
             ],
            "dataType" : "twitter",
+           "category" : "Relive 2016",
            "isActive" : false,
            "numPosts" : 5920,
            "host" : "udsr",
@@ -179,6 +191,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/BBCWorld/2016d.json"
             ],
            "dataType" : "twitter",
+           "category" : "Relive 2016",
            "isActive" : false,
            "numPosts" : 13890,
            "host" : "udsr",
@@ -193,6 +206,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/barstoolsports/2018.json"
             ],
            "dataType" : "twitter",
+           "category" : "Publication",
            "isActive" : true,
            "numPosts" : 3384,
            "host" : "udsr",
@@ -213,6 +227,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/individual1/2018.json"
             ],
            "dataType" : "twitter",
+           "category" : "Politics",
            "isActive" : true,
            "numPosts" : 35785,
            "host" : "udsr",
@@ -232,6 +247,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/citizens_united/2017.json"
             ],
            "dataType" : "twitter",
+           "category" : "Politics",
            "isActive" : true,
            "numPosts" : 9584,
            "host" : "udsr",
@@ -251,6 +267,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/donaldjtrumpjr/2017.json"
             ],
            "dataType" : "twitter",
+           "category" : "Politics",
            "isActive" : true,
            "numPosts" : 15481,
            "host" : "udsr",
@@ -270,6 +287,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/seanhannity/2017.json"
             ],
            "dataType" : "twitter",
+           "category" : "Politics",
            "isActive" : true,
            "numPosts" : 32710,
            "host" : "udsr",
@@ -289,6 +307,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/erictrump/2017.json"
             ],
            "dataType" : "twitter",
+           "category" : "Politics",
            "isActive" : true,
            "numPosts" : 3714,
            "host" : "udsr",
@@ -308,6 +327,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/michaelcohen212/2017.json"
             ],
            "dataType" : "twitter",
+           "category" : "Politics",
            "isActive" : true,
            "numPosts" : 5485,
            "host" : "udsr",
@@ -328,6 +348,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/stephenbannon/2018.json"
             ],
            "dataType" : "twitter",
+           "category" : "Politics",
            "isActive" : true,
            "numPosts" : 5752,
            "host" : "udsr",
@@ -348,6 +369,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/rogerjstonejr/2018.json"
             ],
            "dataType" : "twitter",
+           "category" : "Politics",
            "isActive" : true,
            "numPosts" : 25511,
            "host" : "udsr",
@@ -368,6 +390,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/repmickmulvaney/2018.json"
             ],
            "dataType" : "twitter",
+           "category" : "Politics",
            "isActive" : true,
            "numPosts" : 1436,
            "host" : "udsr",
@@ -388,6 +411,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/repmikepompeo/2018.json"
             ],
            "dataType" : "twitter",
+           "category" : "Politics",
            "isActive" : true,
            "numPosts" : 4071,
            "host" : "udsr",
@@ -408,6 +432,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/reince/2018.json"
             ],
            "dataType" : "twitter",
+           "category" : "Politics",
            "isActive" : true,
            "numPosts" : 10129,
            "host" : "udsr",
@@ -428,6 +453,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/presssec/2018.json"
             ],
            "dataType" : "twitter",
+           "category" : "Politics",
            "isActive" : true,
            "numPosts" : 1550,
            "host" : "udsr",
@@ -448,6 +474,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/potus/2018.json"
             ],
            "dataType" : "twitter",
+           "category" : "Politics",
            "isActive" : true,
            "numPosts" : 1797,
            "host" : "udsr",
@@ -468,6 +495,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/marcorubio/2018.json"
             ],
            "dataType" : "twitter",
+           "category" : "Politics",
            "isActive" : true,
            "numPosts" : 6932,
            "host" : "udsr",
@@ -488,6 +516,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/lindseygrahamsc/2018.json"
             ],
            "dataType" : "twitter",
+           "category" : "Politics",
            "isActive" : true,
            "numPosts" : 6434,
            "host" : "udsr",
@@ -508,6 +537,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/kellyannepolls/2018.json"
             ],
            "dataType" : "twitter",
+           "category" : "Politics",
            "isActive" : true,
            "numPosts" : 6089,
            "host" : "udsr",
@@ -528,6 +558,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/ivankatrump/2018.json"
             ],
            "dataType" : "twitter",
+           "category" : "Politics",
            "isActive" : true,
            "numPosts" : 11852,
            "host" : "udsr",
@@ -548,6 +579,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/genflynn/2018.json"
             ],
            "dataType" : "twitter",
+           "category" : "Politics",
            "isActive" : true,
            "numPosts" : 1773,
            "host" : "udsr",
@@ -568,6 +600,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/hillaryclinton/2018.json"
             ],
            "dataType" : "twitter",
+           "category" : "Politics",
            "isActive" : true,
            "numPosts" : 7910,
            "host" : "udsr",
