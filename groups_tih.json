@@ -23,7 +23,7 @@
            "host" : "udsr",
            "date" : "2019-06-30T11:00:00Z"},      
       {"id" : "20171020TH1000000P",
-           "title" : "Early Modern Period (1453 – 1789)",
+           "title" : "Early Modern Period (1453 – 1763)",
            "description" : "It emerges from the Late Middle Ages (c. 1500), demarcated by historians as beginning with the Fall of Constantinople in 1453, in forms such as the Italian Renaissance in the West, the Ming Dynasty in the East, and the rise of the Aztec in the New World. The period ends with the beginning of the Age of Revolutions.",
            "dataURL" : [
               "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/tih/earlymodern0.json",
@@ -36,7 +36,7 @@
            "host" : "udsr",
            "date" : "2020-01-01T00:00:00Z"},
       {"id" : "20171030TH1000000P",
-           "title" : "Long Nineteenth Century (1790–1914)",
+           "title" : "Revolutionary Era, Civil War and Industrial Age (1764–1914)",
            "description" : "Beginning approximately in the mid-18th century; notable historical milestones included the French Revolution, the American Revolution, the Industrial Revolution and the Great Divergence.",
            "dataURL" : [
               "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/tih/ninteenthcentury0.json",
