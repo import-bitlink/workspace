@@ -12,7 +12,7 @@
            "host" : "udsr",
            "date" : "2019-06-30T11:00:00Z"},
        {"id" : "20181030ID9000308G",
-           "title" : "Bowery Boys",
+           "title" : "Bowery Boys (NYC)",
            "description" : "BoweryBoys",
            "dataURL" : [
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/BoweryBoys/2009.json",
@@ -100,7 +100,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/AnnCoulter/2016.json"
             ],
            "dataType" : "twitter",
-           "category" : "Relive 2016",
+           "category" : "Relive Election 2016",
            "isActive" : true,
            "numPosts" : 7243,
            "host" : "udsr",
@@ -112,7 +112,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/PaulManafort/2016.json"
             ],
            "dataType" : "twitter",
-           "category" : "Relive 2016",
+           "category" : "Relive Election 2016",
            "isActive" : true,
            "numPosts" : 113,
            "host" : "udsr",
@@ -125,7 +125,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/sacca/2016b.json"
             ],
            "dataType" : "twitter",
-           "category" : "Relive 2016",
+           "category" : "Relive Election 2016",
            "isActive" : true,
            "numPosts" : 7906,
            "host" : "udsr",
@@ -138,7 +138,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/KatyTurNBC/2017.json"
             ],
            "dataType" : "twitter",
-           "category" : "Relive 2016",
+           "category" : "Relive Election 2016",
            "isActive" : true,
            "numPosts" : 4099,
            "host" : "udsr",
@@ -151,7 +151,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/MaggieNYT/2017.json"
             ],
            "dataType" : "twitter",
-           "category" : "Relive 2016",
+           "category" : "Relive Election 2016",
            "isActive" : true,
            "numPosts" : 1221,
            "host" : "udsr",
@@ -164,7 +164,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/NYTimes/2016b.json"
             ],
            "dataType" : "twitter",
-           "category" : "Relive 2016",
+           "category" : "Relive Election 2016",
            "isActive" : true,
            "numPosts" : 5890,
            "host" : "udsr",
@@ -176,7 +176,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/RT_com/2016.json"
             ],
            "dataType" : "twitter",
-           "category" : "Relive 2016",
+           "category" : "Relive Election 2016",
            "isActive" : true,
            "numPosts" : 5920,
            "host" : "udsr",
@@ -191,7 +191,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/BBCWorld/2016d.json"
             ],
            "dataType" : "twitter",
-           "category" : "Relive 2016",
+           "category" : "Relive Election 2016",
            "isActive" : true,
            "numPosts" : 13890,
            "host" : "udsr",
