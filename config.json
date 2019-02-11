@@ -10,7 +10,8 @@
            "region" : "stockholm",
            "killswitch" : false,
            "feature" : [
-              "underscoreToggle.true"
+              "UnderscoreToggle.true",
+              "StatusBarFontColor.true"
            ],
            "date" : "2020-01-01T00:00:00Z"}
      ]
