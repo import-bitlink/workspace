@@ -46,7 +46,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/NatEnquirer/2018.json"
             ],
            "dataType" : "twitter",
-           "category" : "News/Entertainment",
+           "category" : "News/Entertainment/Trash",
            "isActive" : true,
            "numPosts" : 18826,
            "host" : "udsr",
@@ -67,7 +67,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/wikileaks/2018.json"
             ],
            "dataType" : "twitter",
-           "category" : "News/Entertainment",
+           "category" : "News/Entertainment/Trash",
            "isActive" : true,
            "numPosts" : 8794,
            "host" : "udsr",
@@ -206,7 +206,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/barstoolsports/2018.json"
             ],
            "dataType" : "twitter",
-           "category" : "News/Entertainment",
+           "category" : "News/Entertainment/Trash",
            "isActive" : true,
            "numPosts" : 3384,
            "host" : "udsr",
