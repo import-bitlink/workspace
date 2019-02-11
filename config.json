@@ -11,7 +11,7 @@
            "killswitch" : false,
            "feature" : [
               "UnderscoreToggle.true",
-              "StatusBarFontColor.true"
+              "StatusBarFontColor.false"
            ],
            "date" : "2020-01-01T00:00:00Z"}
      ]
