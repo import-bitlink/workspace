@@ -211,7 +211,7 @@
            "numPosts" : 3384,
            "host" : "udsr",
            "date" : "2019-06-30T11:00:00Z"},
-       {"id" : "20181030ID1000005G",
+       {"id" : "0181030ID1000005G",
            "title" : "Donald J Trump, Sr. Tweets",
            "description" : "realdonaldtrump",
            "dataURL" : [
@@ -227,7 +227,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/individual1/2018.json"
             ],
            "dataType" : "twitter",
-           "category" : "Politics",
+           "category" : "The President of the United States",
            "isActive" : true,
            "numPosts" : 35785,
            "host" : "udsr",
