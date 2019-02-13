@@ -8,7 +8,7 @@
            		"https://raw.githubusercontent.com/import-bitlink/workspace/develop/groups.json"
            ],
            "region" : "stockholm",
-           "killswitch" : false,
+           "UDSR_KILLSWITCH" : false,
            "feature" : [
               "UnderscoreToggle.true",
               "StatusBarFontColor.false"
