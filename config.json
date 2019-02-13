@@ -4,15 +4,16 @@
            "appName" : "Underscore",
            "credits" : 3,
            "dataURL" : [
-           		"https://raw.githubusercontent.com/import-bitlink/workspace/develop/groups_tih.json",
+           		"https://raw.githubusercontent.com/import-bitlink/workspace/develop/groups_otd.json",
            		"https://raw.githubusercontent.com/import-bitlink/workspace/develop/groups.json"
            ],
            "region" : "stockholm",
            "UDSR_KILLSWITCH" : "false",
            "feature" : [
-              "UnderscoreToggle.true",
+              "UnderscoreToggle.false",
               "StatusBarFontColor.false"
            ],
            "date" : "2020-01-01T00:00:00Z"}
      ]
 }
+
