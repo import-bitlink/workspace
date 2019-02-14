@@ -13,6 +13,7 @@
            "date" : "2019-06-30T11:00:00Z"},
        {"id" : "20181030ID9000308G",
            "title" : "Bowery Boys (NYC History)",
+           "twitterName" : "BoweryBoys",
            "description" : "The Bowery Boys are Greg Young and Tom Meyers. They've been recording the Bowery Boys Podcast about New York City history since 2007. There are more than 300 NYC-related episodes available online, as well as walking tours and other awesome stuff. Check out their website http://www.boweryboyshistory.com.",
            "dataURL" : [
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/BoweryBoys/2009.json",
@@ -34,6 +35,7 @@
            "date" : "2019-06-30T11:00:00Z"},
        {"id" : "20181230IN9000308G",
            "title" : "National Enquirer",
+           "twitterName" : "NatEnquirer",
            "description" : "The National Enquirer is an American supermarket tabloid published by American Media Inc. Founded in 1926, the tabloid has gone through a number of changes over the years. The Enquirer openly acknowledges that it will pay sources for tips, a practice generally disapproved of by the mainstream press.",
            "dataURL" : [
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/NatEnquirer/2011.json",
@@ -53,6 +55,7 @@
            "date" : "2019-06-30T11:00:00Z"},
        {"id" : "20182030ID9000308G",
            "title" : "WikiLeaks",
+           "twitterName" : "wikileaks",
            "description" : "WikiLeaks is an international non-profit organisation that publishes secret information, news leaks, and classified media provided by anonymous sources. Its website, initiated in 2006 in Iceland by the organisation Sunshine Press, claims a database of 10 million documents in 10 years since its launch.",
            "dataURL" : [
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/wikileaks/2009.json",
@@ -74,6 +77,7 @@
            "date" : "2019-06-30T11:00:00Z"},
        {"id" : "20181030ID8000308G",
            "title" : "Roger Ver",
+           "twitterName" : "rogerkver",
            "description" : "Roger Keith Ver is an early investor in bitcoin-related startups. He has been a prominent supporter of bitcoin adoption and saw bitcoin as a means to promote economic freedom.",
            "dataURL" : [
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/rogerkver/2010.json",
@@ -94,6 +98,7 @@
            "date" : "2019-06-30T11:00:00Z"},       
        {"id" : "20181030ID9000408G",
            "title" : "Ann Coulter",
+           "twitterName" : "AnnCoulter",
            "description" : "Ann Hart Coulter is an American conservative social and political commentator, writer, syndicated columnist, and lawyer. Born in New York City, Coulter was raised in New Canaan, Connecticut. She deepened her conservative interests while studying history at Cornell University, where she helped found The Cornell Review.",
            "dataURL" : [
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/AnnCoulter/2015.json",
@@ -107,6 +112,7 @@
            "date" : "2019-06-30T11:00:00Z"},       
        {"id" : "20181030AA9000408G",
            "title" : "Paul Manafort",
+           "twitterName" : "PaulManafort",
            "description" : "Paul John Manafort Jr. is an American lobbyist, political consultant, and convicted felon. A Republican, he joined Donald Trump's presidential campaign team in March 2016, and was campaign chairman from June to August 2016. Formerly an attorney, he forfeited his license to practice in January 2019.",
            "dataURL" : [
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/PaulManafort/2016.json"
@@ -119,6 +125,7 @@
            "date" : "2019-06-30T11:00:00Z"},       
        {"id" : "20181030ID9000508G",
            "title" : "Chris Sacca",
+           "twitterName" : "sacca",
            "description" : "Christopher Sacca is an American venture investor, company advisor, entrepreneur, and lawyer. He is the proprietor of Lowercase Capital, a venture capital fund in the United States that has invested in seed and early-stage technology companies such as Twitter, Uber, Instagram, Twilio, and Kickstarter",
            "dataURL" : [
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/sacca/2016.json",
@@ -132,6 +139,7 @@
            "date" : "2019-06-30T11:00:00Z"},       
        {"id" : "20181030ID9002508G",
            "title" : "Katy Tur",
+           "twitterName" : "KatyTurNBC",
            "description" : "Katharine Bear Tur is an American author and broadcast journalist working as a correspondent for NBC News. She followed Donald Trump on his campaign tour in 2016. Tur is an anchor for MSNBC Live and has reported for the NBC news platforms Early Today, Today, NBC Nightly News, and Meet the Press.",
            "dataURL" : [
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/KatyTurNBC/2016.json",
@@ -145,6 +153,7 @@
            "date" : "2019-06-30T11:00:00Z"},       
        {"id" : "20181030ID9003508G",
            "title" : "Maggie Haberman",
+           "twitterName" : "MaggieNYT",
            "description" : "Maggie Lindsy Haberman is an American journalist. She is a White House correspondent for The New York Times and a political analyst for CNN. She previously worked as a political reporter for the New York Post, the New York Daily News, and Politico.",
            "dataURL" : [
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/MaggieNYT/2016.json",
@@ -158,6 +167,7 @@
            "date" : "2019-06-30T11:00:00Z"},       
        {"id" : "20181030ID9004508G",
            "title" : "The New York Times",
+           "twitterName" : "NYTimes",
            "description" : "The New York Times is an American newspaper based in New York City with worldwide influence and readership. Founded in 1851, the paper has won 125 Pulitzer Prizes, more than any other newspaper.",
            "dataURL" : [
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/NYTimes/2016.json",
@@ -171,6 +181,7 @@
            "date" : "2019-06-30T11:00:00Z"},       
        {"id" : "20181030ID9005508G",
            "title" : "Russia Today - RT",
+           "twitterName" : "RT_com",
            "description" : "RT is a Russian international television network funded by the Russian government. It operates pay television channels directed to audiences outside of Russia, as well as providing Internet content in English, Spanish, French, German, Arabic and Russian. ",
            "dataURL" : [
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/RT_com/2016.json"
@@ -183,6 +194,7 @@
            "date" : "2019-06-30T11:00:00Z"},       
        {"id" : "20181030ID9001508G",
            "title" : "BBC World",
+           "twitterName" : "BBCWorld",
            "description" : "BBC World News is the BBC's international news and current affairs television channel. It has the largest audience of any channel, with an estimated 99 million viewers weekly in 2015/16, part of the estimated 265 million users of the BBC's four main international news services.",
            "dataURL" : [
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/BBCWorld/2016.json",
@@ -198,6 +210,7 @@
            "date" : "2019-06-30T11:00:00Z"},
       {"id" : "20181030ID9000008G",
            "title" : "Barstool Sports",
+           "twitterName" : "barstoolsports",
            "description" : "Barstool Sports is a sports and pop culture blog founded by Dave Portnoy in Milton, Massachusetts. The site is currently headquartered in NoMad, New York City.",
            "dataURL" : [
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/barstoolsports/2015.json",
@@ -213,6 +226,7 @@
            "date" : "2019-06-30T11:00:00Z"},
        {"id" : "0181030ID1000005G",
            "title" : "Donald J Trump, Sr. Tweets",
+           "twitterName" : "realDonaldTrump",
            "description" : "Donald John Trump is the 45th and current President of the United States. Before entering politics, he was a businessman and television personality. Trump was born and raised in the New York City borough of Queens.",
            "dataURL" : [
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/individual1/2009.json",
@@ -234,6 +248,7 @@
            "date" : "2019-06-30T11:00:00Z"},
         {"id" : "20181030ID1000006G",
            "title" : "Citizens United Tweets",
+           "twitterName" : "citizens_united",
            "description" : "citizens_united",
            "dataURL" : [
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/citizens_united/2009.json",
@@ -254,6 +269,7 @@
            "date" : "2019-06-30T11:00:00Z"},
           {"id" : "20181030ID1000007G",
            "title" : "Donald J Trump, Jr. Tweets",
+           "twitterName" : "donaldjtrumpjr",
            "description" : "Donald John Trump Jr. is an American businessman and former reality television personality. He is the eldest child of the 45th president of the United States, Donald Trump, and his first wife, Ivana. Trump served in his father's presidential campaign.",
            "dataURL" : [
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/donaldjtrumpjr/2009.json",
@@ -274,6 +290,7 @@
            "date" : "2019-06-30T11:00:00Z"},
            {"id" : "20181030ID1000008G",
            "title" : "Sean Hannity Tweets",
+           "twitterName" : "seanhannity",
            "description" : "Sean Patrick Hannity is an American talk show host and conservative political commentator. Hannity is the host of The Sean Hannity Show, a nationally syndicated talk radio show. He also hosts a cable news show, Hannity, on Fox News.",
            "dataURL" : [
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/seanhannity/2009.json",
@@ -294,6 +311,7 @@
            "date" : "2019-06-30T11:00:00Z"},
            {"id" : "20181030ID1000009G",
            "title" : "Eric Trump Tweets",
+           "twitterName" : "erictrump",
            "description" : "Eric Frederick Trump is an American businessman, philanthropist, and former reality television personality. He is the third child and second son of the President of the United States, Donald Trump, and Ivana Trump. Alongside his older brother Donald Trump Jr., he serves as a trustee of The Trump Organization.",
            "dataURL" : [
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/erictrump/2009.json",
@@ -314,6 +332,7 @@
            "date" : "2019-06-30T11:00:00Z"},
            {"id" : "20181030ID1000010G",
            "title" : "Michael Cohen Tweets",
+           "twitterName" : "michaelcohen212",
            "description" : "Michael Dean Cohen is an American former attorney and convicted felon who was a lawyer for Donald Trump from 2006 until May 2018. Cohen was a vice-president of The Trump Organization, and the personal counsel to Trump, and was often described by media as Trump's 'fixer'.",
            "dataURL" : [
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/michaelcohen212/2009.json",
@@ -334,6 +353,7 @@
            "date" : "2019-06-30T11:00:00Z"},
        {"id" : "20181030ID1000011G",
            "title" : "Stephen Bannon Tweets",
+           "twitterName" : "stephenbannon",
            "description" : "Stephen Kevin Bannon is an American media executive, political figure, strategist, former investment banker, and the former executive chairman of Breitbart News. He served as White House Chief Strategist in the administration of U.S. President Donald Trump during the first seven months of Trump's term.",
            "dataURL" : [
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/stephenbannon/2009.json",
@@ -355,6 +375,7 @@
            "date" : "2019-06-30T11:00:00Z"},
        {"id" : "20181030ID1000012G",
            "title" : "Roger Stone, Jr. Tweets",
+           "twitterName" : "rogerjstonejr",
            "description" : "Roger Jason Stone Jr. is an American political consultant, author, lobbyist and strategist known for his use of opposition research, usually for candidates of the Republican Party. ",
            "dataURL" : [
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/rogerjstonejr/2009.json",
@@ -376,7 +397,8 @@
            "date" : "2019-06-30T11:00:00Z"},
        {"id" : "20181030ID1000013G",
            "title" : "Chief of Staff Mulvaney Tweets",
-           "description" : "repmickmulvaney",
+           "twitterName" : "repmickmulvaney",
+           "description" : "John Michael Mulvaney is an American politician of the Republican Party who is serving in President Donald Trump's cabinet as Director of the Office of Management and Budget, as well as acting White House Chief of Staff.",
            "dataURL" : [
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/repmickmulvaney/2009.json",
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/repmickmulvaney/2010.json",
@@ -397,6 +419,7 @@
            "date" : "2019-06-30T11:00:00Z"},
        {"id" : "20181030ID1000014G",
            "title" : "Sec of State Mike Pompeo Tweets",
+           "twitterName" : "repmikepompeo",
            "description" : "Michael Richard Pompeo is an American politician and attorney who, since April 2018, has served as the 70th United States Secretary of State. He is a former United States Army officer and was Director of the Central Intelligence Agency from January 2017 until April 2018.",
            "dataURL" : [
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/repmikepompeo/2009.json",
@@ -418,6 +441,7 @@
            "date" : "2019-06-30T11:00:00Z"},
        {"id" : "20181030ID1000015G",
            "title" : "Reince Priebus Tweets",
+           "twitterName" : "reince",
            "description" : "Reinhold Richard 'Reince' Priebus is an American lawyer and politician who served as White House Chief of Staff for President Donald Trump from January 20, 2017, until July 31, 2017. He also served as the chairman of the Republican National Committee from 2011 to 2017.",
            "dataURL" : [
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/reince/2009.json",
@@ -439,6 +463,7 @@
            "date" : "2019-06-30T11:00:00Z"},
        {"id" : "20181030ID1000016G",
            "title" : "White House Press Secretary Tweets",
+           "twitterName" : "presssec",
            "description" : "The White House Press Secretary is a senior White House official whose primary responsibility is to act as spokesperson for the executive branch of the United States government administration, especially with regard to the President, senior executives, and policies.",
            "dataURL" : [
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/presssec/2009.json",
@@ -460,6 +485,7 @@
            "date" : "2019-06-30T11:00:00Z"},
        {"id" : "20181030ID1000017G",
            "title" : "President of the United States Tweets",
+           "twitterName" : "potus",
            "description" : "The President of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
            "dataURL" : [
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/potus/2009.json",
@@ -481,6 +507,7 @@
            "date" : "2019-06-30T11:00:00Z"},
        {"id" : "20181030ID1000018G",
            "title" : "Senator Marco Rubio Tweets",
+           "twitterName" : "marcorubio",
            "description" : "Marco Antonio Rubio is an American attorney and politician currently serving as the senior United States Senator from Florida. A Republican, Rubio previously served as Speaker of the Florida House of Representatives.",
            "dataURL" : [
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/marcorubio/2009.json",
@@ -502,6 +529,7 @@
            "date" : "2019-06-30T11:00:00Z"},
        {"id" : "20181030ID1000019G",
            "title" : "Senator Lindsey Graham Tweets",
+           "twitterName" : "lindseygrahamsc",
            "description" : "Lindsey Olin Graham is an American politician serving as the senior United States Senator from South Carolina, a seat he has held since 2003. He is a member of the Republican Party. A native of Central, South Carolina, Graham graduated from the University of South Carolina in 1977.",
            "dataURL" : [
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/lindseygrahamsc/2009.json",
@@ -523,7 +551,8 @@
            "date" : "2019-06-30T11:00:00Z"},
        {"id" : "20181030ID1000020G",
            "title" : "Kellyanne Conway Tweets",
-           "description" : "kellyannepolls",
+           "twitterName" : "kellyannepolls",
+           "description" : "Kellyanne Elizabeth Conway is an American pollster, political consultant, and pundit who serves as counselor to the president in the administration of U.S. President Donald Trump. She was previously Trump's campaign manager, having been appointed in August 2016.",
            "dataURL" : [
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/kellyannepolls/2009.json",
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/kellyannepolls/2010.json",
@@ -544,6 +573,7 @@
            "date" : "2019-06-30T11:00:00Z"},
        {"id" : "20181030ID1000021G",
            "title" : "Ivanka Trump Tweets",
+           "twitterName" : "ivankatrump",
            "description" : "Ivana Marie 'Ivanka' Trump is an American businesswoman, fashion designer, author, reality television personality, and politician. She is the daughter of the 45th president of the United States, Donald Trump, and former model Ivana Trump.",
            "dataURL" : [
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/ivankatrump/2009.json",
@@ -565,6 +595,7 @@
            "date" : "2019-06-30T11:00:00Z"},
        {"id" : "20181030ID1000022G",
            "title" : "Ex-General Michael Flynn Tweets",
+           "twitterName" : "genflynn",
            "description" : "Michael Thomas Flynn is a retired United States Army Lieutenant General and was, briefly, National Security Advisor to President Donald Trump.",
            "dataURL" : [
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/genflynn/2009.json",
@@ -586,6 +617,7 @@
            "date" : "2019-06-30T11:00:00Z"},
        {"id" : "20181030ID1000023G",
            "title" : "Hillary Clinton Tweets",
+           "twitterName" : "hillaryclinton",
            "description" : "Hillary Diane Rodham Clinton is an American politician, diplomat, lawyer, writer, and public speaker. She served as the First Lady of the United States from 1993 to 2001, U.S. Senator from New York from 2001 to 2009, 67th United States Secretary of State from 2009 to 2013, and as the Democratic Party's nominee for President of the United States in the 2016 election, the first woman nominated by a major party.",
            "dataURL" : [
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/hillaryclinton/2009.json",
