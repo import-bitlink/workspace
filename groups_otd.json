@@ -43,8 +43,8 @@
            "date" : "2020-01-01T00:00:00Z"},
        {"id" : "0181030ID1000005G",
            "title" : "Donald J Trump, Sr. Tweets",
-           "appName" : "On This Day",
-           "description" : "realdonaldtrump",
+           "appName" : "realdonaldtrump",
+           "description" : "Donald John Trump is the 45th and current President of the United States. Before entering politics, he was a businessman and television personality. Trump was born and raised in the New York City borough of Queens.",
            "dataURL" : [
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/individual1/2009.json",
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/individual1/2010.json",
