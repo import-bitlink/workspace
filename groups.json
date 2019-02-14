@@ -2,6 +2,7 @@
   "data" : [
        {"id" : "20181030ID1000001A",
            "title" : "All Tweets",
+           "appName" : "allTweets",
            "description" : "allTweets",
            "dataURL" : [                  
             ],
