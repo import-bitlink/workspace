@@ -1,0 +1,3872 @@
+[
+  {
+    "id": "603055907228950528",
+    "timestamp": "9:31 PM - 25 May 2015",
+    "text": "@prestonjbyrne @DCmcfly1 And what's wrong with that? Ostracism is a perfectly fine form of punishment",
+    "link": "https://twitter.com/VitalikButerin/status/603055907228950528",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "9",
+    "replies": "4"
+  },
+  {
+    "id": "603029870306840576",
+    "timestamp": "7:48 PM - 25 May 2015",
+    "text": "Cryptoeconomic proofs are now reaching mainstream adoption:http://cointelegraph.com/news/114376/roger-ver-i-will-offer-a-1000000-bounty-to-anyone-who-can-prove-i-signed-that-contract …",
+    "link": "https://twitter.com/VitalikButerin/status/603029870306840576",
+    "is_retweet": false,
+    "retweets": "18",
+    "favorites": "20",
+    "replies": "1"
+  },
+  {
+    "id": "602794843375439873",
+    "timestamp": "4:14 AM - 25 May 2015",
+    "text": "@TuurDemeester @wmougayar @ethereumproject https://blog.ethereum.org/2014/11/25/proof-stake-learned-love-weak-subjectivity/ … <--- my last definitive piece on pos",
+    "link": "https://twitter.com/VitalikButerin/status/602794843375439873",
+    "is_retweet": false,
+    "retweets": "4",
+    "favorites": "7",
+    "replies": ""
+  },
+  {
+    "id": "602697161051111424",
+    "timestamp": "9:46 PM - 24 May 2015",
+    "text": "@Kolin_Quark something based on edwards curves seems most reasonable",
+    "link": "https://twitter.com/VitalikButerin/status/602697161051111424",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "1",
+    "replies": "1"
+  },
+  {
+    "id": "602692679705698306",
+    "timestamp": "9:28 PM - 24 May 2015",
+    "text": "How alarm clocks should be built:http://www.stuff.co.nz/oddstuff/6721554/Worlds-most-exasperating-alarm-clock …",
+    "link": "https://twitter.com/VitalikButerin/status/602692679705698306",
+    "is_retweet": false,
+    "retweets": "9",
+    "favorites": "7",
+    "replies": "2"
+  },
+  {
+    "id": "602676218295656449",
+    "timestamp": "8:23 PM - 24 May 2015",
+    "text": "A precursor to ethereum, from early Nov 2013: http://vbuterin.com/ultimatescripting.html …",
+    "link": "https://twitter.com/VitalikButerin/status/602676218295656449",
+    "is_retweet": false,
+    "retweets": "3",
+    "favorites": "13",
+    "replies": ""
+  },
+  {
+    "id": "602650119255785472",
+    "timestamp": "6:39 PM - 24 May 2015",
+    "text": "@BitcoinBelle @Dr_Craig_Wright No rudeness involved, just good fun academic debate :D",
+    "link": "https://twitter.com/VitalikButerin/status/602650119255785472",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": "1"
+  },
+  {
+    "id": "602649999667765249",
+    "timestamp": "6:38 PM - 24 May 2015",
+    "text": "@Dr_Craig_Wright @BitcoinBelle in eth: data nwd; def wd(): if timestamp() > self.nwd: self.nwd=timestamp()+2592000; send(self.recipient, 50)",
+    "link": "https://twitter.com/VitalikButerin/status/602649999667765249",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": ""
+  },
+  {
+    "id": "602649975177277441",
+    "timestamp": "6:38 PM - 24 May 2015",
+    "text": "@Dr_Craig_Wright @BitcoinBelle Answer with code not with words :D",
+    "link": "https://twitter.com/VitalikButerin/status/602649975177277441",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": ""
+  },
+  {
+    "id": "602648429521727488",
+    "timestamp": "6:32 PM - 24 May 2015",
+    "text": "@Dr_Craig_Wright @BitcoinBelle to do in a trust-free way on btc without requiring users to have an always-on client, yes.",
+    "link": "https://twitter.com/VitalikButerin/status/602648429521727488",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "2",
+    "replies": ""
+  },
+  {
+    "id": "602647468468240384",
+    "timestamp": "6:28 PM - 24 May 2015",
+    "text": "@Dr_Craig_Wright @BitcoinBelle Good luck implementing \"privkey X can withdraw max $50 per month\", for one",
+    "link": "https://twitter.com/VitalikButerin/status/602647468468240384",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "2",
+    "replies": ""
+  },
+  {
+    "id": "601953549392674816",
+    "timestamp": "8:31 PM - 22 May 2015",
+    "text": "Bitcoins == front row theater tickets to one of the most exciting ongoing reality drama series of the 21st centuryhttp://www.reddit.com/r/Bitcoin/comments/36xy99/rogerkver_i_have_cryptographic_proof_of_okcoinbtc/ …",
+    "link": "https://twitter.com/VitalikButerin/status/601953549392674816",
+    "is_retweet": false,
+    "retweets": "25",
+    "favorites": "50",
+    "replies": "1"
+  },
+  {
+    "id": "601951104037957633",
+    "timestamp": "8:21 PM - 22 May 2015",
+    "text": "Is \"proof of reserve\" cryptoeconomic security theater? https://www.reddit.com/r/BitcoinMarkets/comments/36y776/further_lies_at_okcoin_where_does_it_end/ … ; this is why standardization + transparency are so important",
+    "link": "https://twitter.com/VitalikButerin/status/601951104037957633",
+    "is_retweet": false,
+    "retweets": "13",
+    "favorites": "16",
+    "replies": "1"
+  },
+  {
+    "id": "601939103022723072",
+    "timestamp": "7:34 PM - 22 May 2015",
+    "text": "@WilDunne @adam_0293 @rogerkver @OKCoinBTC @ethereumproject the contract can directly control the DNS registry entry I suppose",
+    "link": "https://twitter.com/VitalikButerin/status/601939103022723072",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "2",
+    "replies": ""
+  },
+  {
+    "id": "600677205861998593",
+    "timestamp": "7:59 AM - 19 May 2015",
+    "text": "@HoboJerk @petertoddbtc @alansilbert They expained their plan quite clearly here: https://medium.com/@21dotco/a-bitcoin-miner-in-every-device-and-in-every-hand-e315b40f2821 …",
+    "link": "https://twitter.com/VitalikButerin/status/600677205861998593",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "1",
+    "replies": "2"
+  },
+  {
+    "id": "599157536571273218",
+    "timestamp": "3:21 AM - 15 May 2015",
+    "text": "https://www.reddit.com/r/ethereum/comments/361kmu/did_block_341588_just_take_890s_according_to/ … <- And _this_ is what olympic was invented for :)",
+    "link": "https://twitter.com/VitalikButerin/status/599157536571273218",
+    "is_retweet": false,
+    "retweets": "6",
+    "favorites": "8",
+    "replies": ""
+  },
+  {
+    "id": "599157483957944321",
+    "timestamp": "3:20 AM - 15 May 2015",
+    "text": "http://www.wired.com/2015/05/silk-road-2/ … nice coverage, though I strongly disagree w/ the insinuation that there's anything wrong w/ transcending mortality :)",
+    "link": "https://twitter.com/VitalikButerin/status/599157483957944321",
+    "is_retweet": false,
+    "retweets": "4",
+    "favorites": "8",
+    "replies": "1"
+  },
+  {
+    "id": "599119082743435264",
+    "timestamp": "12:48 AM - 15 May 2015",
+    "text": "And.... now the Olympic testnet diff is 2.6 billion. Great job guys https://stats.ethdev.com/ ",
+    "link": "https://twitter.com/VitalikButerin/status/599119082743435264",
+    "is_retweet": false,
+    "retweets": "8",
+    "favorites": "7",
+    "replies": "2"
+  },
+  {
+    "id": "599033629214281728",
+    "timestamp": "7:08 PM - 14 May 2015",
+    "text": "@JohnVandivier @WorldBitcoinNet already proposed by Yanis Varoufakis:http://yanisvaroufakis.eu/2014/02/15/bitcoin-a-flawed-currency-blueprint-with-a-potentially-useful-application-for-the-eurozone/ …",
+    "link": "https://twitter.com/VitalikButerin/status/599033629214281728",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "3",
+    "replies": "4"
+  },
+  {
+    "id": "598784200871809024",
+    "timestamp": "2:37 AM - 14 May 2015",
+    "text": "Olympic testnet difficulty at 1 billion! https://stats.ethdev.com/ ",
+    "link": "https://twitter.com/VitalikButerin/status/598784200871809024",
+    "is_retweet": false,
+    "retweets": "29",
+    "favorites": "22",
+    "replies": "1"
+  },
+  {
+    "id": "598663952634023936",
+    "timestamp": "6:39 PM - 13 May 2015",
+    "text": "So my \"don't really bother with alcohol\" strategy seems to have gained quite a bit more evidence http://onlinelibrary.wiley.com/doi/10.1111/add.12828/epdf …",
+    "link": "https://twitter.com/VitalikButerin/status/598663952634023936",
+    "is_retweet": false,
+    "retweets": "7",
+    "favorites": "12",
+    "replies": "6"
+  },
+  {
+    "id": "598398357216694272",
+    "timestamp": "1:04 AM - 13 May 2015",
+    "text": "@ferdousbhai @prestonjbyrne @notsofastcrypto Actually, let the government ones compete too :)",
+    "link": "https://twitter.com/VitalikButerin/status/598398357216694272",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "5",
+    "replies": ""
+  },
+  {
+    "id": "598100436722286592",
+    "timestamp": "5:20 AM - 12 May 2015",
+    "text": "@FwdSlashEarl Multi-agent systems almost never modelable as trying to optimize a particular utility func; too many conflicting incentives",
+    "link": "https://twitter.com/VitalikButerin/status/598100436722286592",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": "3"
+  },
+  {
+    "id": "597380096710737920",
+    "timestamp": "5:38 AM - 10 May 2015",
+    "text": "#ethereum free #olympic test ether!http://www.reddit.com/r/ethereum/comments/35hi7u/post_here_for_some_free_olympic_test_ether/ …",
+    "link": "https://twitter.com/VitalikButerin/status/597380096710737920",
+    "is_retweet": false,
+    "retweets": "12",
+    "favorites": "13",
+    "replies": ""
+  },
+  {
+    "id": "597378013647343616",
+    "timestamp": "5:29 AM - 10 May 2015",
+    "text": "Olympic testnet approaching 1 tx per block! http://stats.ethdev.com/  keep up with the spam guys!",
+    "link": "https://twitter.com/VitalikButerin/status/597378013647343616",
+    "is_retweet": false,
+    "retweets": "9",
+    "favorites": "6",
+    "replies": "1"
+  },
+  {
+    "id": "597197480543944705",
+    "timestamp": "5:32 PM - 9 May 2015",
+    "text": "@Awyee707 As for integration, we've been advancing quite a bit on that front already with a decentralized exchangehttps://github.com/ethers/btcToEther …",
+    "link": "https://twitter.com/VitalikButerin/status/597197480543944705",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "",
+    "replies": ""
+  },
+  {
+    "id": "597197405386223617",
+    "timestamp": "5:32 PM - 9 May 2015",
+    "text": "@Awyee707 Well, ethereum is needed because people want trustworthy decentralized computation",
+    "link": "https://twitter.com/VitalikButerin/status/597197405386223617",
+    "is_retweet": false,
+    "retweets": "5",
+    "favorites": "6",
+    "replies": "1"
+  },
+  {
+    "id": "597195926076194816",
+    "timestamp": "5:26 PM - 9 May 2015",
+    "text": "@Awyee707 umm, if ur seriously arguing that there will/should be only one space station, I think you'll find urself quite wrong in 30 years",
+    "link": "https://twitter.com/VitalikButerin/status/597195926076194816",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": "1"
+  },
+  {
+    "id": "597192834689568768",
+    "timestamp": "5:14 PM - 9 May 2015",
+    "text": "@_FeedTheBaby http://ethereum.gitbooks.io/frontier-guide/  is the closest we have. How can you help? Run a node, mine.",
+    "link": "https://twitter.com/VitalikButerin/status/597192834689568768",
+    "is_retweet": false,
+    "retweets": "4",
+    "favorites": "3",
+    "replies": ""
+  },
+  {
+    "id": "597191988002193408",
+    "timestamp": "5:10 PM - 9 May 2015",
+    "text": "@Awyee707 why didn't Guido van Rossum help develop C++ instead of inventing python?",
+    "link": "https://twitter.com/VitalikButerin/status/597191988002193408",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "2",
+    "replies": "1"
+  },
+  {
+    "id": "597191201003941889",
+    "timestamp": "5:07 PM - 9 May 2015",
+    "text": "#ethereum #olympic testnet getting spammed with transactions now! http://stats.ethdev.com/  propagation time still <1s",
+    "link": "https://twitter.com/VitalikButerin/status/597191201003941889",
+    "is_retweet": false,
+    "retweets": "13",
+    "favorites": "11",
+    "replies": ""
+  },
+  {
+    "id": "597190295189458946",
+    "timestamp": "5:03 PM - 9 May 2015",
+    "text": "https://blog.ethereum.org/2015/05/09/olympic-frontier-pre-release/ … <- #ethereum #frontier is on the finish line!",
+    "link": "https://twitter.com/VitalikButerin/status/597190295189458946",
+    "is_retweet": false,
+    "retweets": "22",
+    "favorites": "21",
+    "replies": "1"
+  },
+  {
+    "id": "597018575765778433",
+    "timestamp": "5:41 AM - 9 May 2015",
+    "text": "Blockchains == distributed denial of denial of service as a service.",
+    "link": "https://twitter.com/VitalikButerin/status/597018575765778433",
+    "is_retweet": false,
+    "retweets": "187",
+    "favorites": "203",
+    "replies": "11"
+  },
+  {
+    "id": "596689134510542849",
+    "timestamp": "7:52 AM - 8 May 2015",
+    "text": "@Kolin_Quark @onewayfunction @gavinandresen @el33th4xor yeah, txfees/limits are a hard problem, esp since political values are involved",
+    "link": "https://twitter.com/VitalikButerin/status/596689134510542849",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "2",
+    "replies": "1"
+  },
+  {
+    "id": "596514592596996096",
+    "timestamp": "8:18 PM - 7 May 2015",
+    "text": "@fantasy_5 good morning!",
+    "link": "https://twitter.com/VitalikButerin/status/596514592596996096",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "",
+    "replies": ""
+  },
+  {
+    "id": "596513859751448581",
+    "timestamp": "8:16 PM - 7 May 2015",
+    "text": "My reply to the \"econ theory suggests that txfees will hit a supply/demand equilibrium\" line, from 1 year ago: http://web.archive.org/web/20140327135157/http://blog.ethereum.org/2014/02/01/on-transaction-fees-market-based-solutions/ …",
+    "link": "https://twitter.com/VitalikButerin/status/596513859751448581",
+    "is_retweet": false,
+    "retweets": "5",
+    "favorites": "8",
+    "replies": ""
+  },
+  {
+    "id": "596162545221677056",
+    "timestamp": "9:00 PM - 6 May 2015",
+    "text": "@petertodd not to mention predictability; at this point I can't even tell if fees will be $1 or $0.001 in two years' time",
+    "link": "https://twitter.com/VitalikButerin/status/596162545221677056",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": ""
+  },
+  {
+    "id": "596161702619582465",
+    "timestamp": "8:56 PM - 6 May 2015",
+    "text": "@petertodd http://www.reddit.com/r/Bitcoin/comments/354qbm/bitcoin_devs_do_not_have_consensus_on_blocksize/ … but I thought the purpose of decentralization was to escape centralized governance & political bickering?",
+    "link": "https://twitter.com/VitalikButerin/status/596161702619582465",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "2",
+    "replies": "1"
+  },
+  {
+    "id": "596159690762887168",
+    "timestamp": "8:48 PM - 6 May 2015",
+    "text": "@herzmeisterderw @maidsafe by the time they solve the close group fragility problem there probably _will_ be a \"blockchain\" of some kind :)",
+    "link": "https://twitter.com/VitalikButerin/status/596159690762887168",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "",
+    "replies": ""
+  },
+  {
+    "id": "595859055379349508",
+    "timestamp": "12:54 AM - 6 May 2015",
+    "text": "Sniff test for any potential crypto 2.0 platform/business: can you successfully pitch it without using the word \"blockchain\"?",
+    "link": "https://twitter.com/VitalikButerin/status/595859055379349508",
+    "is_retweet": false,
+    "retweets": "21",
+    "favorites": "21",
+    "replies": "8"
+  },
+  {
+    "id": "595747710365499392",
+    "timestamp": "5:31 PM - 5 May 2015",
+    "text": "@culvereric @petertoddbtc @gavinandresen You dirty socialist. 71.5% or I'll send the federal reserve a nasty letter about you on twitter.",
+    "link": "https://twitter.com/VitalikButerin/status/595747710365499392",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "2",
+    "replies": ""
+  },
+  {
+    "id": "595611066639474689",
+    "timestamp": "8:28 AM - 5 May 2015",
+    "text": "@petertoddbtc @gavinandresen 70% of all tradeoffs/controversies in crypto land are about political values imo",
+    "link": "https://twitter.com/VitalikButerin/status/595611066639474689",
+    "is_retweet": false,
+    "retweets": "8",
+    "favorites": "10",
+    "replies": "4"
+  },
+  {
+    "id": "595500827399229441",
+    "timestamp": "1:10 AM - 5 May 2015",
+    "text": "Will be on http://mindthegapexpo.com  in ~7h",
+    "link": "https://twitter.com/VitalikButerin/status/595500827399229441",
+    "is_retweet": false,
+    "retweets": "9",
+    "favorites": "5",
+    "replies": ""
+  },
+  {
+    "id": "595231090899488768",
+    "timestamp": "7:18 AM - 4 May 2015",
+    "text": "@prestonjbyrne Speaking of PoS, I think ppl massively underestimate the degree to which those arguments r about political values & not tech",
+    "link": "https://twitter.com/VitalikButerin/status/595231090899488768",
+    "is_retweet": false,
+    "retweets": "4",
+    "favorites": "7",
+    "replies": "1"
+  },
+  {
+    "id": "595212384559501312",
+    "timestamp": "6:04 AM - 4 May 2015",
+    "text": "@1cyrilblanc1 @leashless I actually read half the ancap literature at like age 17 :D fun ideas, looking forward to empirical validation",
+    "link": "https://twitter.com/VitalikButerin/status/595212384559501312",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": ""
+  },
+  {
+    "id": "595211194538954753",
+    "timestamp": "5:59 AM - 4 May 2015",
+    "text": "@1cyrilblanc1 @leashless Actually, maybe not... :)",
+    "link": "https://twitter.com/VitalikButerin/status/595211194538954753",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": ""
+  },
+  {
+    "id": "595211110724206593",
+    "timestamp": "5:59 AM - 4 May 2015",
+    "text": "@1cyrilblanc1 @leashless Great, if you can figure out how to make that happen with the atmosphere CO2 concentration will be very happy",
+    "link": "https://twitter.com/VitalikButerin/status/595211110724206593",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "2",
+    "replies": "1"
+  },
+  {
+    "id": "595210516018036736",
+    "timestamp": "5:57 AM - 4 May 2015",
+    "text": "@1cyrilblanc1 @leashless It's from https://mises.org/library/state-or-private-law-society … you linked",
+    "link": "https://twitter.com/VitalikButerin/status/595210516018036736",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": ""
+  },
+  {
+    "id": "595210300401393664",
+    "timestamp": "5:56 AM - 4 May 2015",
+    "text": "@1cyrilblanc1 @leashless See public-goods arguments.",
+    "link": "https://twitter.com/VitalikButerin/status/595210300401393664",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": ""
+  },
+  {
+    "id": "595210207975714816",
+    "timestamp": "5:55 AM - 4 May 2015",
+    "text": "@1cyrilblanc1 @leashless \"Every \"monopoly\" is \"bad\" from the viewpoint of consumers\" <- much as I dislike monops, econ books do NOT say this",
+    "link": "https://twitter.com/VitalikButerin/status/595210207975714816",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": "1"
+  },
+  {
+    "id": "595207558849105920",
+    "timestamp": "5:45 AM - 4 May 2015",
+    "text": "@1cyrilblanc1 @leashless You're making massive positive/normative conflations there. Define \"property exists\" more clearly in both cases.",
+    "link": "https://twitter.com/VitalikButerin/status/595207558849105920",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": ""
+  },
+  {
+    "id": "595206661670744065",
+    "timestamp": "5:41 AM - 4 May 2015",
+    "text": "http://www.hindustantimes.com/socialmedia-updates/interview-with-facebook-s-vp-of-internet-org-chris-daniels/article1-1343715.aspx … Or, alternatively, you could just open the entire internet, at 55kbps if bandwidth is a concern",
+    "link": "https://twitter.com/VitalikButerin/status/595206661670744065",
+    "is_retweet": false,
+    "retweets": "4",
+    "favorites": "7",
+    "replies": "1"
+  },
+  {
+    "id": "595206050204102656",
+    "timestamp": "5:39 AM - 4 May 2015",
+    "text": "@1cyrilblanc1 @leashless Wait, what's the debate here? Generally prefer to state points of contention in clear formal terms before arguing",
+    "link": "https://twitter.com/VitalikButerin/status/595206050204102656",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "2",
+    "replies": ""
+  },
+  {
+    "id": "593525568433356800",
+    "timestamp": "2:21 PM - 29 Apr 2015",
+    "text": "@victoriavaneyk @BigBlockBang And https://ethdev.com/#team  . I'm just the chief scientist.",
+    "link": "https://twitter.com/VitalikButerin/status/593525568433356800",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "3",
+    "replies": ""
+  },
+  {
+    "id": "592902948138659841",
+    "timestamp": "9:07 PM - 27 Apr 2015",
+    "text": "@estebs Because we (1) moved 7500+ to other wallets, and (2) did the sane thing and converted $2m+ into CHF-denominated bank accounts?",
+    "link": "https://twitter.com/VitalikButerin/status/592902948138659841",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "4",
+    "replies": ""
+  },
+  {
+    "id": "592852514782978048",
+    "timestamp": "5:47 PM - 27 Apr 2015",
+    "text": "@TheSwanFactory @stephantual @gavofyork Originally it was async; switched to sync because it increased potential for interop",
+    "link": "https://twitter.com/VitalikButerin/status/592852514782978048",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "4",
+    "replies": "1"
+  },
+  {
+    "id": "592210212507000832",
+    "timestamp": "11:14 PM - 25 Apr 2015",
+    "text": "@jweden hmm, there are like 17325 projects trying to define \"the new economic paradigm to replace capitalism\"; hard to judge...",
+    "link": "https://twitter.com/VitalikButerin/status/592210212507000832",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "3",
+    "replies": ""
+  },
+  {
+    "id": "591648709223587841",
+    "timestamp": "10:03 AM - 24 Apr 2015",
+    "text": "@dixonstrategy Ah, yep indeed. Think problem first, not solution first.",
+    "link": "https://twitter.com/VitalikButerin/status/591648709223587841",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": ""
+  },
+  {
+    "id": "591640883356954624",
+    "timestamp": "9:32 AM - 24 Apr 2015",
+    "text": "@jmiehau @crypto_jesus Vlad is primarily working on PoS, I'm scalability (and @gavofyork on microkernel arch)",
+    "link": "https://twitter.com/VitalikButerin/status/591640883356954624",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "5",
+    "replies": ""
+  },
+  {
+    "id": "591530761007824896",
+    "timestamp": "2:14 AM - 24 Apr 2015",
+    "text": "Apparently you can use pybtctool with php and it's not that hard: http://www.reddit.com/r/Bitcoin/comments/33ori8/100000_bits_for_xpub_php_function/cqmzrw2?context=3 …",
+    "link": "https://twitter.com/VitalikButerin/status/591530761007824896",
+    "is_retweet": false,
+    "retweets": "5",
+    "favorites": "4",
+    "replies": ""
+  },
+  {
+    "id": "591482466981912576",
+    "timestamp": "11:03 PM - 23 Apr 2015",
+    "text": "@dixonstrategy Agree fully. Not sure what point you're making re btc though",
+    "link": "https://twitter.com/VitalikButerin/status/591482466981912576",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": "1"
+  },
+  {
+    "id": "591472368804974593",
+    "timestamp": "10:22 PM - 23 Apr 2015",
+    "text": "Of course my statements are inconsistent across time. It's called adjusting beliefs to evidence.",
+    "link": "https://twitter.com/VitalikButerin/status/591472368804974593",
+    "is_retweet": false,
+    "retweets": "60",
+    "favorites": "104",
+    "replies": "5"
+  },
+  {
+    "id": "591297529578401792",
+    "timestamp": "10:48 AM - 23 Apr 2015",
+    "text": "@GDistributed @AnthonyMacey I would say barriers to entry is closer; but there are many root problems, we don't claim to solve everything",
+    "link": "https://twitter.com/VitalikButerin/status/591297529578401792",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": ""
+  },
+  {
+    "id": "591290422737141760",
+    "timestamp": "10:19 AM - 23 Apr 2015",
+    "text": "@GDistributed @AnthonyMacey Closest is probably \"building decentralized stuff is too hard\".",
+    "link": "https://twitter.com/VitalikButerin/status/591290422737141760",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": "1"
+  },
+  {
+    "id": "591288866520354817",
+    "timestamp": "10:13 AM - 23 Apr 2015",
+    "text": "@GDistributed @AnthonyMacey Do I define myself around Ethereum? Hint:http://about.me/vitalik_buterin ",
+    "link": "https://twitter.com/VitalikButerin/status/591288866520354817",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "2",
+    "replies": "2"
+  },
+  {
+    "id": "590981323868733440",
+    "timestamp": "1:51 PM - 22 Apr 2015",
+    "text": "@AnthonyMacey you should never define yourself around a solution, should define yourself around a problem and go wherever the wind takes you",
+    "link": "https://twitter.com/VitalikButerin/status/590981323868733440",
+    "is_retweet": false,
+    "retweets": "3",
+    "favorites": "5",
+    "replies": "1"
+  },
+  {
+    "id": "590980963443810304",
+    "timestamp": "1:50 PM - 22 Apr 2015",
+    "text": "@AnthonyMacey more precisely, technologists trying to solve problems but hamstringing themselves by saying \"my solution must involve X\"",
+    "link": "https://twitter.com/VitalikButerin/status/590980963443810304",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "2",
+    "replies": "1"
+  },
+  {
+    "id": "590726995752935424",
+    "timestamp": "9:01 PM - 21 Apr 2015",
+    "text": "\"How do you engage in computing after trust?\" - @pbrody talking IoThttps://letstalkbitcoin.com/blog/post/epicenter-bitcoin-75-paul-brody-internet-of-things-and-the-democracy-of-devices …",
+    "link": "https://twitter.com/VitalikButerin/status/590726995752935424",
+    "is_retweet": false,
+    "retweets": "14",
+    "favorites": "15",
+    "replies": ""
+  },
+  {
+    "id": "590522499819003904",
+    "timestamp": "7:28 AM - 21 Apr 2015",
+    "text": "You can combine subjective (ie. stellar-style) consensus with medium-security quasi-objective cryptoeconomic proofs http://www.reddit.com/r/ethereum/comments/338mip/stellar_consensus_protocol_canwill_something_like/cqjmz8a …",
+    "link": "https://twitter.com/VitalikButerin/status/590522499819003904",
+    "is_retweet": false,
+    "retweets": "8",
+    "favorites": "4",
+    "replies": ""
+  },
+  {
+    "id": "590517821400096768",
+    "timestamp": "7:09 AM - 21 Apr 2015",
+    "text": "@Calem_Smith @petertoddbtc @Bitcoin No coin will \"take the place of BTC\". Successful crypto 2.0 will look fundamentally different",
+    "link": "https://twitter.com/VitalikButerin/status/590517821400096768",
+    "is_retweet": false,
+    "retweets": "26",
+    "favorites": "15",
+    "replies": "3"
+  },
+  {
+    "id": "590380019152777216",
+    "timestamp": "10:02 PM - 20 Apr 2015",
+    "text": "Interesting rationality strategy: do you think A is better than B? If so, how do you feel about A-B? eg. last para ofhttp://econlog.econlib.org/archives/2015/04/are_centers_a_m.html …",
+    "link": "https://twitter.com/VitalikButerin/status/590380019152777216",
+    "is_retweet": false,
+    "retweets": "10",
+    "favorites": "6",
+    "replies": "1"
+  },
+  {
+    "id": "590081776174915584",
+    "timestamp": "2:17 AM - 20 Apr 2015",
+    "text": "Easiest way to do credible bribe for P+ε: bribe ppl 26 btc only if they make a tx sending you 25 btc on the fork chain",
+    "link": "https://twitter.com/VitalikButerin/status/590081776174915584",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "5",
+    "replies": ""
+  },
+  {
+    "id": "589735828559163393",
+    "timestamp": "3:22 AM - 19 Apr 2015",
+    "text": "I am an arachno-capitalist. Vote Bob The Spider 2016! http://www.obscure.org/~bob/toys/spider.jpg …",
+    "link": "https://twitter.com/VitalikButerin/status/589735828559163393",
+    "is_retweet": false,
+    "retweets": "5",
+    "favorites": "12",
+    "replies": "2"
+  },
+  {
+    "id": "589689586407866368",
+    "timestamp": "12:18 AM - 19 Apr 2015",
+    "text": "RT @ofnumbershttp://www.ofnumbers.com/2015/04/17/a-gift-card-economy-breaking-down-bitpays-numbers/ …",
+    "link": "https://twitter.com/VitalikButerin/status/589689586407866368",
+    "is_retweet": false,
+    "retweets": "4",
+    "favorites": "6",
+    "replies": ""
+  },
+  {
+    "id": "589678279386341376",
+    "timestamp": "11:33 PM - 18 Apr 2015",
+    "text": "MtGox was probably a fractional reserve at least since 2012: http://blog.wizsec.jp/2015/04/the-missing-mtgox-bitcoins.html …",
+    "link": "https://twitter.com/VitalikButerin/status/589678279386341376",
+    "is_retweet": false,
+    "retweets": "27",
+    "favorites": "14",
+    "replies": "2"
+  },
+  {
+    "id": "589617035925139456",
+    "timestamp": "7:30 PM - 18 Apr 2015",
+    "text": "@BjorkmanJesper sure, Mises said that too. IMO they're wrong.",
+    "link": "https://twitter.com/VitalikButerin/status/589617035925139456",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": "1"
+  },
+  {
+    "id": "589616882875031552",
+    "timestamp": "7:29 PM - 18 Apr 2015",
+    "text": "@Mcmike313 1. go to http://dappsforbeginners.wordpress.com/  to learn how to use dev tools, 2. build a proof of concept, 3. show us :)",
+    "link": "https://twitter.com/VitalikButerin/status/589616882875031552",
+    "is_retweet": false,
+    "retweets": "6",
+    "favorites": "12",
+    "replies": "1"
+  },
+  {
+    "id": "589616679551926273",
+    "timestamp": "7:29 PM - 18 Apr 2015",
+    "text": "http://quantum.nasa.gov/materials/2012-01-19-B1-Shor.pdf … Quantum money using no-cloning theorem",
+    "link": "https://twitter.com/VitalikButerin/status/589616679551926273",
+    "is_retweet": false,
+    "retweets": "16",
+    "favorites": "20",
+    "replies": "3"
+  },
+  {
+    "id": "589511760111108096",
+    "timestamp": "12:32 PM - 18 Apr 2015",
+    "text": "@BjorkmanJesper individually efficient, not collectively efficient. Unlike macro, monopoly deadweight loss is not exactly controversial :)",
+    "link": "https://twitter.com/VitalikButerin/status/589511760111108096",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "2",
+    "replies": "3"
+  },
+  {
+    "id": "589451885167378433",
+    "timestamp": "8:34 AM - 18 Apr 2015",
+    "text": "@BjorkmanJesper \"corp. always motivated to be efficient\": False. https://www.khanacademy.org/economics-finance-domain/microeconomics/perfect-competition-topic/monopolies-tutorial/v/monopolist-optimizing-price-part-3-dead-weight-loss-avi …",
+    "link": "https://twitter.com/VitalikButerin/status/589451885167378433",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "2",
+    "replies": "3"
+  },
+  {
+    "id": "589377267895271424",
+    "timestamp": "3:37 AM - 18 Apr 2015",
+    "text": "Collusion through investor-level centralization: http://www.slate.com/articles/news_and_politics/view_from_chicago/2015/04/mutual_funds_make_air_travel_more_expensive_institutional_investors_reduce.html … maybe time to disintermediate mutual funds?",
+    "link": "https://twitter.com/VitalikButerin/status/589377267895271424",
+    "is_retweet": false,
+    "retweets": "7",
+    "favorites": "8",
+    "replies": "2"
+  },
+  {
+    "id": "589371537825882113",
+    "timestamp": "3:14 AM - 18 Apr 2015",
+    "text": "@MarkZuckerbergF https://www.facebook.com/zuck/posts/10102033678947881 …\"It's too expensive to make the whole internet free.\" - then why the hell not just put a 55kbps cap?",
+    "link": "https://twitter.com/VitalikButerin/status/589371537825882113",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "2",
+    "replies": ""
+  },
+  {
+    "id": "589337931283832832",
+    "timestamp": "1:01 AM - 18 Apr 2015",
+    "text": "@fluffyponyza @mperklin The safety of people's funds depends on the go code, not the math notation. And the go code is doing just fine.",
+    "link": "https://twitter.com/VitalikButerin/status/589337931283832832",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "3",
+    "replies": "1"
+  },
+  {
+    "id": "588961308009226240",
+    "timestamp": "12:04 AM - 17 Apr 2015",
+    "text": "Pirate more! You'll help your fellow citizens get cheaper products!http://torrentfreak.com/netflix-sets-pricing-based-on-local-piracy-rates-150416 …",
+    "link": "https://twitter.com/VitalikButerin/status/588961308009226240",
+    "is_retweet": false,
+    "retweets": "10",
+    "favorites": "19",
+    "replies": ""
+  },
+  {
+    "id": "588748067979014144",
+    "timestamp": "9:57 AM - 16 Apr 2015",
+    "text": "@AaronPhelan actually, I think my #scalability proposal at https://github.com/vbuterin/scalability_paper/raw/master/scalability.pdf … comes pretty close...",
+    "link": "https://twitter.com/VitalikButerin/status/588748067979014144",
+    "is_retweet": false,
+    "retweets": "3",
+    "favorites": "1",
+    "replies": ""
+  },
+  {
+    "id": "588677131732914176",
+    "timestamp": "5:15 AM - 16 Apr 2015",
+    "text": "Old-but-good idea from @robinhanson : http://web.archive.org/web/20120426235819/http://hanson.gmu.edu/buyhealth.html … Perhaps DAOs can make good non-malfeasant MDCs?",
+    "link": "https://twitter.com/VitalikButerin/status/588677131732914176",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "7",
+    "replies": "2"
+  },
+  {
+    "id": "588628798402355200",
+    "timestamp": "2:03 AM - 16 Apr 2015",
+    "text": "@gendal @barmatz @adam3us Politically decentralized vs just architecturally decentralized seems to be the essential debate really",
+    "link": "https://twitter.com/VitalikButerin/status/588628798402355200",
+    "is_retweet": false,
+    "retweets": "4",
+    "favorites": "3",
+    "replies": "1"
+  },
+  {
+    "id": "588616810527727616",
+    "timestamp": "1:15 AM - 16 Apr 2015",
+    "text": "http://www.theguardian.com/science/alexs-adventures-in-numberland/2015/apr/13/can-you-solve-the-singapore-primary-maths-question-that-went-viral …",
+    "link": "https://twitter.com/VitalikButerin/status/588616810527727616",
+    "is_retweet": false,
+    "retweets": "7",
+    "favorites": "4",
+    "replies": ""
+  },
+  {
+    "id": "588416198909566976",
+    "timestamp": "11:58 AM - 15 Apr 2015",
+    "text": "@ofnumbers @MrChrisEllis also ironic since the majority of our losses were due to us holding too much of bitcoiners' preferred currency :D",
+    "link": "https://twitter.com/VitalikButerin/status/588416198909566976",
+    "is_retweet": false,
+    "retweets": "8",
+    "favorites": "9",
+    "replies": "2"
+  },
+  {
+    "id": "588376818551369728",
+    "timestamp": "9:22 AM - 15 Apr 2015",
+    "text": "Scalability paper v3 in progress; rephrasing the problem specification in terms of a homomorphism, among other readability improvements",
+    "link": "https://twitter.com/VitalikButerin/status/588376818551369728",
+    "is_retweet": false,
+    "retweets": "8",
+    "favorites": "8",
+    "replies": "1"
+  },
+  {
+    "id": "588369200940482560",
+    "timestamp": "8:52 AM - 15 Apr 2015",
+    "text": "\"The terrorists are coming for our freedoms. Better hide them before they get here!\" - commenter on Reddit",
+    "link": "https://twitter.com/VitalikButerin/status/588369200940482560",
+    "is_retweet": false,
+    "retweets": "19",
+    "favorites": "26",
+    "replies": "2"
+  },
+  {
+    "id": "587595206976995328",
+    "timestamp": "5:36 AM - 13 Apr 2015",
+    "text": "@chepurnoy @stephantual @gavofyork No, ethereum 1.0 is perfect in every way and is never going to change. Enjoy your P+ε attacks on ethash.",
+    "link": "https://twitter.com/VitalikButerin/status/587595206976995328",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "2",
+    "replies": ""
+  },
+  {
+    "id": "587291687455694849",
+    "timestamp": "9:30 AM - 12 Apr 2015",
+    "text": "@CryptOhio If they can find their own function of money, it must resort to breakthrough the world. Peers peers peers can.",
+    "link": "https://twitter.com/VitalikButerin/status/587291687455694849",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "3",
+    "replies": ""
+  },
+  {
+    "id": "587268443126296577",
+    "timestamp": "7:58 AM - 12 Apr 2015",
+    "text": "Umm... http://archive.org/stream/EtherealVerses/Ethereal_Verses#page/n0/mode/2up …",
+    "link": "https://twitter.com/VitalikButerin/status/587268443126296577",
+    "is_retweet": false,
+    "retweets": "10",
+    "favorites": "16",
+    "replies": "6"
+  },
+  {
+    "id": "587146513526235136",
+    "timestamp": "11:53 PM - 11 Apr 2015",
+    "text": "@markcross at least until the next single-day 50% drop...",
+    "link": "https://twitter.com/VitalikButerin/status/587146513526235136",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "2",
+    "replies": "1"
+  },
+  {
+    "id": "587117606307500032",
+    "timestamp": "9:58 PM - 11 Apr 2015",
+    "text": "Went to sleep, BTC price 237. Woke up, think \"I wonder what BTC price is; hmm, I'll guess 237\" Checked, was right #efficientmarkethypothesis",
+    "link": "https://twitter.com/VitalikButerin/status/587117606307500032",
+    "is_retweet": false,
+    "retweets": "7",
+    "favorites": "14",
+    "replies": "8"
+  },
+  {
+    "id": "587114952068100096",
+    "timestamp": "9:48 PM - 11 Apr 2015",
+    "text": "@DoctorGoss @gavofyork Good for solving a couple economic issues, bad for being remotely decentralized/egalitarian; GPU good compromise imo",
+    "link": "https://twitter.com/VitalikButerin/status/587114952068100096",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "5",
+    "replies": "1"
+  },
+  {
+    "id": "586955572513271808",
+    "timestamp": "11:14 AM - 11 Apr 2015",
+    "text": "http://coincenter.org/2015/04/silk-road-corruption-case-shows-how-law-enforcement-uses-bitcoin/?utm_source=bitcoinweekly&utm_medium=email … though I think people are a bit naive assuming that privacy tech won't keep advancing...",
+    "link": "https://twitter.com/VitalikButerin/status/586955572513271808",
+    "is_retweet": false,
+    "retweets": "5",
+    "favorites": "10",
+    "replies": "1"
+  },
+  {
+    "id": "586921100862423041",
+    "timestamp": "8:57 AM - 11 Apr 2015",
+    "text": "http://domainnamewire.com/wp-content/IPC-sucks.pdf … Lolz. The real world gets more cryptoeconomic every day.... @VladZamfir",
+    "link": "https://twitter.com/VitalikButerin/status/586921100862423041",
+    "is_retweet": false,
+    "retweets": "6",
+    "favorites": "10",
+    "replies": "1"
+  },
+  {
+    "id": "586820898071646208",
+    "timestamp": "2:19 AM - 11 Apr 2015",
+    "text": "@awrelllRo @gavofyork Looking at difficulty numbers and block creation rate it's least 5MH/s, likely over 10. Pretty good for ethash :)",
+    "link": "https://twitter.com/VitalikButerin/status/586820898071646208",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "3",
+    "replies": "1"
+  },
+  {
+    "id": "586622615613235200",
+    "timestamp": "1:11 PM - 10 Apr 2015",
+    "text": "@gavofyork just 51% attacked the testnet @ 69700 with a laptop GPU miner. Est 2048*ln(25) = 6500 blocks before block time renormalizes",
+    "link": "https://twitter.com/VitalikButerin/status/586622615613235200",
+    "is_retweet": false,
+    "retweets": "6",
+    "favorites": "11",
+    "replies": "2"
+  },
+  {
+    "id": "586524339652186112",
+    "timestamp": "6:41 AM - 10 Apr 2015",
+    "text": "@xSevithx At least the part up to 2009.",
+    "link": "https://twitter.com/VitalikButerin/status/586524339652186112",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "",
+    "replies": ""
+  },
+  {
+    "id": "586524221490233345",
+    "timestamp": "6:40 AM - 10 Apr 2015",
+    "text": "@xSevithx Any reasons why? :) I know from knowing people and experience that building BTC is _completely_ within the reach of a single dev",
+    "link": "https://twitter.com/VitalikButerin/status/586524221490233345",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "2",
+    "replies": "5"
+  },
+  {
+    "id": "586444336373501952",
+    "timestamp": "1:23 AM - 10 Apr 2015",
+    "text": "@deonopperman6 oh I agree, though only time will tell if it can maintain salience in the long term",
+    "link": "https://twitter.com/VitalikButerin/status/586444336373501952",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "",
+    "replies": ""
+  },
+  {
+    "id": "586233490393411584",
+    "timestamp": "11:25 AM - 9 Apr 2015",
+    "text": "C++, go, py synced at 60027",
+    "link": "https://twitter.com/VitalikButerin/status/586233490393411584",
+    "is_retweet": false,
+    "retweets": "11",
+    "favorites": "20",
+    "replies": "2"
+  },
+  {
+    "id": "586117471029035008",
+    "timestamp": "3:44 AM - 9 Apr 2015",
+    "text": "@CryptoScalper Chen actually showed it to me a few months ago; seems to look good generally thought I await a real-world experiment :)",
+    "link": "https://twitter.com/VitalikButerin/status/586117471029035008",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": "1"
+  },
+  {
+    "id": "586025688882360321",
+    "timestamp": "9:39 PM - 8 Apr 2015",
+    "text": "@petertodd 's zapchain interview: https://www.zapchain.com/a/XKZd7To3IM ",
+    "link": "https://twitter.com/VitalikButerin/status/586025688882360321",
+    "is_retweet": false,
+    "retweets": "4",
+    "favorites": "4",
+    "replies": ""
+  },
+  {
+    "id": "585881644227305473",
+    "timestamp": "12:07 PM - 8 Apr 2015",
+    "text": "Satoshi Nakamoto was probably one guy, aged between 30 and 50, and perhaps even actually Japanese. Though would be cool if it was a woman :)",
+    "link": "https://twitter.com/VitalikButerin/status/585881644227305473",
+    "is_retweet": false,
+    "retweets": "22",
+    "favorites": "28",
+    "replies": "10"
+  },
+  {
+    "id": "585864902734151683",
+    "timestamp": "11:00 AM - 8 Apr 2015",
+    "text": "https://www.stellar.org/papers/stellar-consensus-protocol.pdf … Cool. Though the \"make your own consensus group\" concept does bring http://www.jofreeman.com/joreen/tyranny.htm … to mind...",
+    "link": "https://twitter.com/VitalikButerin/status/585864902734151683",
+    "is_retweet": false,
+    "retweets": "14",
+    "favorites": "15",
+    "replies": "2"
+  },
+  {
+    "id": "585796564913938432",
+    "timestamp": "6:29 AM - 8 Apr 2015",
+    "text": "Took me until seeing this to realize just how Sisyphean being a progress-free miner feels :) http://i.imgur.com/cn1ix30.png ",
+    "link": "https://twitter.com/VitalikButerin/status/585796564913938432",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "4",
+    "replies": ""
+  },
+  {
+    "id": "585508552808202242",
+    "timestamp": "11:24 AM - 7 Apr 2015",
+    "text": "http://www.cato-unbound.org/2015/04/06/alex-tabarrok-tyler-cowen/end-asymmetric-information … @ATabarrok @tylercowen excellent read relevant to anyone working on rep systems @openbazaar",
+    "link": "https://twitter.com/VitalikButerin/status/585508552808202242",
+    "is_retweet": false,
+    "retweets": "12",
+    "favorites": "16",
+    "replies": "1"
+  },
+  {
+    "id": "585304150994477056",
+    "timestamp": "9:52 PM - 6 Apr 2015",
+    "text": "@Truthcoin impracticality depends heavily on domain; biology, caveman politics, modern economics/politics and cryptoeconomics VERY different",
+    "link": "https://twitter.com/VitalikButerin/status/585304150994477056",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "",
+    "replies": "1"
+  },
+  {
+    "id": "585193730216460288",
+    "timestamp": "2:33 PM - 6 Apr 2015",
+    "text": "@HoboJerk @zooko @ofnumbers It's not that complicated; the economath justifying it is. But already see I need to explain better...",
+    "link": "https://twitter.com/VitalikButerin/status/585193730216460288",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": "1"
+  },
+  {
+    "id": "585121225011240960",
+    "timestamp": "9:45 AM - 6 Apr 2015",
+    "text": "@taoeffect @dajbelshaw Is something wrong with pdfs now?",
+    "link": "https://twitter.com/VitalikButerin/status/585121225011240960",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": "1"
+  },
+  {
+    "id": "585121093800833024",
+    "timestamp": "9:45 AM - 6 Apr 2015",
+    "text": "@Awyee707 nah, it does. It's just that it programmed the mind to re-program itself based on the environment.",
+    "link": "https://twitter.com/VitalikButerin/status/585121093800833024",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "2",
+    "replies": "2"
+  },
+  {
+    "id": "585119140727357440",
+    "timestamp": "9:37 AM - 6 Apr 2015",
+    "text": "@Awyee707 That applies to humans as well, except we're programmed by genetics :)",
+    "link": "https://twitter.com/VitalikButerin/status/585119140727357440",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": "2"
+  },
+  {
+    "id": "585118878793097216",
+    "timestamp": "9:36 AM - 6 Apr 2015",
+    "text": "@zooko Yeah, I agree. Though would love to see size complexity knocked down from cubic to quadratic in the security parameter somehow...",
+    "link": "https://twitter.com/VitalikButerin/status/585118878793097216",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "1",
+    "replies": "1"
+  },
+  {
+    "id": "585098820637319168",
+    "timestamp": "8:16 AM - 6 Apr 2015",
+    "text": "@zooko Sure, SPHINCS is better in that sense, but it is also 100x bigger. It's a tradeoff. But I will mention sphincs in the paper",
+    "link": "https://twitter.com/VitalikButerin/status/585098820637319168",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": "1"
+  },
+  {
+    "id": "585072811204616192",
+    "timestamp": "6:33 AM - 6 Apr 2015",
+    "text": "My 45-page blockchain scalability paper, version 0.0.2 https://github.com/vbuterin/scalability_paper/raw/master/scalability.pdf …",
+    "link": "https://twitter.com/VitalikButerin/status/585072811204616192",
+    "is_retweet": false,
+    "retweets": "62",
+    "favorites": "79",
+    "replies": "7"
+  },
+  {
+    "id": "585005966858579968",
+    "timestamp": "2:07 AM - 6 Apr 2015",
+    "text": "Evil software idea: OPE-miner (\"other ppl's electricity\"): mine from ur laptop iff ur not using home wifi network so are probably elsewhere",
+    "link": "https://twitter.com/VitalikButerin/status/585005966858579968",
+    "is_retweet": false,
+    "retweets": "5",
+    "favorites": "4",
+    "replies": "4"
+  },
+  {
+    "id": "584967151053905920",
+    "timestamp": "11:33 PM - 5 Apr 2015",
+    "text": "Key point from my https://blog.ethereum.org/2014/11/25/proof-stake-learned-love-weak-subjectivity/ … : consensus is a social process, and humans can do it too; machines simply do it more efficiently",
+    "link": "https://twitter.com/VitalikButerin/status/584967151053905920",
+    "is_retweet": false,
+    "retweets": "23",
+    "favorites": "31",
+    "replies": "2"
+  },
+  {
+    "id": "584965623106646016",
+    "timestamp": "11:27 PM - 5 Apr 2015",
+    "text": "RT @clearmaticshttp://cryptonomics.org/2015/02/05/which-fedcoin/ …",
+    "link": "https://twitter.com/VitalikButerin/status/584965623106646016",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "6",
+    "replies": "1"
+  },
+  {
+    "id": "584965216066207745",
+    "timestamp": "11:25 PM - 5 Apr 2015",
+    "text": "The best way to learn monetary policy theory is to start inventing your own stablecoin scheme.",
+    "link": "https://twitter.com/VitalikButerin/status/584965216066207745",
+    "is_retweet": false,
+    "retweets": "38",
+    "favorites": "47",
+    "replies": "6"
+  },
+  {
+    "id": "584942418342125568",
+    "timestamp": "9:55 PM - 5 Apr 2015",
+    "text": "@Irish_Goodbye http://i.imgur.com/7drHiqr.gif ",
+    "link": "https://twitter.com/VitalikButerin/status/584942418342125568",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": "1"
+  },
+  {
+    "id": "584669451188051968",
+    "timestamp": "3:50 AM - 5 Apr 2015",
+    "text": "ethereum poc9 testnet just broke through 30k blocks, made successful dag transition!https://github.com/ethereum/wiki/wiki/Ethash …",
+    "link": "https://twitter.com/VitalikButerin/status/584669451188051968",
+    "is_retweet": false,
+    "retweets": "20",
+    "favorites": "25",
+    "replies": "3"
+  },
+  {
+    "id": "584658240279019520",
+    "timestamp": "3:06 AM - 5 Apr 2015",
+    "text": "83% of modern firms' value is \"dark matter\" http://www.overcomingbias.com/2015/04/firms-are-56-dark-matter.html …",
+    "link": "https://twitter.com/VitalikButerin/status/584658240279019520",
+    "is_retweet": false,
+    "retweets": "32",
+    "favorites": "23",
+    "replies": "3"
+  },
+  {
+    "id": "584595416089501696",
+    "timestamp": "10:56 PM - 4 Apr 2015",
+    "text": "@Truthcoin Is there an example of a biological system pulling off a P+epsilon attack? Would love to see that actually :)",
+    "link": "https://twitter.com/VitalikButerin/status/584595416089501696",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": "1"
+  },
+  {
+    "id": "584428124164751361",
+    "timestamp": "11:51 AM - 4 Apr 2015",
+    "text": "@cjenscook @prestonjbyrne @iang_fc @dgwbirch I don't think it matters that much which standard you use, as long as it's reasonable stable...",
+    "link": "https://twitter.com/VitalikButerin/status/584428124164751361",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "",
+    "replies": "1"
+  },
+  {
+    "id": "584422602615169024",
+    "timestamp": "11:29 AM - 4 Apr 2015",
+    "text": "@cjenscook @prestonjbyrne @iang_fc @dgwbirch Σ 1/2 mv^2 - Gm1m2/r + .. = 0 is just one invariant among many; no need to privilege energy imo",
+    "link": "https://twitter.com/VitalikButerin/status/584422602615169024",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "",
+    "replies": "1"
+  },
+  {
+    "id": "584386947562483712",
+    "timestamp": "9:08 AM - 4 Apr 2015",
+    "text": "If you can predict what an intellectual will say on _every_ issue they're useless: your simulation of them inside your head is just as good",
+    "link": "https://twitter.com/VitalikButerin/status/584386947562483712",
+    "is_retweet": false,
+    "retweets": "77",
+    "favorites": "115",
+    "replies": "12"
+  },
+  {
+    "id": "584372301694640128",
+    "timestamp": "8:09 AM - 4 Apr 2015",
+    "text": "@dgwbirch @eris_ltd @iang_fc Cryptocurrencies aren't _just_ code; consensus algos are backed by both math and economics",
+    "link": "https://twitter.com/VitalikButerin/status/584372301694640128",
+    "is_retweet": false,
+    "retweets": "4",
+    "favorites": "3",
+    "replies": "1"
+  },
+  {
+    "id": "584372183323058176",
+    "timestamp": "8:09 AM - 4 Apr 2015",
+    "text": "@iang_fc @dgwbirch Almost everything is a game. But some are more similar than others...",
+    "link": "https://twitter.com/VitalikButerin/status/584372183323058176",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "1",
+    "replies": "1"
+  },
+  {
+    "id": "584322638329290752",
+    "timestamp": "4:52 AM - 4 Apr 2015",
+    "text": "@prestonjbyrne @Calem_Smith @petertoddbtc I go with \"cryptoeconomically secured replicated state machine\" :)",
+    "link": "https://twitter.com/VitalikButerin/status/584322638329290752",
+    "is_retweet": false,
+    "retweets": "3",
+    "favorites": "4",
+    "replies": ""
+  },
+  {
+    "id": "584290979261325312",
+    "timestamp": "2:46 AM - 4 Apr 2015",
+    "text": "@petertoddbtc @junseth @prestonjbyrne I'm trying to minimize my use of \"blockchain\" entirely lately",
+    "link": "https://twitter.com/VitalikButerin/status/584290979261325312",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "7",
+    "replies": "3"
+  },
+  {
+    "id": "584290823291981824",
+    "timestamp": "2:46 AM - 4 Apr 2015",
+    "text": "@prestonjbyrne hey digital gold needs to go bling bling somehow...",
+    "link": "https://twitter.com/VitalikButerin/status/584290823291981824",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "1",
+    "replies": ""
+  },
+  {
+    "id": "584274647232937984",
+    "timestamp": "1:41 AM - 4 Apr 2015",
+    "text": "@dgwbirch eg. criminal justice has near-perfect analogues of fiat-shamir heuristic, sample/fallback games, security deposits, merkle proofs",
+    "link": "https://twitter.com/VitalikButerin/status/584274647232937984",
+    "is_retweet": false,
+    "retweets": "3",
+    "favorites": "",
+    "replies": "2"
+  },
+  {
+    "id": "584267043215663104",
+    "timestamp": "1:11 AM - 4 Apr 2015",
+    "text": "@dgwbirch big picture: both are incentive games, lead to society-wide consensus, involve expensive-to-gather info, use similar strategies",
+    "link": "https://twitter.com/VitalikButerin/status/584267043215663104",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "2",
+    "replies": "2"
+  },
+  {
+    "id": "584265048526344195",
+    "timestamp": "1:03 AM - 4 Apr 2015",
+    "text": "The more you think about cryptoeconomics the more you realize just how many parallels with the criminal justice system there are.",
+    "link": "https://twitter.com/VitalikButerin/status/584265048526344195",
+    "is_retweet": false,
+    "retweets": "14",
+    "favorites": "21",
+    "replies": "7"
+  },
+  {
+    "id": "584263607959040000",
+    "timestamp": "12:57 AM - 4 Apr 2015",
+    "text": "@Kolin_Quark But... but they accept Bitcoin! Surely they have left the axis of evil and are now heroes of the light...",
+    "link": "https://twitter.com/VitalikButerin/status/584263607959040000",
+    "is_retweet": false,
+    "retweets": "3",
+    "favorites": "3",
+    "replies": ""
+  },
+  {
+    "id": "584261004672036864",
+    "timestamp": "12:47 AM - 4 Apr 2015",
+    "text": "http://techcrunch.com/2015/04/03/microsoft-disables-do-not-track-as-the-default-setting-in-internet-explorer/#mxPD6n:HhLf … suggested compromise: force the user to manually click \"yes by default\" or \"no by default\" at setup",
+    "link": "https://twitter.com/VitalikButerin/status/584261004672036864",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "4",
+    "replies": "2"
+  },
+  {
+    "id": "584161953729372160",
+    "timestamp": "6:13 PM - 3 Apr 2015",
+    "text": "@tensorjack @Forbes I prefer game-theoretic encryption: don't tell anyone or I'll shoot you.",
+    "link": "https://twitter.com/VitalikButerin/status/584161953729372160",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "3",
+    "replies": ""
+  },
+  {
+    "id": "584161419526070272",
+    "timestamp": "6:11 PM - 3 Apr 2015",
+    "text": "Slavoj Zizek on \"wisdom\": http://www.theguardian.com/books/live/2014/oct/06/slavoj-zizek-webchat-absolute-recoil#comment-41948210 … ; see alsohttp://lesswrong.com/lw/k8/how_to_seem_and_be_deep/ …",
+    "link": "https://twitter.com/VitalikButerin/status/584161419526070272",
+    "is_retweet": false,
+    "retweets": "5",
+    "favorites": "7",
+    "replies": "1"
+  },
+  {
+    "id": "584028751593345024",
+    "timestamp": "9:24 AM - 3 Apr 2015",
+    "text": "Best Monty-Hall explanation I've seen so farhttp://lesswrong.com/lw/jt/what_evidence_filtered_evidence/ …",
+    "link": "https://twitter.com/VitalikButerin/status/584028751593345024",
+    "is_retweet": false,
+    "retweets": "6",
+    "favorites": "2",
+    "replies": ""
+  },
+  {
+    "id": "583977630564757504",
+    "timestamp": "6:01 AM - 3 Apr 2015",
+    "text": "@Forbes http://www.forbes.com/sites/steveforbes/2015/04/02/how-bitcoin-will-end-world-poverty/ … \"William Blair partner Brian Singer explains how Bitcoin and blockchain encryption...\" /facepalm",
+    "link": "https://twitter.com/VitalikButerin/status/583977630564757504",
+    "is_retweet": false,
+    "retweets": "5",
+    "favorites": "7",
+    "replies": "1"
+  },
+  {
+    "id": "583700140231417856",
+    "timestamp": "11:38 AM - 2 Apr 2015",
+    "text": "@BTC_Jeff @jeffscottward but the pencils need to be sidechained to a desk so they don't get stolen",
+    "link": "https://twitter.com/VitalikButerin/status/583700140231417856",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "2",
+    "replies": "1"
+  },
+  {
+    "id": "583652156043108353",
+    "timestamp": "8:28 AM - 2 Apr 2015",
+    "text": "@CryptoScalper @drei4u @IBM will open bids to a zip file containing https://github.com/ethereum/  at $25m",
+    "link": "https://twitter.com/VitalikButerin/status/583652156043108353",
+    "is_retweet": false,
+    "retweets": "3",
+    "favorites": "1",
+    "replies": "1"
+  },
+  {
+    "id": "583618568601923585",
+    "timestamp": "6:14 AM - 2 Apr 2015",
+    "text": "@brianchoffman @openbazaar the nice thing about maxflow is that you can make compact greater-than proofs; but yeah normal issues remain",
+    "link": "https://twitter.com/VitalikButerin/status/583618568601923585",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": ""
+  },
+  {
+    "id": "583588493735104512",
+    "timestamp": "4:15 AM - 2 Apr 2015",
+    "text": "@openbazaar Research direction: make rep calculations light-client friendly (using maxflow in place of simple transitivity may help...)",
+    "link": "https://twitter.com/VitalikButerin/status/583588493735104512",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "",
+    "replies": "2"
+  },
+  {
+    "id": "583588322326552576",
+    "timestamp": "4:14 AM - 2 Apr 2015",
+    "text": "@openbazaar 's reputation system:https://gist.github.com/dionyziz/e3b296861175e0ebea4b …",
+    "link": "https://twitter.com/VitalikButerin/status/583588322326552576",
+    "is_retweet": false,
+    "retweets": "7",
+    "favorites": "5",
+    "replies": "2"
+  },
+  {
+    "id": "583279337971032064",
+    "timestamp": "7:46 AM - 1 Apr 2015",
+    "text": "@codedlogic I don't think this is quite at decision theory level; more of a case of not taking into account that bets are not exogenous",
+    "link": "https://twitter.com/VitalikButerin/status/583279337971032064",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": ""
+  },
+  {
+    "id": "583269085137526784",
+    "timestamp": "7:06 AM - 1 Apr 2015",
+    "text": "Ethereum whitepaper from Dec 2013: http://vitalik.ca/ethereum/ethereum.html …",
+    "link": "https://twitter.com/VitalikButerin/status/583269085137526784",
+    "is_retweet": false,
+    "retweets": "14",
+    "favorites": "24",
+    "replies": "4"
+  },
+  {
+    "id": "583220389674946560",
+    "timestamp": "3:52 AM - 1 Apr 2015",
+    "text": "@dpfrank07 @clearmatics well, pareto frontier implies objevtives; don't think the real world by itself has any objectives for us :(",
+    "link": "https://twitter.com/VitalikButerin/status/583220389674946560",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "2",
+    "replies": "2"
+  },
+  {
+    "id": "583218998344585218",
+    "timestamp": "3:46 AM - 1 Apr 2015",
+    "text": "@codedlogic ah I see, you being smarter probably means others know you're smarter which means...",
+    "link": "https://twitter.com/VitalikButerin/status/583218998344585218",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": "2"
+  },
+  {
+    "id": "583218499994169344",
+    "timestamp": "3:45 AM - 1 Apr 2015",
+    "text": "@codedlogic then I would sell myself escaping the island alive at 3% and buy at 7% for fun, no consequences :D",
+    "link": "https://twitter.com/VitalikButerin/status/583218499994169344",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": ""
+  },
+  {
+    "id": "583217167136616448",
+    "timestamp": "3:39 AM - 1 Apr 2015",
+    "text": "@codedlogic that defn implies a society to buy and sell with. Can you not be KU on a desert island?",
+    "link": "https://twitter.com/VitalikButerin/status/583217167136616448",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": "2"
+  },
+  {
+    "id": "583216302455681025",
+    "timestamp": "3:36 AM - 1 Apr 2015",
+    "text": "@codedlogic hmm, examples?",
+    "link": "https://twitter.com/VitalikButerin/status/583216302455681025",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": "1"
+  },
+  {
+    "id": "583214080795774976",
+    "timestamp": "3:27 AM - 1 Apr 2015",
+    "text": "@codedlogic Knightian uncertainty is the variance in your prob dist over the prob estimate you would have if you knew more and were wiser",
+    "link": "https://twitter.com/VitalikButerin/status/583214080795774976",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": "2"
+  },
+  {
+    "id": "583195810566914048",
+    "timestamp": "2:14 AM - 1 Apr 2015",
+    "text": "Also see http://lesswrong.com/lw/sg/when_not_to_use_probabilities/ … on the \"ultrahigh BTC value\" debate, though am not sure it's that comparable to \"LHC will destroy the world\"",
+    "link": "https://twitter.com/VitalikButerin/status/583195810566914048",
+    "is_retweet": false,
+    "retweets": "4",
+    "favorites": "6",
+    "replies": ""
+  },
+  {
+    "id": "583191519089303552",
+    "timestamp": "1:57 AM - 1 Apr 2015",
+    "text": "@VladZamfirhttp://lesswrong.com/lw/mt/beautiful_probability/ …",
+    "link": "https://twitter.com/VitalikButerin/status/583191519089303552",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": ""
+  },
+  {
+    "id": "583189613063368704",
+    "timestamp": "1:50 AM - 1 Apr 2015",
+    "text": "On-chain \"verify BTC tx confirmations inside ethereum\" gateway from Joseph Chow making good progress:https://github.com/ethers/serpent-1/commit/fab975517f4a69e00d85d7123bb5cbc766bd676c …",
+    "link": "https://twitter.com/VitalikButerin/status/583189613063368704",
+    "is_retweet": false,
+    "retweets": "21",
+    "favorites": "18",
+    "replies": "1"
+  },
+  {
+    "id": "583183035832643584",
+    "timestamp": "1:24 AM - 1 Apr 2015",
+    "text": "@XRoads4Android \"Knightian uncertainty = I know other people know shit will happen, but I can't tell what kind of shit\", apparently",
+    "link": "https://twitter.com/VitalikButerin/status/583183035832643584",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": ""
+  },
+  {
+    "id": "583143531063177216",
+    "timestamp": "10:47 PM - 31 Mar 2015",
+    "text": "@Kolin_Quark I don't think it's possible for the whales to collude it up; down yes though",
+    "link": "https://twitter.com/VitalikButerin/status/583143531063177216",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "",
+    "replies": "1"
+  },
+  {
+    "id": "583134679177510912",
+    "timestamp": "10:11 PM - 31 Mar 2015",
+    "text": "One of the best responses against my attempt to put a probability on BTC value massively going up: http://www.benkuhn.net/prob ",
+    "link": "https://twitter.com/VitalikButerin/status/583134679177510912",
+    "is_retweet": false,
+    "retweets": "3",
+    "favorites": "13",
+    "replies": "5"
+  },
+  {
+    "id": "582963981247209472",
+    "timestamp": "10:53 AM - 31 Mar 2015",
+    "text": "Controversial opinion: P+ε is a non-issue in practice if and only if NaS is a non-issue in practice",
+    "link": "https://twitter.com/VitalikButerin/status/582963981247209472",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "4",
+    "replies": "1"
+  },
+  {
+    "id": "582963347374661633",
+    "timestamp": "10:51 AM - 31 Mar 2015",
+    "text": "@RenSylvain bad strawman; currency is vital but doesn't imply anything about superiority of bitcoin vs fiat",
+    "link": "https://twitter.com/VitalikButerin/status/582963347374661633",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "",
+    "replies": "1"
+  },
+  {
+    "id": "582962493926088706",
+    "timestamp": "10:47 AM - 31 Mar 2015",
+    "text": "@shitcoinbuster IMO no, store owners do not want to adjust their prices every month. For UoA, stability matters above all.",
+    "link": "https://twitter.com/VitalikButerin/status/582962493926088706",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "",
+    "replies": ""
+  },
+  {
+    "id": "582950332671619072",
+    "timestamp": "9:59 AM - 31 Mar 2015",
+    "text": "@DanielKrawisz @Edgierme @herzmeisterderw @r_Buttcoin this: http://nakamotoinstitute.org/mempool/hyperbitcoinization/ … (or more accurately, BTC at least replacing gold)",
+    "link": "https://twitter.com/VitalikButerin/status/582950332671619072",
+    "is_retweet": false,
+    "retweets": "5",
+    "favorites": "",
+    "replies": ""
+  },
+  {
+    "id": "582915499136278528",
+    "timestamp": "7:40 AM - 31 Mar 2015",
+    "text": "@ZviGoldstein I was _trying_ to be inquisitive, but I think people are just too used to the http://wiki.lesswrong.com/wiki/Arguments_as_soldiers … way of thinking :(",
+    "link": "https://twitter.com/VitalikButerin/status/582915499136278528",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": ""
+  },
+  {
+    "id": "582914665228972032",
+    "timestamp": "7:37 AM - 31 Mar 2015",
+    "text": "@herzmeisterderw my side is \"5% chance\". @DanielKrawisz 's side is \"100% chance\", @r_Buttcoin 's side is \"0% chance\". So yes they are...",
+    "link": "https://twitter.com/VitalikButerin/status/582914665228972032",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "3",
+    "replies": "1"
+  },
+  {
+    "id": "582801802640404480",
+    "timestamp": "12:09 AM - 31 Mar 2015",
+    "text": "What I learned debating r/buttcoin: extreme idealists attack anyone less idealistic than them, extreme cynics attack anyone less cynical",
+    "link": "https://twitter.com/VitalikButerin/status/582801802640404480",
+    "is_retweet": false,
+    "retweets": "28",
+    "favorites": "36",
+    "replies": "7"
+  },
+  {
+    "id": "582798561995321344",
+    "timestamp": "11:56 PM - 30 Mar 2015",
+    "text": "@romansnitko yes and crypto technology will give 3rd world better stores of value... by providing tools for them to more easily get/hold USD",
+    "link": "https://twitter.com/VitalikButerin/status/582798561995321344",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": "1"
+  },
+  {
+    "id": "582797930953891840",
+    "timestamp": "11:53 PM - 30 Mar 2015",
+    "text": "@xcsler Cool with 5% probability :D\n\n5% probability is that funny range where it can be worth investing financially in, but not emotionally.",
+    "link": "https://twitter.com/VitalikButerin/status/582797930953891840",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "1",
+    "replies": ""
+  },
+  {
+    "id": "582797707145818112",
+    "timestamp": "11:52 PM - 30 Mar 2015",
+    "text": "@shitcoinbuster unit of account != store of value",
+    "link": "https://twitter.com/VitalikButerin/status/582797707145818112",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "3",
+    "replies": ""
+  },
+  {
+    "id": "582626009188548609",
+    "timestamp": "12:30 PM - 30 Mar 2015",
+    "text": "BTW despite my increasing agreement with \"blockchain tech cool, currency meh\", reminder that I still believe this: http://i.imgur.com/6E3jMpL.png ",
+    "link": "https://twitter.com/VitalikButerin/status/582626009188548609",
+    "is_retweet": false,
+    "retweets": "24",
+    "favorites": "26",
+    "replies": "5"
+  },
+  {
+    "id": "582318968825888768",
+    "timestamp": "4:10 PM - 29 Mar 2015",
+    "text": "@clearmatics I have a feeling that in reality it's a multidimensional pareto frontier with steep diminishing marginal returns on all sides..",
+    "link": "https://twitter.com/VitalikButerin/status/582318968825888768",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "5",
+    "replies": "1"
+  },
+  {
+    "id": "582258777228984320",
+    "timestamp": "12:11 PM - 29 Mar 2015",
+    "text": "http://adamierymenko.com/decentralization-i-want-to-believe/ … one centralization compromise: cryptoeconomically incentivized/regulated free-entry supernodes",
+    "link": "https://twitter.com/VitalikButerin/status/582258777228984320",
+    "is_retweet": false,
+    "retweets": "7",
+    "favorites": "9",
+    "replies": "3"
+  },
+  {
+    "id": "582230703380819969",
+    "timestamp": "10:19 AM - 29 Mar 2015",
+    "text": "@socrates1024 @jeffcliff1 @least_nathan I'm not sure we know how many people would actually cooperate in a P+ε attack well-executed tomorrow",
+    "link": "https://twitter.com/VitalikButerin/status/582230703380819969",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "2",
+    "replies": "5"
+  },
+  {
+    "id": "582228985314189313",
+    "timestamp": "10:13 AM - 29 Mar 2015",
+    "text": "@socrates1024 @jeffcliff1 @least_nathan in simple model you can kinda say success happens iff 50%+ rationally follow along, hence my comment",
+    "link": "https://twitter.com/VitalikButerin/status/582228985314189313",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "2",
+    "replies": ""
+  },
+  {
+    "id": "582184289774788610",
+    "timestamp": "7:15 AM - 29 Mar 2015",
+    "text": "@lightcoin And especially ATMs. But then, ATMs usually wait 10 minutes before handing out more than $250.",
+    "link": "https://twitter.com/VitalikButerin/status/582184289774788610",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": ""
+  },
+  {
+    "id": "582158622333001728",
+    "timestamp": "5:33 AM - 29 Mar 2015",
+    "text": "@jeffcliff1 @least_nathan @socrates1024 Actually, the cost is exactly proportional to the _probability at least 50% will be altruist_.",
+    "link": "https://twitter.com/VitalikButerin/status/582158622333001728",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "2",
+    "replies": "1"
+  },
+  {
+    "id": "582158240399622145",
+    "timestamp": "5:31 AM - 29 Mar 2015",
+    "text": "\"Some ideas are both true and dangerous, and this sentence is an example\" - David Friedman",
+    "link": "https://twitter.com/VitalikButerin/status/582158240399622145",
+    "is_retweet": false,
+    "retweets": "6",
+    "favorites": "20",
+    "replies": ""
+  },
+  {
+    "id": "582151875673325568",
+    "timestamp": "5:06 AM - 29 Mar 2015",
+    "text": "@lightcoin local merchants don't rely on payment method security at all; trivial to dine-and-dash by leaving a few $1 bills on the table",
+    "link": "https://twitter.com/VitalikButerin/status/582151875673325568",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "2",
+    "replies": "1"
+  },
+  {
+    "id": "582151599684001792",
+    "timestamp": "5:05 AM - 29 Mar 2015",
+    "text": "@VitalikButerin Also, 2nd part makes the all-too-common error of mistaking enlightened self-interest for collective interest",
+    "link": "https://twitter.com/VitalikButerin/status/582151599684001792",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "6",
+    "replies": ""
+  },
+  {
+    "id": "582150293825196032",
+    "timestamp": "5:00 AM - 29 Mar 2015",
+    "text": "https://medium.com/@octskyward/replace-by-fee-43edd9a1dd6d … misses the mark; 0-conf works now not b/c it's secure, but b/c merch can withhold product if customer double-spends",
+    "link": "https://twitter.com/VitalikButerin/status/582150293825196032",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "7",
+    "replies": "2"
+  },
+  {
+    "id": "581843910512754688",
+    "timestamp": "8:42 AM - 28 Mar 2015",
+    "text": "@adam3us I agree NXT documentation is terrible; took me 6 months+ to figure out the fundamental mechanisms myself",
+    "link": "https://twitter.com/VitalikButerin/status/581843910512754688",
+    "is_retweet": false,
+    "retweets": "3",
+    "favorites": "7",
+    "replies": "2"
+  },
+  {
+    "id": "581843608422236160",
+    "timestamp": "8:41 AM - 28 Mar 2015",
+    "text": "@adam3us NXT requires eligible coins to be locked up for 1440 blocks",
+    "link": "https://twitter.com/VitalikButerin/status/581843608422236160",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": ""
+  },
+  {
+    "id": "581843282730336256",
+    "timestamp": "8:40 AM - 28 Mar 2015",
+    "text": "RT @interfluidity \"Soylent blockchains\" http://www.interfluidity.com/uploads/2015/02/soylent-blockchains-to-share.pdf …",
+    "link": "https://twitter.com/VitalikButerin/status/581843282730336256",
+    "is_retweet": false,
+    "retweets": "9",
+    "favorites": "11",
+    "replies": "2"
+  },
+  {
+    "id": "581837189518086144",
+    "timestamp": "8:16 AM - 28 Mar 2015",
+    "text": "@adam3us You're assuming the content of the block has any relevance on who gets to sign it. In NXT-style algos that's false.",
+    "link": "https://twitter.com/VitalikButerin/status/581837189518086144",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "3",
+    "replies": "1"
+  },
+  {
+    "id": "581787981691904003",
+    "timestamp": "5:00 AM - 28 Mar 2015",
+    "text": "@adam3us that assumes PoS with an exploitable entropy source. plenty of PoS with unexploitable entropy exists (eg. the NXT algo)",
+    "link": "https://twitter.com/VitalikButerin/status/581787981691904003",
+    "is_retweet": false,
+    "retweets": "4",
+    "favorites": "5",
+    "replies": "1"
+  },
+  {
+    "id": "581786215353024512",
+    "timestamp": "4:53 AM - 28 Mar 2015",
+    "text": "@adam3us @least_nathan @socrates1024 Agree they're different, but in practice the two always agree so I model them as one factor",
+    "link": "https://twitter.com/VitalikButerin/status/581786215353024512",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": ""
+  },
+  {
+    "id": "581622573890347008",
+    "timestamp": "6:03 PM - 27 Mar 2015",
+    "text": "@prestonjbyrne @BlueMeanie4 @DeadPrecariat @15MBcn_int That marmot looks vulnerable to P + epsilon attacks.",
+    "link": "https://twitter.com/VitalikButerin/status/581622573890347008",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "3",
+    "replies": ""
+  },
+  {
+    "id": "581612982775484416",
+    "timestamp": "5:25 PM - 27 Mar 2015",
+    "text": "@BlueMeanie4 @DeadPrecariat @15MBcn_int I heard something at a conf, I thought it was interesting so retweeted. Is this abnormal?",
+    "link": "https://twitter.com/VitalikButerin/status/581612982775484416",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": ""
+  },
+  {
+    "id": "581612640235028480",
+    "timestamp": "5:23 PM - 27 Mar 2015",
+    "text": "@adam3us @least_nathan @socrates1024 naive PoS has: reward, fees, preserving stake value, altruism; NaS does nothing vs last two either",
+    "link": "https://twitter.com/VitalikButerin/status/581612640235028480",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": "2"
+  },
+  {
+    "id": "581611547866316800",
+    "timestamp": "5:19 PM - 27 Mar 2015",
+    "text": "@BlueMeanie4 @DeadPrecariat @15MBcn_int Umm... I never expressed _normative_ agreement, only intrigue in the claim from positive perspective",
+    "link": "https://twitter.com/VitalikButerin/status/581611547866316800",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "2",
+    "replies": ""
+  },
+  {
+    "id": "581610746930446337",
+    "timestamp": "5:16 PM - 27 Mar 2015",
+    "text": "@zooko Yeah, just did the math myself and a 256-bit hash ladder version would indeed be exactly 41kb in size. 160-bit is only 12kb though :)",
+    "link": "https://twitter.com/VitalikButerin/status/581610746930446337",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": ""
+  },
+  {
+    "id": "581494927512760321",
+    "timestamp": "9:36 AM - 27 Mar 2015",
+    "text": "@MarshallHayner The point is that bad stablecoins turn into ponzi schemes, good ones get something like a -9.09% interest rate",
+    "link": "https://twitter.com/VitalikButerin/status/581494927512760321",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "2",
+    "replies": "2"
+  },
+  {
+    "id": "581493359547547648",
+    "timestamp": "9:29 AM - 27 Mar 2015",
+    "text": "Litmus test for sanity of a stablecoin scheme: what happens when you try to make it target the price index of \"1.1 ^ (year - 2014) dollars\"?",
+    "link": "https://twitter.com/VitalikButerin/status/581493359547547648",
+    "is_retweet": false,
+    "retweets": "3",
+    "favorites": "7",
+    "replies": "1"
+  },
+  {
+    "id": "581445190705106944",
+    "timestamp": "6:18 AM - 27 Mar 2015",
+    "text": "http://joyb.blogspot.ca/2015/03/is-iceland-still-democracy.html … <- Iceland has its own little-covered version of \"The 47 Senators\"; not sure what to think but interesting",
+    "link": "https://twitter.com/VitalikButerin/status/581445190705106944",
+    "is_retweet": false,
+    "retweets": "4",
+    "favorites": "4",
+    "replies": ""
+  },
+  {
+    "id": "581444661073600514",
+    "timestamp": "6:16 AM - 27 Mar 2015",
+    "text": "Stablecoins are basically just shares in a DAO that invests in CFDs to target a particular asset exposure.",
+    "link": "https://twitter.com/VitalikButerin/status/581444661073600514",
+    "is_retweet": false,
+    "retweets": "12",
+    "favorites": "17",
+    "replies": "1"
+  },
+  {
+    "id": "581392832700792832",
+    "timestamp": "2:50 AM - 27 Mar 2015",
+    "text": "Centralized governments: Freenet or Skynet?http://www.trust.org/item/20150327012452-ube0x/?source=dpagetopic …",
+    "link": "https://twitter.com/VitalikButerin/status/581392832700792832",
+    "is_retweet": false,
+    "retweets": "8",
+    "favorites": "6",
+    "replies": "1"
+  },
+  {
+    "id": "581384782032011264",
+    "timestamp": "2:18 AM - 27 Mar 2015",
+    "text": "@sonsofsatoshi I would go with median over average to get a stronger low-influence property, but yeah that's the idea",
+    "link": "https://twitter.com/VitalikButerin/status/581384782032011264",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": ""
+  },
+  {
+    "id": "581228661656985600",
+    "timestamp": "3:58 PM - 26 Mar 2015",
+    "text": "@zooko Looks nice, brilliant ideas, though 41kb painful :( Wonder if we can optimize more via hash ladders...https://gist.github.com/karlgluck/8412807 …",
+    "link": "https://twitter.com/VitalikButerin/status/581228661656985600",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "2",
+    "replies": "1"
+  },
+  {
+    "id": "581218900731367425",
+    "timestamp": "3:19 PM - 26 Mar 2015",
+    "text": "And... someone else did it for us.http://www.reddit.com/r/ethereum/comments/30f98i/introducing_edollar_the_ultimate_stablecoin_built/ …",
+    "link": "https://twitter.com/VitalikButerin/status/581218900731367425",
+    "is_retweet": false,
+    "retweets": "31",
+    "favorites": "39",
+    "replies": "4"
+  },
+  {
+    "id": "581171506924929026",
+    "timestamp": "12:10 PM - 26 Mar 2015",
+    "text": "@MeherRoy I still generally stand by my objective/subjective/weak-subjective characterization here: https://blog.ethereum.org/2014/11/25/proof-stake-learned-love-weak-subjectivity/ …",
+    "link": "https://twitter.com/VitalikButerin/status/581171506924929026",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "3",
+    "replies": "1"
+  },
+  {
+    "id": "581151096128843776",
+    "timestamp": "10:49 AM - 26 Mar 2015",
+    "text": "@MeherRoy @prestonjbyrne @iang_fc @tradewithdave @gl_citizen IMO just use \"cryptoeconomic\" vs \"reputation-based\" security/consensus",
+    "link": "https://twitter.com/VitalikButerin/status/581151096128843776",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "3",
+    "replies": "1"
+  },
+  {
+    "id": "581150909905936384",
+    "timestamp": "10:49 AM - 26 Mar 2015",
+    "text": "@MeherRoy @prestonjbyrne @iang_fc @tradewithdave drawing distinctions between what feel like synonyms is bad linguistic prescriptivism",
+    "link": "https://twitter.com/VitalikButerin/status/581150909905936384",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "2",
+    "replies": "2"
+  },
+  {
+    "id": "581135683936489472",
+    "timestamp": "9:48 AM - 26 Mar 2015",
+    "text": "Relevant to quantum-proofness:http://stackoverflow.com/questions/311064/are-there-public-key-cryptography-algorithms-that-are-provably-np-hard-to-defeat …",
+    "link": "https://twitter.com/VitalikButerin/status/581135683936489472",
+    "is_retweet": false,
+    "retweets": "4",
+    "favorites": "8",
+    "replies": "1"
+  },
+  {
+    "id": "581101773865259008",
+    "timestamp": "7:33 AM - 26 Mar 2015",
+    "text": "\"Increasing system honesty given X human honesty\" and \"reducing human honesty required for X system honesty\" ARE THE SAME GOAL",
+    "link": "https://twitter.com/VitalikButerin/status/581101773865259008",
+    "is_retweet": false,
+    "retweets": "12",
+    "favorites": "10",
+    "replies": "3"
+  },
+  {
+    "id": "580069424121581569",
+    "timestamp": "11:11 AM - 23 Mar 2015",
+    "text": "@ankscricholic @tabrischen @ethereum @SAI I think \"bitcoin\" is for many people a metonymy for \"decentralized cryptoeconomic databases\"",
+    "link": "https://twitter.com/VitalikButerin/status/580069424121581569",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "3",
+    "replies": ""
+  },
+  {
+    "id": "579809019352715264",
+    "timestamp": "5:56 PM - 22 Mar 2015",
+    "text": "@codedlogic Actually, monopolist deadweight loss arguments apply quite a bit more often :)",
+    "link": "https://twitter.com/VitalikButerin/status/579809019352715264",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "2",
+    "replies": "2"
+  },
+  {
+    "id": "579808533966921728",
+    "timestamp": "5:55 PM - 22 Mar 2015",
+    "text": "Assuming perfect rationality, mathematicians are useless; they only tell you things you would have figured out anyway had you thought harder",
+    "link": "https://twitter.com/VitalikButerin/status/579808533966921728",
+    "is_retweet": false,
+    "retweets": "15",
+    "favorites": "14",
+    "replies": "7"
+  },
+  {
+    "id": "579805649753772032",
+    "timestamp": "5:43 PM - 22 Mar 2015",
+    "text": "Random idea: use the seq number in a BTC tx in order to have the txfee in every tx you send anyway go toward a costly identity @openbazaar",
+    "link": "https://twitter.com/VitalikButerin/status/579805649753772032",
+    "is_retweet": false,
+    "retweets": "3",
+    "favorites": "8",
+    "replies": ""
+  },
+  {
+    "id": "579787688728985600",
+    "timestamp": "4:32 PM - 22 Mar 2015",
+    "text": "@derosetech @MeherRoy @junseth @prestonjbyrne @LevelDB Python is a rube-goldberg wrapper over assembly.",
+    "link": "https://twitter.com/VitalikButerin/status/579787688728985600",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "2",
+    "replies": "1"
+  },
+  {
+    "id": "579663860950429696",
+    "timestamp": "8:20 AM - 22 Mar 2015",
+    "text": "@Leecrypto Marginal cost, marginal revenue",
+    "link": "https://twitter.com/VitalikButerin/status/579663860950429696",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "",
+    "replies": ""
+  },
+  {
+    "id": "579663662945685506",
+    "timestamp": "8:19 AM - 22 Mar 2015",
+    "text": "@maraoz And then we are the ones creating the tech, and so we ourselves have to balance MC/MR, and... :)",
+    "link": "https://twitter.com/VitalikButerin/status/579663662945685506",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": ""
+  },
+  {
+    "id": "579654248201392128",
+    "timestamp": "7:41 AM - 22 Mar 2015",
+    "text": "Decentralize all the things right up to the point where MR for additional decentralization crosses below MC.",
+    "link": "https://twitter.com/VitalikButerin/status/579654248201392128",
+    "is_retweet": false,
+    "retweets": "8",
+    "favorites": "11",
+    "replies": "4"
+  },
+  {
+    "id": "578946679854010368",
+    "timestamp": "8:50 AM - 20 Mar 2015",
+    "text": "@RNikbin _Maybe_, send email to v@buterin.com with more details, will see",
+    "link": "https://twitter.com/VitalikButerin/status/578946679854010368",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "2",
+    "replies": ""
+  },
+  {
+    "id": "578804458047561728",
+    "timestamp": "11:25 PM - 19 Mar 2015",
+    "text": "We should consider trying to popularize \"the 82%\" == people living outside the OECD.",
+    "link": "https://twitter.com/VitalikButerin/status/578804458047561728",
+    "is_retweet": false,
+    "retweets": "10",
+    "favorites": "10",
+    "replies": "1"
+  },
+  {
+    "id": "578802013837877248",
+    "timestamp": "11:15 PM - 19 Mar 2015",
+    "text": "\"Online to offline\" - English acronym that seems to be used only in Asia (eg. chinese wiki exists http://zh.wikipedia.org/wiki/O2O  but not english)",
+    "link": "https://twitter.com/VitalikButerin/status/578802013837877248",
+    "is_retweet": false,
+    "retweets": "3",
+    "favorites": "2",
+    "replies": "2"
+  },
+  {
+    "id": "578799403609300992",
+    "timestamp": "11:05 PM - 19 Mar 2015",
+    "text": "@BlueMeanie4 @TuckFheman @gendal Selective presentation. Sure, deceptive somewhat, but then so is wearing a suit in order to impress someone",
+    "link": "https://twitter.com/VitalikButerin/status/578799403609300992",
+    "is_retweet": false,
+    "retweets": "3",
+    "favorites": "2",
+    "replies": "3"
+  },
+  {
+    "id": "578607263042158592",
+    "timestamp": "10:21 AM - 19 Mar 2015",
+    "text": "@hiddink currencies are not neutral, they are institutions. Q is, can we create institutions that favor public-good concerns that we like?",
+    "link": "https://twitter.com/VitalikButerin/status/578607263042158592",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "",
+    "replies": "3"
+  },
+  {
+    "id": "578603269175558144",
+    "timestamp": "10:05 AM - 19 Mar 2015",
+    "text": "Everyone talks about \"currencies that encode value\"; I want to understand actually _how_ we can build them to do that #tomorrowstransactions",
+    "link": "https://twitter.com/VitalikButerin/status/578603269175558144",
+    "is_retweet": false,
+    "retweets": "7",
+    "favorites": "7",
+    "replies": "5"
+  },
+  {
+    "id": "578600676009373696",
+    "timestamp": "9:55 AM - 19 Mar 2015",
+    "text": "@compleatang @prestonjbyrne @MrChrisEllis Just checked, 2 meteors simultaneously falling on your head ~= 2^-102 prob, vs 2^=128 ECC breaking",
+    "link": "https://twitter.com/VitalikButerin/status/578600676009373696",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "2",
+    "replies": ""
+  },
+  {
+    "id": "578600386711461888",
+    "timestamp": "9:54 AM - 19 Mar 2015",
+    "text": "@compleatang @vianickcarducci @prestonjbyrne @MrChrisEllis you'll die of two meteors simultaneously falling on your head first :)",
+    "link": "https://twitter.com/VitalikButerin/status/578600386711461888",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": "1"
+  },
+  {
+    "id": "578599576866799616",
+    "timestamp": "9:51 AM - 19 Mar 2015",
+    "text": "@ollekullberg @jony_levin Thanks! That's the exact quote that I was trying to reach for in my head but couldn't think of.",
+    "link": "https://twitter.com/VitalikButerin/status/578599576866799616",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "",
+    "replies": ""
+  },
+  {
+    "id": "578579149826166784",
+    "timestamp": "8:29 AM - 19 Mar 2015",
+    "text": "@gendal #tomorrowstransactions Don't forget about proof of stake!",
+    "link": "https://twitter.com/VitalikButerin/status/578579149826166784",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "3",
+    "replies": ""
+  },
+  {
+    "id": "578569618496860160",
+    "timestamp": "7:52 AM - 19 Mar 2015",
+    "text": "@izakaminska I do love how PoW mining is wasteful from austrian view, but useful economic stimulus at a good time from keynesian view :)",
+    "link": "https://twitter.com/VitalikButerin/status/578569618496860160",
+    "is_retweet": false,
+    "retweets": "5",
+    "favorites": "8",
+    "replies": "2"
+  },
+  {
+    "id": "578569394080636928",
+    "timestamp": "7:51 AM - 19 Mar 2015",
+    "text": "@izakaminska #tomorrowstransactions \"replace a 3rd party with 10000 parties\" - the whole point is making info markets more competitive!",
+    "link": "https://twitter.com/VitalikButerin/status/578569394080636928",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "",
+    "replies": ""
+  },
+  {
+    "id": "578568113031127041",
+    "timestamp": "7:46 AM - 19 Mar 2015",
+    "text": "I do wonder just what Satoshi actually envisioned Bitcoin would become when he set it loose in 2009... #tomorrowstransactions",
+    "link": "https://twitter.com/VitalikButerin/status/578568113031127041",
+    "is_retweet": false,
+    "retweets": "15",
+    "favorites": "21",
+    "replies": "4"
+  },
+  {
+    "id": "578567852917178368",
+    "timestamp": "7:45 AM - 19 Mar 2015",
+    "text": "\"Does a blockchain enable you to put much more data on top [on transactions] than usually?\" - bingo! #tomorrowstransactions",
+    "link": "https://twitter.com/VitalikButerin/status/578567852917178368",
+    "is_retweet": false,
+    "retweets": "6",
+    "favorites": "5",
+    "replies": ""
+  },
+  {
+    "id": "578566447397470208",
+    "timestamp": "7:39 AM - 19 Mar 2015",
+    "text": "@Awyee707 @e_rossiello I'll wait until 2013 to reply to that:https://bitcoinmagazine.com/5868/how-bitcoin-can-actually-help-iranians-and-argentinians/ …",
+    "link": "https://twitter.com/VitalikButerin/status/578566447397470208",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "",
+    "replies": "1"
+  },
+  {
+    "id": "578564840140193792",
+    "timestamp": "7:33 AM - 19 Mar 2015",
+    "text": "Bitcoin \"can be anywhere in a few years, right now is pretty liquid for my needs\" - @e_rossiello #tomorrowstransactions",
+    "link": "https://twitter.com/VitalikButerin/status/578564840140193792",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "5",
+    "replies": ""
+  },
+  {
+    "id": "578564508437884928",
+    "timestamp": "7:31 AM - 19 Mar 2015",
+    "text": "\"3% penetration of credit cards in Kenya, my credit card gets rejected 97% of the time\" - @e_rossiello #tomorrowstransactions",
+    "link": "https://twitter.com/VitalikButerin/status/578564508437884928",
+    "is_retweet": false,
+    "retweets": "6",
+    "favorites": "9",
+    "replies": "4"
+  },
+  {
+    "id": "578563449896214528",
+    "timestamp": "7:27 AM - 19 Mar 2015",
+    "text": "\"One way to succeed in getting VC funds is to cloak self as a BTC company but actually have wider ambitions\" @gendal #tomorrowstransactions",
+    "link": "https://twitter.com/VitalikButerin/status/578563449896214528",
+    "is_retweet": false,
+    "retweets": "17",
+    "favorites": "27",
+    "replies": "4"
+  },
+  {
+    "id": "578514272415776768",
+    "timestamp": "4:12 AM - 19 Mar 2015",
+    "text": "#tomorrowstransactions \"Kissing... would become an act of business and a financial ritual\" #weirdtopia",
+    "link": "https://twitter.com/VitalikButerin/status/578514272415776768",
+    "is_retweet": false,
+    "retweets": "5",
+    "favorites": "9",
+    "replies": "1"
+  },
+  {
+    "id": "578511889141010432",
+    "timestamp": "4:02 AM - 19 Mar 2015",
+    "text": "#tomorrowstransactions \"digital platform to test our your hypotheses\": bingo. Blockchains == DIY social institutions.",
+    "link": "https://twitter.com/VitalikButerin/status/578511889141010432",
+    "is_retweet": false,
+    "retweets": "9",
+    "favorites": "9",
+    "replies": ""
+  },
+  {
+    "id": "578504710325465089",
+    "timestamp": "3:34 AM - 19 Mar 2015",
+    "text": "#tomorrowstransactions Two nights min stay... dear god. Just tax $X per customer + $Y per night; much economically cleaner",
+    "link": "https://twitter.com/VitalikButerin/status/578504710325465089",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "2",
+    "replies": "1"
+  },
+  {
+    "id": "578501487455825920",
+    "timestamp": "3:21 AM - 19 Mar 2015",
+    "text": "#tomorrowstransactions IMO in 21st cen nationality no longer strongly correlates with any meaningful sense of society/community. What does?",
+    "link": "https://twitter.com/VitalikButerin/status/578501487455825920",
+    "is_retweet": false,
+    "retweets": "14",
+    "favorites": "11",
+    "replies": "8"
+  },
+  {
+    "id": "578497958561366016",
+    "timestamp": "3:07 AM - 19 Mar 2015",
+    "text": "#tomorrowstransactions My interpretation: regulation based on categorization a bad idea; if externalities exist pigovian-tax them directly",
+    "link": "https://twitter.com/VitalikButerin/status/578497958561366016",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": "1"
+  },
+  {
+    "id": "578496904595652608",
+    "timestamp": "3:03 AM - 19 Mar 2015",
+    "text": "@ Heather Schlegal #tomorrowstransactions : \"one world currency\" is a VERY different thing from \"one world platform\"",
+    "link": "https://twitter.com/VitalikButerin/status/578496904595652608",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "4",
+    "replies": ""
+  },
+  {
+    "id": "578495275309920257",
+    "timestamp": "2:56 AM - 19 Mar 2015",
+    "text": "My reading of Heather Schlegal #tomorrowstransactions: intro/extrovert dichotomy in sharing econ; some want to interact socially some don't",
+    "link": "https://twitter.com/VitalikButerin/status/578495275309920257",
+    "is_retweet": false,
+    "retweets": "3",
+    "favorites": "",
+    "replies": ""
+  },
+  {
+    "id": "578450286924197888",
+    "timestamp": "11:57 PM - 18 Mar 2015",
+    "text": "@paulg OTOH haters useful to counter groupthink; though I suppose haters high-quality enough to serve that func are better called \"critics\"",
+    "link": "https://twitter.com/VitalikButerin/status/578450286924197888",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "5",
+    "replies": "1"
+  },
+  {
+    "id": "578445057516314624",
+    "timestamp": "11:37 PM - 18 Mar 2015",
+    "text": "\"The top five items bought on Overstock with bitcoin are now sheets, _donations to non-profits_...\"http://www.coindesk.com/overstock-reveals-items-most-often-bought-with-bitcoin/ …",
+    "link": "https://twitter.com/VitalikButerin/status/578445057516314624",
+    "is_retweet": false,
+    "retweets": "17",
+    "favorites": "6",
+    "replies": "2"
+  },
+  {
+    "id": "578443803108978688",
+    "timestamp": "11:32 PM - 18 Mar 2015",
+    "text": "@jeffscottward Agree; I've always described cryptotokens more as \"software licenses\" than as currencies or stores of value.",
+    "link": "https://twitter.com/VitalikButerin/status/578443803108978688",
+    "is_retweet": false,
+    "retweets": "3",
+    "favorites": "2",
+    "replies": "2"
+  },
+  {
+    "id": "578234624977055744",
+    "timestamp": "9:40 AM - 18 Mar 2015",
+    "text": "@EricBenz84 @jonmatonis reasonable stance, but you are facing an uphill battle trying to unilaterally shift the linguistic equilibrium :)",
+    "link": "https://twitter.com/VitalikButerin/status/578234624977055744",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "3",
+    "replies": "3"
+  },
+  {
+    "id": "578230788732379136",
+    "timestamp": "9:25 AM - 18 Mar 2015",
+    "text": "@EricBenz84 I really do recommend you rename BitReserve if you don't want to be prejudged as a bitcoin company :) #tomorrowstransactions",
+    "link": "https://twitter.com/VitalikButerin/status/578230788732379136",
+    "is_retweet": false,
+    "retweets": "4",
+    "favorites": "2",
+    "replies": "1"
+  },
+  {
+    "id": "578227686147006464",
+    "timestamp": "9:13 AM - 18 Mar 2015",
+    "text": "http://techcrunch.com/2015/03/17/facebook-pay/ … I think the \"social networks as virtual governments\" analogy just got yet more pertinent...",
+    "link": "https://twitter.com/VitalikButerin/status/578227686147006464",
+    "is_retweet": false,
+    "retweets": "17",
+    "favorites": "13",
+    "replies": ""
+  },
+  {
+    "id": "578224330036912128",
+    "timestamp": "8:59 AM - 18 Mar 2015",
+    "text": "@CoinSlumIt Learning about wastes of res makes me happy. We already know world is !@$%ed up, learning how means an opportunity to improve it",
+    "link": "https://twitter.com/VitalikButerin/status/578224330036912128",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "2",
+    "replies": "1"
+  },
+  {
+    "id": "578217632597483520",
+    "timestamp": "8:33 AM - 18 Mar 2015",
+    "text": "@richardjpope http://vitalik.ca/files/futurefest.pdf …",
+    "link": "https://twitter.com/VitalikButerin/status/578217632597483520",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "2",
+    "replies": "1"
+  },
+  {
+    "id": "578216000866410496",
+    "timestamp": "8:26 AM - 18 Mar 2015",
+    "text": "\"NGOs spend roughly 2x more on financial accounting and staff than for-profit multinationals\" #tomorrowstransactions",
+    "link": "https://twitter.com/VitalikButerin/status/578216000866410496",
+    "is_retweet": false,
+    "retweets": "7",
+    "favorites": "9",
+    "replies": "1"
+  },
+  {
+    "id": "578154882412183552",
+    "timestamp": "4:24 AM - 18 Mar 2015",
+    "text": "@Awyee707 @kor3shan @dgwbirch I actually think Hegelian synthesis between gov and anarchist approaches more likely than victory of either",
+    "link": "https://twitter.com/VitalikButerin/status/578154882412183552",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "4",
+    "replies": "3"
+  },
+  {
+    "id": "578150039672999936",
+    "timestamp": "4:04 AM - 18 Mar 2015",
+    "text": "Advice to people saying eg. \"the public internet needs an internet public\" or \"privacy, not anonymity\": optimize for clarity not pithiness",
+    "link": "https://twitter.com/VitalikButerin/status/578150039672999936",
+    "is_retweet": false,
+    "retweets": "6",
+    "favorites": "7",
+    "replies": ""
+  },
+  {
+    "id": "578146882356129792",
+    "timestamp": "3:52 AM - 18 Mar 2015",
+    "text": "\"The blockchain is for maintaining dishwasher warranties, not overthrowing #usgov\" @dgwbirch",
+    "link": "https://twitter.com/VitalikButerin/status/578146882356129792",
+    "is_retweet": false,
+    "retweets": "18",
+    "favorites": "15",
+    "replies": "2"
+  },
+  {
+    "id": "578145742977634304",
+    "timestamp": "3:47 AM - 18 Mar 2015",
+    "text": "\"The pressures for globalization go away in the mobile space\" - Dave Birch @dgwbirch on payment system pluralism",
+    "link": "https://twitter.com/VitalikButerin/status/578145742977634304",
+    "is_retweet": false,
+    "retweets": "3",
+    "favorites": "",
+    "replies": ""
+  },
+  {
+    "id": "578070921971310592",
+    "timestamp": "10:50 PM - 17 Mar 2015",
+    "text": "\"The use of 'nano' is also odd, as most hackers would choose a different text editor.\" - Coinapult on their hack https://docs.google.com/document/d/1_xxKLUVvEcen6XI7DsUzLtv2_C8oQ8JzAwlsNOMnapg/pub …",
+    "link": "https://twitter.com/VitalikButerin/status/578070921971310592",
+    "is_retweet": false,
+    "retweets": "4",
+    "favorites": "2",
+    "replies": "4"
+  },
+  {
+    "id": "577912721536073728",
+    "timestamp": "12:21 PM - 17 Mar 2015",
+    "text": "@NicolaiMeador If I was actually \"trying\" to get very wealthy I would have given myself more than 0.768% of genesis ether dontcha think? :)",
+    "link": "https://twitter.com/VitalikButerin/status/577912721536073728",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "1",
+    "replies": "1"
+  },
+  {
+    "id": "577548917719584769",
+    "timestamp": "12:16 PM - 16 Mar 2015",
+    "text": "\"I want to talk to Edward Snowden about proof of stake\" - @VladZamfir #FutureFest",
+    "link": "https://twitter.com/VitalikButerin/status/577548917719584769",
+    "is_retweet": false,
+    "retweets": "15",
+    "favorites": "15",
+    "replies": "1"
+  },
+  {
+    "id": "577440145009467392",
+    "timestamp": "5:03 AM - 16 Mar 2015",
+    "text": "@comefrombeyond Actually, that's exactly what it is (at least for the 2.0 scalable consensus algo I am thinking of)",
+    "link": "https://twitter.com/VitalikButerin/status/577440145009467392",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "",
+    "replies": ""
+  },
+  {
+    "id": "577401837344653312",
+    "timestamp": "2:31 AM - 16 Mar 2015",
+    "text": "fac=lambda n: 1 if n==0 else n*fac(n-1); prob_atleast=lambda n,k,p: sum([p**i*(1-p)**(n-i)*(fac(n)/fac(i)/fac(n-i)) for i in range(k,n+1)])",
+    "link": "https://twitter.com/VitalikButerin/status/577401837344653312",
+    "is_retweet": false,
+    "retweets": "4",
+    "favorites": "3",
+    "replies": "2"
+  },
+  {
+    "id": "577372872206872576",
+    "timestamp": "12:36 AM - 16 Mar 2015",
+    "text": "Happy open borders day! http://openborders.info/blog/tag/open-borders-day/ …",
+    "link": "https://twitter.com/VitalikButerin/status/577372872206872576",
+    "is_retweet": false,
+    "retweets": "17",
+    "favorites": "11",
+    "replies": ""
+  },
+  {
+    "id": "577220934517567489",
+    "timestamp": "2:32 PM - 15 Mar 2015",
+    "text": "@BlueMeanie4 @MAD9 \"Let's put a programming language in a state machine on a blockchain, using per-step fees to work around halting problem\"",
+    "link": "https://twitter.com/VitalikButerin/status/577220934517567489",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "3",
+    "replies": ""
+  },
+  {
+    "id": "577220105433718784",
+    "timestamp": "2:29 PM - 15 Mar 2015",
+    "text": "@BlueMeanie4 @MAD9 Please enlighten me then. I like receiving education :)",
+    "link": "https://twitter.com/VitalikButerin/status/577220105433718784",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "",
+    "replies": ""
+  },
+  {
+    "id": "577217153428037632",
+    "timestamp": "2:17 PM - 15 Mar 2015",
+    "text": "@adam_0293 I already disagree with some of them :D I think being criticized by mainstream thinkers is actually great free education",
+    "link": "https://twitter.com/VitalikButerin/status/577217153428037632",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "3",
+    "replies": "2"
+  },
+  {
+    "id": "577216767912738816",
+    "timestamp": "2:16 PM - 15 Mar 2015",
+    "text": "@adam_0293 \"But there is also another [benefit of BTC over fiat]: stability\" also fromhttps://bitcoinmagazine.com/4123/bitcoin-is-not-antisocial-a-rebuttal-to-paul-krugman/ …",
+    "link": "https://twitter.com/VitalikButerin/status/577216767912738816",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": ""
+  },
+  {
+    "id": "577216541609050112",
+    "timestamp": "2:15 PM - 15 Mar 2015",
+    "text": "@ErolKazan showing promise: (i) was anti-btc-maximalist pre-ETH https://bitcoinmagazine.com/6926/in-defense-of-alternative-cryptocurrencies/ …, (ii) liked PoShttps://bitcoinmagazine.com/6528/what-proof-of-stake-is-and-why-it-matters/ …",
+    "link": "https://twitter.com/VitalikButerin/status/577216541609050112",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "2",
+    "replies": ""
+  },
+  {
+    "id": "577214927259213824",
+    "timestamp": "2:08 PM - 15 Mar 2015",
+    "text": "@adam_0293 can maybe build _some_ of that stuff _on_ eth but would be grossly unfair to take credit since most of the work is in the apps",
+    "link": "https://twitter.com/VitalikButerin/status/577214927259213824",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": "2"
+  },
+  {
+    "id": "577212843839356928",
+    "timestamp": "2:00 PM - 15 Mar 2015",
+    "text": "@adam_0293 https://bitcoinmagazine.com/1524/growing-decentralization-in-the-bitcoin-economy/ … \"The period of... capricious individual bottleneck providers [ie. mining pools] is finally at an end.\"",
+    "link": "https://twitter.com/VitalikButerin/status/577212843839356928",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "1",
+    "replies": ""
+  },
+  {
+    "id": "577210416704655360",
+    "timestamp": "1:51 PM - 15 Mar 2015",
+    "text": "@adam_0293 \"BTC mining has a chance to replace... Federal Reserve, Visa, Mastercard, Paypal, Western Union and half of the banking system\"",
+    "link": "https://twitter.com/VitalikButerin/status/577210416704655360",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "3",
+    "replies": "3"
+  },
+  {
+    "id": "577208218276986880",
+    "timestamp": "1:42 PM - 15 Mar 2015",
+    "text": "Fun thing to do: read over my own articles from 2-3 years ago and see what I still agree with and what I now find hopelessly naive",
+    "link": "https://twitter.com/VitalikButerin/status/577208218276986880",
+    "is_retweet": false,
+    "retweets": "13",
+    "favorites": "41",
+    "replies": "10"
+  },
+  {
+    "id": "577198335934750720",
+    "timestamp": "1:03 PM - 15 Mar 2015",
+    "text": "@jmwnuk @ChangeTip likely soon after frontier launches, seehttps://blog.ethereum.org/2015/03/12/getting-to-the-frontier/ …",
+    "link": "https://twitter.com/VitalikButerin/status/577198335934750720",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "",
+    "replies": ""
+  },
+  {
+    "id": "577157424915849218",
+    "timestamp": "10:20 AM - 15 Mar 2015",
+    "text": "@eg_hale To be fair my comparison was more to Latin and Greek during the time when they were \"the langs everyone speaks\", not \"the classics\"",
+    "link": "https://twitter.com/VitalikButerin/status/577157424915849218",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "1",
+    "replies": "1"
+  },
+  {
+    "id": "577156323965566976",
+    "timestamp": "10:16 AM - 15 Mar 2015",
+    "text": "@voinonen @vein_of_stars I said 2025, not 2015 :) Otherwise feel free",
+    "link": "https://twitter.com/VitalikButerin/status/577156323965566976",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "",
+    "replies": "1"
+  },
+  {
+    "id": "577033927988219904",
+    "timestamp": "2:09 AM - 15 Mar 2015",
+    "text": "@RickStreeby It's a fun decade when a (dubious) Mahatma Gandhi quote is considered first and foremost a bitcoin slogan :)",
+    "link": "https://twitter.com/VitalikButerin/status/577033927988219904",
+    "is_retweet": false,
+    "retweets": "3",
+    "favorites": "",
+    "replies": ""
+  },
+  {
+    "id": "576713760464879616",
+    "timestamp": "4:57 AM - 14 Mar 2015",
+    "text": "@RickStreeby Does everything I say have to revolve around cryptocurrency? I've been explicitly trying to expand my mind beyond that lately",
+    "link": "https://twitter.com/VitalikButerin/status/576713760464879616",
+    "is_retweet": false,
+    "retweets": "3",
+    "favorites": "9",
+    "replies": ""
+  },
+  {
+    "id": "576704437676351489",
+    "timestamp": "4:20 AM - 14 Mar 2015",
+    "text": "First they ignore you, then they laugh at you, then you learn about survivorship bias. http://en.wikipedia.org/wiki/Survivorship_bias …",
+    "link": "https://twitter.com/VitalikButerin/status/576704437676351489",
+    "is_retweet": false,
+    "retweets": "39",
+    "favorites": "74",
+    "replies": "5"
+  },
+  {
+    "id": "576684482591346689",
+    "timestamp": "3:01 AM - 14 Mar 2015",
+    "text": "@sidazhang @treehcapital 5-15 different protocols imo",
+    "link": "https://twitter.com/VitalikButerin/status/576684482591346689",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": "1"
+  },
+  {
+    "id": "576645630568886272",
+    "timestamp": "12:26 AM - 14 Mar 2015",
+    "text": "@hiddentao @GeorgeAHallam Keep in mind most of those apply to ethereum as well at least for a while :)",
+    "link": "https://twitter.com/VitalikButerin/status/576645630568886272",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "1",
+    "replies": "1"
+  },
+  {
+    "id": "576525196754026497",
+    "timestamp": "4:28 PM - 13 Mar 2015",
+    "text": "@balajis @robinhanson Egypt seems to be getting into the \"build new cities\" gamehttp://egyptianstreets.com/2015/03/13/egypts-new-capital-city-revealed/ …",
+    "link": "https://twitter.com/VitalikButerin/status/576525196754026497",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "2",
+    "replies": ""
+  },
+  {
+    "id": "576517825407369216",
+    "timestamp": "3:58 PM - 13 Mar 2015",
+    "text": "@wancynu @diiorioanthony @DECENTRALca @Cpzhao 圆周率节快乐！！",
+    "link": "https://twitter.com/VitalikButerin/status/576517825407369216",
+    "is_retweet": false,
+    "retweets": "3",
+    "favorites": "2",
+    "replies": "1"
+  },
+  {
+    "id": "576300016823848960",
+    "timestamp": "1:33 AM - 13 Mar 2015",
+    "text": "@VitalikButerin See also http://en.wikipedia.org/wiki/Misotheism ",
+    "link": "https://twitter.com/VitalikButerin/status/576300016823848960",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "",
+    "replies": "1"
+  },
+  {
+    "id": "576298435940339712",
+    "timestamp": "1:27 AM - 13 Mar 2015",
+    "text": "Alatrism: \"gods probably exist, but I'm not gonna bother worshipping any of them\"",
+    "link": "https://twitter.com/VitalikButerin/status/576298435940339712",
+    "is_retweet": false,
+    "retweets": "6",
+    "favorites": "9",
+    "replies": "2"
+  },
+  {
+    "id": "576089613477023744",
+    "timestamp": "11:37 AM - 12 Mar 2015",
+    "text": "Cryptoeconomic ecosystems are like ogres. They have layers. http://vitalik.ca/files/application_stack.png …",
+    "link": "https://twitter.com/VitalikButerin/status/576089613477023744",
+    "is_retweet": false,
+    "retweets": "11",
+    "favorites": "14",
+    "replies": "3"
+  },
+  {
+    "id": "575775424841646081",
+    "timestamp": "2:48 PM - 11 Mar 2015",
+    "text": "@prestonjbyrne @EdanYago But is a marmot a legume or a vegetable?",
+    "link": "https://twitter.com/VitalikButerin/status/575775424841646081",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "",
+    "replies": "1"
+  },
+  {
+    "id": "575773890737217536",
+    "timestamp": "2:42 PM - 11 Mar 2015",
+    "text": "@prestonjbyrne @EdanYago yeah a peanut is a nut, tomato is a vegetable and a watermelon sure as hell is NOT a berry #linguisticdescriptivism",
+    "link": "https://twitter.com/VitalikButerin/status/575773890737217536",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "2",
+    "replies": "1"
+  },
+  {
+    "id": "575772335250239488",
+    "timestamp": "2:36 PM - 11 Mar 2015",
+    "text": "@junseth well not that expensive once you move beyond PoW :) Also, if you only have 10 tx/day, actually cheaper to use chain than own server",
+    "link": "https://twitter.com/VitalikButerin/status/575772335250239488",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "",
+    "replies": "1"
+  },
+  {
+    "id": "575669796928372737",
+    "timestamp": "7:49 AM - 11 Mar 2015",
+    "text": "http://arxiv.org/pdf/0907.1788.pdf … Erasure codes in n*polylog(n) time using fast-fourier math",
+    "link": "https://twitter.com/VitalikButerin/status/575669796928372737",
+    "is_retweet": false,
+    "retweets": "6",
+    "favorites": "5",
+    "replies": "1"
+  },
+  {
+    "id": "575669495169224704",
+    "timestamp": "7:47 AM - 11 Mar 2015",
+    "text": "@junseth blockchains are databases with continued behavior secured by cryptoeconomic means. Don't see the contradiction.",
+    "link": "https://twitter.com/VitalikButerin/status/575669495169224704",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "",
+    "replies": "1"
+  },
+  {
+    "id": "575618818493538304",
+    "timestamp": "4:26 AM - 11 Mar 2015",
+    "text": "@markhughes @VladZamfir @maidsafe So, thats not verifiable unless you also have the file, which kinda puts it out of reach of our usecase :(",
+    "link": "https://twitter.com/VitalikButerin/status/575618818493538304",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": "2"
+  },
+  {
+    "id": "575593525473079296",
+    "timestamp": "2:46 AM - 11 Mar 2015",
+    "text": "Latest thinking about scalability: proof of custody ( https://github.com/vladzamfir/PoC  ) may be an important primitive @VladZamfir",
+    "link": "https://twitter.com/VitalikButerin/status/575593525473079296",
+    "is_retweet": false,
+    "retweets": "7",
+    "favorites": "9",
+    "replies": "1"
+  },
+  {
+    "id": "575591897076494337",
+    "timestamp": "2:39 AM - 11 Mar 2015",
+    "text": "Peercensus in one tweet http://arxiv.org/pdf/1412.7935v1.pdf … : (i) vaguely tendermint-style bft updating, (ii) a pow blockchain to join the validator set",
+    "link": "https://twitter.com/VitalikButerin/status/575591897076494337",
+    "is_retweet": false,
+    "retweets": "5",
+    "favorites": "11",
+    "replies": "1"
+  },
+  {
+    "id": "575405979803762688",
+    "timestamp": "2:20 PM - 10 Mar 2015",
+    "text": "In case people wonder why I care about life extension and not dying so much, same reason you haven't committed suicide yet :)",
+    "link": "https://twitter.com/VitalikButerin/status/575405979803762688",
+    "is_retweet": false,
+    "retweets": "7",
+    "favorites": "14",
+    "replies": "1"
+  },
+  {
+    "id": "575405636768436227",
+    "timestamp": "2:19 PM - 10 Mar 2015",
+    "text": "Google pushing forward more on life extensionhttp://uk.businessinsider.com/google-ventures-investing-in-oncology-startups-2015-3?r=US …",
+    "link": "https://twitter.com/VitalikButerin/status/575405636768436227",
+    "is_retweet": false,
+    "retweets": "6",
+    "favorites": "8",
+    "replies": ""
+  },
+  {
+    "id": "575031786155147264",
+    "timestamp": "1:33 PM - 9 Mar 2015",
+    "text": "@matt_odell @ofnumbers Notice: no republican or libertarian has yet proposed replacing QE with making the USD have 8 digits instead of 2",
+    "link": "https://twitter.com/VitalikButerin/status/575031786155147264",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "3",
+    "replies": "1"
+  },
+  {
+    "id": "575031588217556992",
+    "timestamp": "1:33 PM - 9 Mar 2015",
+    "text": "@matt_odell @ofnumbers And I am precisely saying that divisibility is pretty much completely irrelevant to anti-deflationist arguments",
+    "link": "https://twitter.com/VitalikButerin/status/575031588217556992",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": "1"
+  },
+  {
+    "id": "575030721779208192",
+    "timestamp": "1:29 PM - 9 Mar 2015",
+    "text": "@matt_odell @ofnumbers I find that whole deflation/inflation debate is way more nuanced and complex than both sides want you to think",
+    "link": "https://twitter.com/VitalikButerin/status/575030721779208192",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "4",
+    "replies": "1"
+  },
+  {
+    "id": "575030283684175872",
+    "timestamp": "1:27 PM - 9 Mar 2015",
+    "text": "@matt_odell @ofnumbers that's a strawman, anti-deflationist arguments have _nothing_ to do with some fear about limited divisibility",
+    "link": "https://twitter.com/VitalikButerin/status/575030283684175872",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "2",
+    "replies": "1"
+  },
+  {
+    "id": "574834079675322368",
+    "timestamp": "12:28 AM - 9 Mar 2015",
+    "text": "@pro2rat I prefer arachnism = rule by spiders.",
+    "link": "https://twitter.com/VitalikButerin/status/574834079675322368",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "2",
+    "replies": "1"
+  },
+  {
+    "id": "574610347077820416",
+    "timestamp": "9:39 AM - 8 Mar 2015",
+    "text": "@petertoddbtc I find scalable blockchain algos are an economics problem as much as a traditional compsci one; many fail to appreciate that",
+    "link": "https://twitter.com/VitalikButerin/status/574610347077820416",
+    "is_retweet": false,
+    "retweets": "12",
+    "favorites": "14",
+    "replies": "1"
+  },
+  {
+    "id": "574586418866970625",
+    "timestamp": "8:04 AM - 8 Mar 2015",
+    "text": "No secure pubkey encryption better than O(n^2) attack complexity using just hashes; very sad :( http://www.boazbarak.org/Papers/merkle.pdf …",
+    "link": "https://twitter.com/VitalikButerin/status/574586418866970625",
+    "is_retweet": false,
+    "retweets": "8",
+    "favorites": "9",
+    "replies": ""
+  },
+  {
+    "id": "574547659626774528",
+    "timestamp": "5:30 AM - 8 Mar 2015",
+    "text": "@xpzappa @rogerkver Well, \"is it moral\" depends on a bunch of complex environmental externality research that's probably out of my league...",
+    "link": "https://twitter.com/VitalikButerin/status/574547659626774528",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": "2"
+  },
+  {
+    "id": "574546862658691072",
+    "timestamp": "5:27 AM - 8 Mar 2015",
+    "text": "New buzzword I am trying out: incentivized information services (IIS) = grand super-category of security deposits, prediction markets, etc",
+    "link": "https://twitter.com/VitalikButerin/status/574546862658691072",
+    "is_retweet": false,
+    "retweets": "6",
+    "favorites": "25",
+    "replies": "4"
+  },
+  {
+    "id": "574546537705029632",
+    "timestamp": "5:25 AM - 8 Mar 2015",
+    "text": "@CryptoScalper @ethereumproject eh single points of failure are bad :D #polyamory",
+    "link": "https://twitter.com/VitalikButerin/status/574546537705029632",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "4",
+    "replies": ""
+  },
+  {
+    "id": "574541878319792128",
+    "timestamp": "5:07 AM - 8 Mar 2015",
+    "text": "Bunch of really nice videos on economics, highly recommend from what I've seen so farhttp://mruniversity.com/courses/ ",
+    "link": "https://twitter.com/VitalikButerin/status/574541878319792128",
+    "is_retweet": false,
+    "retweets": "9",
+    "favorites": "22",
+    "replies": "1"
+  },
+  {
+    "id": "574534919076102145",
+    "timestamp": "4:39 AM - 8 Mar 2015",
+    "text": "@sundance30203 I am thinking more for state trees. For transaction trees it's a list so binary works fine, no need for fancy key/val designs",
+    "link": "https://twitter.com/VitalikButerin/status/574534919076102145",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": ""
+  },
+  {
+    "id": "574534521149911040",
+    "timestamp": "4:37 AM - 8 Mar 2015",
+    "text": "@sundance30203 It's robust to being off by 3-5 orders of magnitude, so I think so. 1 account per person -> 2**33 size state seems reasonable",
+    "link": "https://twitter.com/VitalikButerin/status/574534521149911040",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": ""
+  },
+  {
+    "id": "574533646222237697",
+    "timestamp": "4:34 AM - 8 Mar 2015",
+    "text": "Wait... this is legal? http://www.oliverstravels.com/blog/guarantee-perfect-wedding-weather-olivers-travels/ …",
+    "link": "https://twitter.com/VitalikButerin/status/574533646222237697",
+    "is_retweet": false,
+    "retweets": "3",
+    "favorites": "8",
+    "replies": "4"
+  },
+  {
+    "id": "573917016156979200",
+    "timestamp": "10:44 AM - 6 Mar 2015",
+    "text": "@VitalikButerin Cause I'd really like a better epithet :)",
+    "link": "https://twitter.com/VitalikButerin/status/573917016156979200",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "7",
+    "replies": "7"
+  },
+  {
+    "id": "573916510562971648",
+    "timestamp": "10:42 AM - 6 Mar 2015",
+    "text": "http://fusion.net/story/47172/the-young-stars-of-bitcoin/ … \"Buterin, a lanky 21-year-old...\" at least 4th time I'm \"lanky\". This the modern equiv of \"swift-footed Achilles\"?",
+    "link": "https://twitter.com/VitalikButerin/status/573916510562971648",
+    "is_retweet": false,
+    "retweets": "7",
+    "favorites": "28",
+    "replies": "9"
+  },
+  {
+    "id": "573824881252524032",
+    "timestamp": "4:38 AM - 6 Mar 2015",
+    "text": "@VitalikButerin for context, the reason why I started caring about this was from thinking about dos attacks on blockchain merkle trees",
+    "link": "https://twitter.com/VitalikButerin/status/573824881252524032",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "4",
+    "replies": ""
+  },
+  {
+    "id": "573821848913313792",
+    "timestamp": "4:26 AM - 6 Mar 2015",
+    "text": "Random compsci idea I came up with this morning: slightly simpler quasi-red-black-tree alternative via static depthhttps://github.com/vbuterin/fdtree ",
+    "link": "https://twitter.com/VitalikButerin/status/573821848913313792",
+    "is_retweet": false,
+    "retweets": "3",
+    "favorites": "6",
+    "replies": "5"
+  },
+  {
+    "id": "573445655961665536",
+    "timestamp": "3:31 AM - 5 Mar 2015",
+    "text": "@ilyvak would feel kinda proud actually",
+    "link": "https://twitter.com/VitalikButerin/status/573445655961665536",
+    "is_retweet": false,
+    "retweets": "3",
+    "favorites": "2",
+    "replies": "2"
+  },
+  {
+    "id": "573445608759037952",
+    "timestamp": "3:31 AM - 5 Mar 2015",
+    "text": "@ilyvak meh if other people take my ideas and earn $100m off them without giving me anything, I don't really care",
+    "link": "https://twitter.com/VitalikButerin/status/573445608759037952",
+    "is_retweet": false,
+    "retweets": "6",
+    "favorites": "6",
+    "replies": "2"
+  },
+  {
+    "id": "573443555575926784",
+    "timestamp": "3:22 AM - 5 Mar 2015",
+    "text": "@KryptRichards Agree fully",
+    "link": "https://twitter.com/VitalikButerin/status/573443555575926784",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "1",
+    "replies": ""
+  },
+  {
+    "id": "573442545671340032",
+    "timestamp": "3:18 AM - 5 Mar 2015",
+    "text": "8. Compromising on above and other principles sometimes necessary; but if you do compromise think hard of how to do it elegantly",
+    "link": "https://twitter.com/VitalikButerin/status/573442545671340032",
+    "is_retweet": false,
+    "retweets": "4",
+    "favorites": "3",
+    "replies": "1"
+  },
+  {
+    "id": "573442493380952064",
+    "timestamp": "3:18 AM - 5 Mar 2015",
+    "text": "7. Dependencies are bad, esp if hard to install. Avoid even at moderate expense of wheel reinvention.",
+    "link": "https://twitter.com/VitalikButerin/status/573442493380952064",
+    "is_retweet": false,
+    "retweets": "5",
+    "favorites": "3",
+    "replies": "1"
+  },
+  {
+    "id": "573442453170188288",
+    "timestamp": "3:18 AM - 5 Mar 2015",
+    "text": "If using classes genuinely makes your code better, provide unix-philosophy-friendly wrappers",
+    "link": "https://twitter.com/VitalikButerin/status/573442453170188288",
+    "is_retweet": false,
+    "retweets": "4",
+    "favorites": "2",
+    "replies": "1"
+  },
+  {
+    "id": "573442381388861440",
+    "timestamp": "3:18 AM - 5 Mar 2015",
+    "text": "6. Use unix philosophy for libraries: maximize str/bytearray/list/int, minimize classes",
+    "link": "https://twitter.com/VitalikButerin/status/573442381388861440",
+    "is_retweet": false,
+    "retweets": "5",
+    "favorites": "4",
+    "replies": "1"
+  },
+  {
+    "id": "573442315135680513",
+    "timestamp": "3:17 AM - 5 Mar 2015",
+    "text": "5. Learn the difference between details and fundamentals. Fundamentals key and details irrelevant early stage, details crucial later stage",
+    "link": "https://twitter.com/VitalikButerin/status/573442315135680513",
+    "is_retweet": false,
+    "retweets": "7",
+    "favorites": "6",
+    "replies": "1"
+  },
+  {
+    "id": "573442274283130880",
+    "timestamp": "3:17 AM - 5 Mar 2015",
+    "text": "4. Measuring scalability via numerical metrics (eg. tx/sec) is silly; too easy to fudge via tradeoffs. Measuring via big-O notation prefered",
+    "link": "https://twitter.com/VitalikButerin/status/573442274283130880",
+    "is_retweet": false,
+    "retweets": "5",
+    "favorites": "7",
+    "replies": "2"
+  },
+  {
+    "id": "573442191349174272",
+    "timestamp": "3:17 AM - 5 Mar 2015",
+    "text": "3. You don't know if something satisfies certain security properties until you're written down at least a semi-formal proof of it",
+    "link": "https://twitter.com/VitalikButerin/status/573442191349174272",
+    "is_retweet": false,
+    "retweets": "4",
+    "favorites": "3",
+    "replies": "1"
+  },
+  {
+    "id": "573442090685857792",
+    "timestamp": "3:17 AM - 5 Mar 2015",
+    "text": "2. It is not truly standardized until there are 3 implementations written by 3 people in languages, and they all agree with each other.",
+    "link": "https://twitter.com/VitalikButerin/status/573442090685857792",
+    "is_retweet": false,
+    "retweets": "4",
+    "favorites": "3",
+    "replies": "2"
+  },
+  {
+    "id": "573442045878108161",
+    "timestamp": "3:16 AM - 5 Mar 2015",
+    "text": "@VitalikButerin 1. You do not truly understand it until you've implemented a version of it yourself.",
+    "link": "https://twitter.com/VitalikButerin/status/573442045878108161",
+    "is_retweet": false,
+    "retweets": "11",
+    "favorites": "11",
+    "replies": "1"
+  },
+  {
+    "id": "573441985522057216",
+    "timestamp": "3:16 AM - 5 Mar 2015",
+    "text": "Some unconventional coding philosophy in ten tweets:",
+    "link": "https://twitter.com/VitalikButerin/status/573441985522057216",
+    "is_retweet": false,
+    "retweets": "6",
+    "favorites": "10",
+    "replies": "1"
+  },
+  {
+    "id": "573219029290242052",
+    "timestamp": "12:30 PM - 4 Mar 2015",
+    "text": "The grandpa of tendermint: http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=45B6D771E9A7D07671CB19855CEFBDDA?doi=10.1.1.13.3423&rep=rep1&type=pdf …\n\nWorth reading; the paper does a good job of explaining the formal assumptions.",
+    "link": "https://twitter.com/VitalikButerin/status/573219029290242052",
+    "is_retweet": false,
+    "retweets": "11",
+    "favorites": "14",
+    "replies": "1"
+  },
+  {
+    "id": "572430234915618817",
+    "timestamp": "8:16 AM - 2 Mar 2015",
+    "text": "I'm vbuterin on @Bitrated (SIN: TfLA5jt2L2ufKfJZX3T57km43vLbXiP2gNW).https://www.bitrated.com/vbuterin ",
+    "link": "https://twitter.com/VitalikButerin/status/572430234915618817",
+    "is_retweet": false,
+    "retweets": "6",
+    "favorites": "17",
+    "replies": "1"
+  },
+  {
+    "id": "572054775660974080",
+    "timestamp": "7:24 AM - 1 Mar 2015",
+    "text": "@kLee1977 Well, that too :D",
+    "link": "https://twitter.com/VitalikButerin/status/572054775660974080",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "2",
+    "replies": "2"
+  },
+  {
+    "id": "572042874466009088",
+    "timestamp": "6:37 AM - 1 Mar 2015",
+    "text": "http://www.informationisbeautiful.net/play/snake-oil-supplements/ … No, _not nearly_ all superfoods and supplements are snake oil.",
+    "link": "https://twitter.com/VitalikButerin/status/572042874466009088",
+    "is_retweet": false,
+    "retweets": "5",
+    "favorites": "9",
+    "replies": "1"
+  },
+  {
+    "id": "571574709894160384",
+    "timestamp": "11:36 PM - 27 Feb 2015",
+    "text": "Reminder: the Ethereum team has >30 people, many of whom have way more software dev exp than I do. Project is much bigger than just myself.",
+    "link": "https://twitter.com/VitalikButerin/status/571574709894160384",
+    "is_retweet": false,
+    "retweets": "17",
+    "favorites": "33",
+    "replies": "5"
+  },
+  {
+    "id": "570931180373213184",
+    "timestamp": "4:59 AM - 26 Feb 2015",
+    "text": "@prestonjbyrne @WorldBitcoinNet I don't think I dispute that in the slightest.",
+    "link": "https://twitter.com/VitalikButerin/status/570931180373213184",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "2",
+    "replies": ""
+  },
+  {
+    "id": "570907474724835328",
+    "timestamp": "3:25 AM - 26 Feb 2015",
+    "text": "@VitalikButerin Or \"malfeasant\".",
+    "link": "https://twitter.com/VitalikButerin/status/570907474724835328",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "2",
+    "replies": "1"
+  },
+  {
+    "id": "570907331770355713",
+    "timestamp": "3:24 AM - 26 Feb 2015",
+    "text": "Crypto-law: criminal courts find you \"guilty\", civil courts find you \"liable\", blockchains find you \"byzantine\"",
+    "link": "https://twitter.com/VitalikButerin/status/570907331770355713",
+    "is_retweet": false,
+    "retweets": "12",
+    "favorites": "16",
+    "replies": "3"
+  },
+  {
+    "id": "570906252991201280",
+    "timestamp": "3:20 AM - 26 Feb 2015",
+    "text": "@Fredilly why do tokens need documentation? does gold have any? platforms need documentation; platform/token distinction is crucial",
+    "link": "https://twitter.com/VitalikButerin/status/570906252991201280",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": ""
+  },
+  {
+    "id": "570905370761297922",
+    "timestamp": "3:17 AM - 26 Feb 2015",
+    "text": "@ankscricholic Just like bitcoin PoW; the idea that BTC has a 50% threshold is quite shaky as @el33th4xor and @ittayeyal have shown",
+    "link": "https://twitter.com/VitalikButerin/status/570905370761297922",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "3",
+    "replies": ""
+  },
+  {
+    "id": "570904579761688577",
+    "timestamp": "3:13 AM - 26 Feb 2015",
+    "text": "@jgarzik https://blog.ethereum.org/2014/12/26/secret-sharing-daos-crypto-2-0/ … is a useful counterexample; keeps track of state but history could easily be deleted without anyone seeing",
+    "link": "https://twitter.com/VitalikButerin/status/570904579761688577",
+    "is_retweet": false,
+    "retweets": "5",
+    "favorites": "5",
+    "replies": ""
+  },
+  {
+    "id": "570903340701372416",
+    "timestamp": "3:08 AM - 26 Feb 2015",
+    "text": "@jgarzik I think that whole perspective is an artefact of Bitcoin's imo inferior technical philosophy. State has primacy, not history.",
+    "link": "https://twitter.com/VitalikButerin/status/570903340701372416",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "4",
+    "replies": "1"
+  },
+  {
+    "id": "570880163845693440",
+    "timestamp": "1:36 AM - 26 Feb 2015",
+    "text": "@ankscricholic Tendermint combines two things: (i) disincentivization, (ii) decentralization via BFT robustness. You really do need both.",
+    "link": "https://twitter.com/VitalikButerin/status/570880163845693440",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "2",
+    "replies": "1"
+  },
+  {
+    "id": "570860442874089472",
+    "timestamp": "12:18 AM - 26 Feb 2015",
+    "text": "@MauCalifornia Am working on a slide presentation now; ~54 slides and counting",
+    "link": "https://twitter.com/VitalikButerin/status/570860442874089472",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": ""
+  },
+  {
+    "id": "570859807558643712",
+    "timestamp": "12:15 AM - 26 Feb 2015",
+    "text": "@tricameral no, you understood me wrong; I was extending the blockchain \"killer app\" analogy.",
+    "link": "https://twitter.com/VitalikButerin/status/570859807558643712",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": ""
+  },
+  {
+    "id": "570859524426321921",
+    "timestamp": "12:14 AM - 26 Feb 2015",
+    "text": "@CameronRuggles No. And it's not indispensable for anything. And yet it substantially improves my life through ease-of-scripting every day.",
+    "link": "https://twitter.com/VitalikButerin/status/570859524426321921",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "2",
+    "replies": ""
+  },
+  {
+    "id": "570858383164645378",
+    "timestamp": "12:10 AM - 26 Feb 2015",
+    "text": "@CameronRuggles Is python a jack of all trades, master of none?",
+    "link": "https://twitter.com/VitalikButerin/status/570858383164645378",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "2",
+    "replies": "1"
+  },
+  {
+    "id": "570843974954561536",
+    "timestamp": "11:13 PM - 25 Feb 2015",
+    "text": "All my prior speeches about how \"the blockchain needs a killer app\" are hence now void; the \"killing\" will rather be death-by-thousand-cuts",
+    "link": "https://twitter.com/VitalikButerin/status/570843974954561536",
+    "is_retweet": false,
+    "retweets": "10",
+    "favorites": "16",
+    "replies": "5"
+  },
+  {
+    "id": "570843290716778496",
+    "timestamp": "11:10 PM - 25 Feb 2015",
+    "text": "The key realization is that they're indispensable for very little, but _marginally useful_ for quite a lot",
+    "link": "https://twitter.com/VitalikButerin/status/570843290716778496",
+    "is_retweet": false,
+    "retweets": "6",
+    "favorites": "9",
+    "replies": "2"
+  },
+  {
+    "id": "570842903435735041",
+    "timestamp": "11:08 PM - 25 Feb 2015",
+    "text": "@joaocesarmontei I don't hate the blockchain; I'm just switching to a more long-tail perspective on what blockchains are useful for",
+    "link": "https://twitter.com/VitalikButerin/status/570842903435735041",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "3",
+    "replies": "2"
+  },
+  {
+    "id": "570140523043938304",
+    "timestamp": "12:37 AM - 24 Feb 2015",
+    "text": "@Steve_Lockstep true, but some things are more overhyped or hyped-for-incorrect-reasons than others",
+    "link": "https://twitter.com/VitalikButerin/status/570140523043938304",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": "1"
+  },
+  {
+    "id": "569960171025371136",
+    "timestamp": "12:41 PM - 23 Feb 2015",
+    "text": "@21xhipster https://en.wikipedia.org/wiki/Segway_Inc  $100m+ cautionary tale; investment + excitement is not a guarantee of results",
+    "link": "https://twitter.com/VitalikButerin/status/569960171025371136",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "3",
+    "replies": ""
+  },
+  {
+    "id": "569958726247063552",
+    "timestamp": "12:35 PM - 23 Feb 2015",
+    "text": "@21xhipster tokens for incentivization are useful, but they'll likely be of a very different form than most current iterations",
+    "link": "https://twitter.com/VitalikButerin/status/569958726247063552",
+    "is_retweet": false,
+    "retweets": "4",
+    "favorites": "5",
+    "replies": "6"
+  },
+  {
+    "id": "569944015262629888",
+    "timestamp": "11:36 AM - 23 Feb 2015",
+    "text": "@MeherRoy databases and replicated state machines are boring, ending the fed is cool; what do you expect? :D",
+    "link": "https://twitter.com/VitalikButerin/status/569944015262629888",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "12",
+    "replies": "3"
+  },
+  {
+    "id": "569941730268717056",
+    "timestamp": "11:27 AM - 23 Feb 2015",
+    "text": "@lightcoin right, so question is what's the minimum security margin for each application. Ceiling: security margin for breaking the internet",
+    "link": "https://twitter.com/VitalikButerin/status/569941730268717056",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "4",
+    "replies": "1"
+  },
+  {
+    "id": "569940148961599488",
+    "timestamp": "11:21 AM - 23 Feb 2015",
+    "text": "@aronvanammers price of each one is proportional to salience, and that's a self-reinforcing and stable schelling point equilibrium",
+    "link": "https://twitter.com/VitalikButerin/status/569940148961599488",
+    "is_retweet": false,
+    "retweets": "3",
+    "favorites": "1",
+    "replies": ""
+  },
+  {
+    "id": "569939816114204672",
+    "timestamp": "11:20 AM - 23 Feb 2015",
+    "text": "@aronvanammers though the \"no limits therefore price -> 0\" argument is bunk; I see current altcoins being most similar to art speculation",
+    "link": "https://twitter.com/VitalikButerin/status/569939816114204672",
+    "is_retweet": false,
+    "retweets": "3",
+    "favorites": "5",
+    "replies": "2"
+  },
+  {
+    "id": "569939674514497536",
+    "timestamp": "11:19 AM - 23 Feb 2015",
+    "text": "@aronvanammers your concerns on value are justified; hence my belief we need more thinking about economic modeling of cryptotoken valuation",
+    "link": "https://twitter.com/VitalikButerin/status/569939674514497536",
+    "is_retweet": false,
+    "retweets": "3",
+    "favorites": "4",
+    "replies": "1"
+  },
+  {
+    "id": "569938693500379136",
+    "timestamp": "11:15 AM - 23 Feb 2015",
+    "text": "@lightcoin right, but keep in mind that's quite long term, since most will probably wait 20-50y to see performance wrt business cycles",
+    "link": "https://twitter.com/VitalikButerin/status/569938693500379136",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "3",
+    "replies": "1"
+  },
+  {
+    "id": "569937546727313408",
+    "timestamp": "11:11 AM - 23 Feb 2015",
+    "text": "@afafINPT sure, send email to v@ethdev.com and let's talk",
+    "link": "https://twitter.com/VitalikButerin/status/569937546727313408",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": ""
+  },
+  {
+    "id": "569937440691097600",
+    "timestamp": "11:10 AM - 23 Feb 2015",
+    "text": "@ankscricholic depends on your skills; send email with cv/whatever else you want to v@ethdev.com and will forward it on",
+    "link": "https://twitter.com/VitalikButerin/status/569937440691097600",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "2",
+    "replies": ""
+  },
+  {
+    "id": "569936889958023168",
+    "timestamp": "11:08 AM - 23 Feb 2015",
+    "text": "Except #stablecoins ; those are cool :) https://blog.ethereum.org/2014/11/11/search-stable-cryptocurrency/ … also generalized portfolio replication more risky but still FTW",
+    "link": "https://twitter.com/VitalikButerin/status/569936889958023168",
+    "is_retweet": false,
+    "retweets": "14",
+    "favorites": "13",
+    "replies": "2"
+  },
+  {
+    "id": "569936539628797953",
+    "timestamp": "11:07 AM - 23 Feb 2015",
+    "text": "my view on cryptotokens is that they are a boring industrial thing that has to exist for economic reasons, like software licenses",
+    "link": "https://twitter.com/VitalikButerin/status/569936539628797953",
+    "is_retweet": false,
+    "retweets": "15",
+    "favorites": "20",
+    "replies": "11"
+  },
+  {
+    "id": "569936267397500928",
+    "timestamp": "11:06 AM - 23 Feb 2015",
+    "text": "#blockchains are a friggin database technology; 5 years down I doubt any users will care what the underlying network token is",
+    "link": "https://twitter.com/VitalikButerin/status/569936267397500928",
+    "is_retweet": false,
+    "retweets": "68",
+    "favorites": "80",
+    "replies": "19"
+  },
+  {
+    "id": "567491141470547970",
+    "timestamp": "5:10 PM - 16 Feb 2015",
+    "text": "Another one of those cool-but-forgotten ideas from the depths of Bayesian scoring theory:http://www.slideshare.net/micmickimo/introduction-to-bayesian-truth-serum …",
+    "link": "https://twitter.com/VitalikButerin/status/567491141470547970",
+    "is_retweet": false,
+    "retweets": "6",
+    "favorites": "15",
+    "replies": "1"
+  },
+  {
+    "id": "564896550451544065",
+    "timestamp": "1:20 PM - 9 Feb 2015",
+    "text": "@buchmanster @BlueMeanie4 @ofnumbers @jgarzik We've also been forked three times. I personally am kinda proud of that :D",
+    "link": "https://twitter.com/VitalikButerin/status/564896550451544065",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "7",
+    "replies": "1"
+  },
+  {
+    "id": "564780290879799296",
+    "timestamp": "5:38 AM - 9 Feb 2015",
+    "text": "@jgarzik can you be more specific on \"new complex theories\" and \"modifications\"? Core protocol has actually changed quite little since July.",
+    "link": "https://twitter.com/VitalikButerin/status/564780290879799296",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "6",
+    "replies": "1"
+  },
+  {
+    "id": "564779390190780416",
+    "timestamp": "5:34 AM - 9 Feb 2015",
+    "text": "@BlueMeanie4 @ofnumbers @jgarzik If you have a specific criticism, will be very glad to hear it. Unfounded epithets/ad-hominems don't count.",
+    "link": "https://twitter.com/VitalikButerin/status/564779390190780416",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "5",
+    "replies": ""
+  },
+  {
+    "id": "564775764927975425",
+    "timestamp": "5:20 AM - 9 Feb 2015",
+    "text": "@dsteve5u1 actually came up with one of those too http://www.reddit.com/r/Bitcoin/comments/2k9zwj/a_review_of_bitcon_the_naked_truth_about_bitcoin/clk28bp … , although idea useful really only as theoretical construction",
+    "link": "https://twitter.com/VitalikButerin/status/564775764927975425",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "2",
+    "replies": "3"
+  },
+  {
+    "id": "563161301153632256",
+    "timestamp": "6:24 PM - 4 Feb 2015",
+    "text": "So, apparently people are already cracking post-quantum encryption algorithms and finding patches to fix the cracks: http://eprint.iacr.org/2011/506 ",
+    "link": "https://twitter.com/VitalikButerin/status/563161301153632256",
+    "is_retweet": false,
+    "retweets": "23",
+    "favorites": "34",
+    "replies": "2"
+  },
+  {
+    "id": "563158927613779968",
+    "timestamp": "6:15 PM - 4 Feb 2015",
+    "text": "Excellent summary on current research on lifestyle modifications to live longer (and healthier):  http://lesswrong.com/lw/jrt/lifestyle_interventions_to_increase_longevity/ …",
+    "link": "https://twitter.com/VitalikButerin/status/563158927613779968",
+    "is_retweet": false,
+    "retweets": "21",
+    "favorites": "32",
+    "replies": "2"
+  },
+  {
+    "id": "561332599595876353",
+    "timestamp": "5:18 PM - 30 Jan 2015",
+    "text": "@zmanian @hotelzululima was meant to be around the Oreilly conf to attract attendees, hence FC collision. Will def be better timed next time",
+    "link": "https://twitter.com/VitalikButerin/status/561332599595876353",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "2",
+    "replies": ""
+  },
+  {
+    "id": "561311929751175168",
+    "timestamp": "3:56 PM - 30 Jan 2015",
+    "text": "Paybase gave me a bag at #btcmiami. Guess what, it turned out to be a scam :) http://i.imgur.com/ChNgXXZ.jpg ",
+    "link": "https://twitter.com/VitalikButerin/status/561311929751175168",
+    "is_retweet": false,
+    "retweets": "22",
+    "favorites": "30",
+    "replies": "4"
+  },
+  {
+    "id": "558290682008199168",
+    "timestamp": "7:50 AM - 22 Jan 2015",
+    "text": "感谢少平翻译我们白的皮书最后的版本到中文 Thank you shaoping; latest ethereum whitepaper translated to Chinesehttps://github.com/ethereum/wiki/wiki/White-Paper-%5BChinese%5D …",
+    "link": "https://twitter.com/VitalikButerin/status/558290682008199168",
+    "is_retweet": false,
+    "retweets": "6",
+    "favorites": "14",
+    "replies": "1"
+  },
+  {
+    "id": "557693383670779904",
+    "timestamp": "4:17 PM - 20 Jan 2015",
+    "text": "@marccwr @coindesk @Bitcoin @Ripple Nope, Ripple does not really outperform BTC here. Every node still processes every tx in both systems",
+    "link": "https://twitter.com/VitalikButerin/status/557693383670779904",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": "2"
+  },
+  {
+    "id": "557663214952263680",
+    "timestamp": "2:17 PM - 20 Jan 2015",
+    "text": "@balajis @FEhrsam @brian_armstrong Going through a shakedown phase imo; only entities providing genuine value to users will survive+prosper",
+    "link": "https://twitter.com/VitalikButerin/status/557663214952263680",
+    "is_retweet": false,
+    "retweets": "7",
+    "favorites": "14",
+    "replies": ""
+  },
+  {
+    "id": "557662230951772160",
+    "timestamp": "2:13 PM - 20 Jan 2015",
+    "text": "@cypherdoc2 @JustusRanvier @coindesk And btw for those wondering yes I do fully realize ethereum 1.0 is not a scalability/cost solution :)",
+    "link": "https://twitter.com/VitalikButerin/status/557662230951772160",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "7",
+    "replies": ""
+  },
+  {
+    "id": "557662033978875905",
+    "timestamp": "2:12 PM - 20 Jan 2015",
+    "text": "@cypherdoc2 @JustusRanvier @coindesk Optimizations only give constant-factor improvement. Need fundamental advances in cryptoeconomic tech",
+    "link": "https://twitter.com/VitalikButerin/status/557662033978875905",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "2",
+    "replies": "1"
+  },
+  {
+    "id": "557661308280377344",
+    "timestamp": "2:09 PM - 20 Jan 2015",
+    "text": "@coindesk #TNABC to be fair those elided dots contained a lot of nuances... :) Can probly do another 100-1000x before it gets nearly so dire",
+    "link": "https://twitter.com/VitalikButerin/status/557661308280377344",
+    "is_retweet": false,
+    "retweets": "3",
+    "favorites": "2",
+    "replies": "1"
+  },
+  {
+    "id": "557656419751956485",
+    "timestamp": "1:50 PM - 20 Jan 2015",
+    "text": "@NickZeeb @gavinandresen Legitimate idea, but gains are slight (assuming EMH zero since final supply is 21m regardless of how fast it comes)",
+    "link": "https://twitter.com/VitalikButerin/status/557656419751956485",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "1",
+    "replies": ""
+  },
+  {
+    "id": "557203569796190208",
+    "timestamp": "7:50 AM - 19 Jan 2015",
+    "text": "My distillation of Credits: two separable projects, (i) a tendermint PoS implementation, (ii) federated multisig sidechains on top of it",
+    "link": "https://twitter.com/VitalikButerin/status/557203569796190208",
+    "is_retweet": false,
+    "retweets": "12",
+    "favorites": "9",
+    "replies": "3"
+  },
+  {
+    "id": "556232012055711745",
+    "timestamp": "3:30 PM - 16 Jan 2015",
+    "text": "For those who cant understand Factom, my quick distillation: it's DPOS merge-mining hash chains of arbitrary extra-protocol-interpreted data",
+    "link": "https://twitter.com/VitalikButerin/status/556232012055711745",
+    "is_retweet": false,
+    "retweets": "33",
+    "favorites": "44",
+    "replies": "13"
+  },
+  {
+    "id": "555463118147420160",
+    "timestamp": "12:35 PM - 14 Jan 2015",
+    "text": "@liondani sounds similar to my source of discomfort with seignorage shares; I think both models need to be properly experimented with",
+    "link": "https://twitter.com/VitalikButerin/status/555463118147420160",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": ""
+  },
+  {
+    "id": "555384585660293120",
+    "timestamp": "7:22 AM - 14 Jan 2015",
+    "text": "@simondlr See https://blog.ethereum.org/2014/11/11/search-stable-cryptocurrency/ … . NuBits is the stablecoin, NuShares is its associated volcoin.",
+    "link": "https://twitter.com/VitalikButerin/status/555384585660293120",
+    "is_retweet": false,
+    "retweets": "12",
+    "favorites": "8",
+    "replies": "1"
+  },
+  {
+    "id": "555382957444055041",
+    "timestamp": "7:16 AM - 14 Jan 2015",
+    "text": "NuShares up 3x from last month, probably the main winner of this crash. Look forward to continued innovation in #stablecoins in the future.",
+    "link": "https://twitter.com/VitalikButerin/status/555382957444055041",
+    "is_retweet": false,
+    "retweets": "25",
+    "favorites": "19",
+    "replies": "6"
+  },
+  {
+    "id": "552992926041534464",
+    "timestamp": "4:59 PM - 7 Jan 2015",
+    "text": "@izakaminska @dominic_w I know I know, just kidding around",
+    "link": "https://twitter.com/VitalikButerin/status/552992926041534464",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "",
+    "replies": ""
+  },
+  {
+    "id": "552992898535276544",
+    "timestamp": "4:59 PM - 7 Jan 2015",
+    "text": "Great job #SamsungCES and #IBM on Adept! Look forward to seeing this project continue to move forward http://i.imgur.com/8zXh3LL.jpg ",
+    "link": "https://twitter.com/VitalikButerin/status/552992898535276544",
+    "is_retweet": false,
+    "retweets": "29",
+    "favorites": "26",
+    "replies": "2"
+  },
+  {
+    "id": "552987842096295936",
+    "timestamp": "4:39 PM - 7 Jan 2015",
+    "text": "@dominic_w @izakaminska est vero bona idea latinam studire, potes colloqui ut nemo te intellegat et omnes te credant intellegentem esse.. :)",
+    "link": "https://twitter.com/VitalikButerin/status/552987842096295936",
+    "is_retweet": false,
+    "retweets": "2",
+    "favorites": "3",
+    "replies": "3"
+  },
+  {
+    "id": "552961718163222530",
+    "timestamp": "2:55 PM - 7 Jan 2015",
+    "text": "@izakaminska @dominic_w power law distributions are inevitable, point is to build protocols with free entry where power is not _ossified_",
+    "link": "https://twitter.com/VitalikButerin/status/552961718163222530",
+    "is_retweet": false,
+    "retweets": "7",
+    "favorites": "9",
+    "replies": "5"
+  },
+  {
+    "id": "552455776087056384",
+    "timestamp": "5:24 AM - 6 Jan 2015",
+    "text": "@TheProtocolTV @petertoddbtc sure, would be happy to; but please send requests by email as I'm not gonna check every twitter reply :)",
+    "link": "https://twitter.com/VitalikButerin/status/552455776087056384",
+    "is_retweet": false,
+    "retweets": "1",
+    "favorites": "1",
+    "replies": "1"
+  },
+  {
+    "id": "552440753621041154",
+    "timestamp": "4:25 AM - 6 Jan 2015",
+    "text": "@petertoddbtc @Bitstamp While we're on the subject let's remember https://blog.ethereum.org/2014/09/02/software-bounded-rationality/ …; proofs should be auto-validated by 3rd party code",
+    "link": "https://twitter.com/VitalikButerin/status/552440753621041154",
+    "is_retweet": false,
+    "retweets": "3",
+    "favorites": "8",
+    "replies": "2"
+  },
+  {
+    "id": "552037537716633600",
+    "timestamp": "1:43 AM - 5 Jan 2015",
+    "text": "@el33th4xor @petertoddbtc @pmarca There's an idea I had called transactions-as-PoW http://www.reddit.com/r/Bitcoin/comments/2m8sh9/am_i_missing_something_blockchain_without_bitcoin/cm272vv … , getting tx included is incentive",
+    "link": "https://twitter.com/VitalikButerin/status/552037537716633600",
+    "is_retweet": false,
+    "retweets": "8",
+    "favorites": "10",
+    "replies": "2"
+  },
+  {
+    "id": "552034302805159936",
+    "timestamp": "1:30 AM - 5 Jan 2015",
+    "text": "@pmarca Blockchains have value, plural. Blockchain designs exist that require no intrinsic currency at all, eg. TaPoW, ripple, hyperledger",
+    "link": "https://twitter.com/VitalikButerin/status/552034302805159936",
+    "is_retweet": false,
+    "retweets": "27",
+    "favorites": "38",
+    "replies": "5"
+  },
+  {
+    "id": "551171959535730688",
+    "timestamp": "4:23 PM - 2 Jan 2015",
+    "text": "New year's resolution: post on Twitter more and on G+ less. I have 6250 followers here, <300 there, so why not.",
+    "link": "https://twitter.com/VitalikButerin/status/551171959535730688",
+    "is_retweet": false,
+    "retweets": "14",
+    "favorites": "52",
+    "replies": "11"
+  }
+]
