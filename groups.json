@@ -169,7 +169,13 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/CharlieShrem/2009.json",
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/CharlieShrem/2010.json",
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/CharlieShrem/2011.json",
-                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/CharlieShrem/2012.json"
+                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/CharlieShrem/2012.json",
+                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/CharlieShrem/2013.json",
+                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/CharlieShrem/2014.json",
+                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/CharlieShrem/2015.json",
+                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/CharlieShrem/2016.json",
+                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/CharlieShrem/2017.json",
+                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/CharlieShrem/2018.json"
             ],
            "dataType" : "twitter",
            "category" : "Crypto Currency",
@@ -215,17 +221,15 @@
            "title" : "John McAfee",
            "appName" : "officialmcafee",
            "description" : "John David McAfee is a British-American computer programmer and businessman. He founded the software company McAfee Associates in 1987 and ran it until 1994, when he resigned from the company.",
-           "dataURL" : [
-                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/officialmcafee/2013.json",
-                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/officialmcafee/2014a.json",
-                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/officialmcafee/2015a.json",
-                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/officialmcafee/2016a.json",
+           "dataURL" : [                  
+                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/officialmcafee/2015.json",
+                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/officialmcafee/2016.json",
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/officialmcafee/2017a.json",
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/officialmcafee/2018a.json"
             ],
            "dataType" : "twitter",
            "category" : "Crypto Currency",
-           "isActive" : false,
+           "isActive" : true,
            "numPosts" : 2801,
            "host" : "udsr",
            "date" : "2019-06-30T11:00:00Z"},       
