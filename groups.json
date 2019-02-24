@@ -81,7 +81,14 @@
            "appName" : "bitcoin",
            "description" : "Bitcoin is a cryptocurrency, a form of electronic cash. It is a decentralized digital currency without a central bank or single administrator that can be sent from user to user on the peer-to-peer bitcoin network without the need for intermediaries.",
            "dataURL" : [                  
-                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/HistoricalData/btc.json"
+                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/HistoricalData/btc2011.json",
+                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/HistoricalData/btc2012.json",
+                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/HistoricalData/btc2013.json",
+                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/HistoricalData/btc2014.json",
+                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/HistoricalData/btc2015.json",
+                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/HistoricalData/btc2016.json",
+                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/HistoricalData/btc2017.json",
+                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/HistoricalData/btc2018.json"
             ],
            "dataType" : "historicalData",
            "category" : "Crypto Currency",
