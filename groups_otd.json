@@ -138,7 +138,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/HistoricalData/btc2018.json"
             ],
            "dataType" : "historicalData",
-           "category" : "Crypto Currency",
+           "category" : "Crypto Twitter",
            "isActive" : false,
            "numPosts" : 2723,
            "host" : "udsr",
@@ -159,7 +159,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/rogerkver/2018.json"
             ],
            "dataType" : "cryptoTwitter",
-           "category" : "Crypto Currency",
+           "category" : "Crypto Twitter",
            "isActive" : true,
            "numPosts" : 2801,
            "host" : "udsr",
@@ -174,7 +174,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/ProfFaustus/2018b.json"
             ],
            "dataType" : "cryptoTwitter",
-           "category" : "Crypto Currency",
+           "category" : "Crypto Twitter",
            "isActive" : true,
            "numPosts" : 9625,
            "host" : "udsr",
@@ -193,7 +193,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/CryptoCobain/2018a.json"
             ],
            "dataType" : "cryptoTwitter",
-           "category" : "Crypto Currency",
+           "category" : "Crypto Twitter",
            "isActive" : true,
            "numPosts" : 17349,
            "host" : "udsr",
@@ -208,7 +208,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/twobitidiot/2013.json"
             ],
            "dataType" : "cryptoTwitter",
-           "category" : "Crypto Currency",
+           "category" : "Crypto Twitter",
            "isActive" : false,
            "numPosts" : 2801,
            "host" : "udsr",
@@ -223,7 +223,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/aantonop/2013.json"
             ],
            "dataType" : "cryptoTwitter",
-           "category" : "Crypto Currency",
+           "category" : "Crypto Twitter",
            "isActive" : false,
            "numPosts" : 2801,
            "host" : "udsr",
@@ -245,7 +245,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/CharlieShrem/2018.json"
             ],
            "dataType" : "cryptoTwitter",
-           "category" : "Crypto Currency",
+           "category" : "Crypto Twitter",
            "isActive" : true,
            "numPosts" : 7606,
            "host" : "udsr",
@@ -260,7 +260,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/crypto_bobby/2018b.json"
             ],
            "dataType" : "cryptoTwitter",
-           "category" : "Crypto Currency",
+           "category" : "Crypto Twitter",
            "isActive" : false,
            "numPosts" : 2801,
            "host" : "udsr",
@@ -279,7 +279,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/VitalikButerin/2018a.json"
             ],
            "dataType" : "cryptoTwitter",
-           "category" : "Crypto Currency",
+           "category" : "Crypto Twitter",
            "isActive" : true,
            "numPosts" : 7606,
            "host" : "udsr",
@@ -295,7 +295,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/officialmcafee/2018a.json"
             ],
            "dataType" : "cryptoTwitter",
-           "category" : "Crypto Currency",
+           "category" : "Crypto Twitter",
            "isActive" : true,
            "numPosts" : 6749,
            "host" : "udsr",
