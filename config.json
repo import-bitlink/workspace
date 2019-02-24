@@ -10,7 +10,7 @@
            "region" : "stockholm",
            "UDSR_KILLSWITCH" : "false",
            "feature" : [
-              "UnderscoreToggle.true",
+              "UnderscoreToggle.false",
               "AtMentionInCopy.false",
               "StatusBarFontColor.false"
            ],
