@@ -139,7 +139,7 @@
             ],
            "dataType" : "historicalData",
            "category" : "Crypto Currency",
-           "isActive" : true,
+           "isActive" : false,
            "numPosts" : 2723,
            "host" : "udsr",
            "date" : "2019-06-30T11:00:00Z"},
