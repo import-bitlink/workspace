@@ -354,9 +354,20 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/glossary/46.json",
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/glossary/47.json",
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/glossary/48.json",
-                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/glossary/49.json",
-                  
-                  
+                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/glossary/49.json"
+            ],
+           "dataType" : "glossary",
+           "category" : "Glossary of Wikipedia",
+           "isActive" : true,
+           "numPosts" : 5000,
+           "host" : "udsr",
+           "date" : "2019-06-30T11:00:00Z"},
+       {"id" : "01ABC00WIKI032029Z",
+           "title" : "Wikiepdia Topics (Emerging Technology)",
+           "appName" : "glossary",
+           "description" : "A glossary, also known as a vocabulary or clavis, is an alphabetical list of terms in a particular domain of knowledge with the definitions for those terms. Traditionally, a glossary appears at the end of a book and includes terms within that book that are either newly introduced, uncommon, or specialized. While glossaries are most commonly associated with non-fiction books, in some cases, fiction novels may come with a glossary for unfamiliar terms.",
+           "dataURL" : [                  
+                  "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/emerging_technologies/0.json"
             ],
            "dataType" : "glossary",
            "category" : "Glossary of Wikipedia",
