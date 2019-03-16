@@ -158,7 +158,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/rogerkver/2017.json",
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/rogerkver/2018.json"
             ],
-           "dataType" : "cryptoTwitter",
+           "dataType" : "twitter_crypto",
            "category" : "Crypto Twitter",
            "isActive" : true,
            "numPosts" : 2801,
@@ -173,7 +173,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/ProfFaustus/2018a.json",
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/ProfFaustus/2018b.json"
             ],
-           "dataType" : "cryptoTwitter",
+           "dataType" : "twitter_crypto",
            "category" : "Crypto Twitter",
            "isActive" : true,
            "numPosts" : 9625,
@@ -192,7 +192,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/CryptoCobain/2017a.json",
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/CryptoCobain/2018a.json"
             ],
-           "dataType" : "cryptoTwitter",
+           "dataType" : "twitter_crypto",
            "category" : "Crypto Twitter",
            "isActive" : true,
            "numPosts" : 17349,
@@ -207,7 +207,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/twobitidiot/2014.json",
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/twobitidiot/2013.json"
             ],
-           "dataType" : "cryptoTwitter",
+           "dataType" : "twitter_crypto",
            "category" : "Crypto Twitter",
            "isActive" : false,
            "numPosts" : 2801,
@@ -222,7 +222,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/aantonop/2014.json",
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/aantonop/2013.json"
             ],
-           "dataType" : "cryptoTwitter",
+           "dataType" : "twitter_crypto",
            "category" : "Crypto Twitter",
            "isActive" : false,
            "numPosts" : 2801,
@@ -244,7 +244,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/CharlieShrem/2017.json",
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/CharlieShrem/2018.json"
             ],
-           "dataType" : "cryptoTwitter",
+           "dataType" : "twitter_crypto",
            "category" : "Crypto Twitter",
            "isActive" : true,
            "numPosts" : 7606,
@@ -259,7 +259,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/crypto_bobby/2018a.json",
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/crypto_bobby/2018b.json"
             ],
-           "dataType" : "cryptoTwitter",
+           "dataType" : "twitter_crypto",
            "category" : "Crypto Twitter",
            "isActive" : false,
            "numPosts" : 2801,
@@ -278,7 +278,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/VitalikButerin/2017a.json",
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/VitalikButerin/2018a.json"
             ],
-           "dataType" : "cryptoTwitter",
+           "dataType" : "twitter_crypto",
            "category" : "Crypto Twitter",
            "isActive" : true,
            "numPosts" : 7606,
@@ -294,7 +294,7 @@
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/officialmcafee/2017a.json",
                   "https://raw.githubusercontent.com/import-bitlink/workspace/develop/events/officialmcafee/2018a.json"
             ],
-           "dataType" : "cryptoTwitter",
+           "dataType" : "twitter_crypto",
            "category" : "Crypto Twitter",
            "isActive" : true,
            "numPosts" : 6749,
