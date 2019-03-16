@@ -301,7 +301,7 @@
            "host" : "udsr",
            "date" : "2019-06-30T11:00:00Z"},
        {"id" : "01ABC00WIKI032019Z",
-           "title" : "Wikiepdia Topics (Most Viewed)",
+           "title" : "Wikipedia Topics (Most Viewed)",
            "appName" : "glossary",
            "description" : "A glossary, also known as a vocabulary or clavis, is an alphabetical list of terms in a particular domain of knowledge with the definitions for those terms. Traditionally, a glossary appears at the end of a book and includes terms within that book that are either newly introduced, uncommon, or specialized. While glossaries are most commonly associated with non-fiction books, in some cases, fiction novels may come with a glossary for unfamiliar terms.",
            "dataURL" : [                  
@@ -363,7 +363,7 @@
            "host" : "udsr",
            "date" : "2019-06-30T11:00:00Z"},
        {"id" : "01ABC00WIKI032029Z",
-           "title" : "Wikiepdia Topics (Emerging Technology)",
+           "title" : "Wikipedia Topics (Emerging Technology)",
            "appName" : "glossary",
            "description" : "Emerging technologies are technologies whose development, practical applications, or both are still largely unrealized, such that they are figuratively emerging into prominence from a background of nonexistence or obscurity. These technologies are generally new but also include older technologies that are still controversial and relatively undeveloped in potential, such as preimplantation genetic diagnosis and gene therapy (which date to circa 1990 but even today have large undeveloped potential). Emerging technologies are often perceived as capable of changing the status quo.",
            "dataURL" : [                  
